@@ -1,0 +1,3787 @@
+{
+  "source": "English Hub Backup",
+  "type": "FULL_BACKUP",
+  "version": "2.5.0",
+  "exportedAt": "2026-10-27T00:57:29.436Z",
+  "units": {
+    "G1-U7": {
+      "title": "Unit G1-U7",
+      "grade": "1",
+      "unit": "7",
+      "label": "Unit 7",
+      "guide_page": "",
+      "textbook_page": "",
+      "category": "standard",
+      "header": {},
+      "parts": {
+        "AG5": {
+          "title": "Active Grammar 5: 動詞の過去形",
+          "views": {
+            "GRAMMAR": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "explanation_section",
+                  "header": "場面と意味 (Look Back)",
+                  "text": "ストーリーをふり返って、どんな場面で何を伝えていたかを思い出してみましょう。\n(例) 祖父母への手紙の中で、年末年始にしたことを伝えている。",
+                  "items": [
+                    {
+                      "speaker": "Tina",
+                      "en": "How were Christmas and New Year's Day?",
+                      "ja": "クリスマスと元日はどうでしたか。"
+                    },
+                    {
+                      "speaker": "Tina",
+                      "en": "I went to a famous temple in Asakusa with my friends yesterday.",
+                      "ja": "私は昨日、友達と浅草の有名なお寺に行きました。"
+                    },
+                    {
+                      "speaker": "Tina",
+                      "en": "It was fun.",
+                      "ja": "楽しかったです。"
+                    }
+                  ]
+                },
+                {
+                  "type": "pattern_summary",
+                  "header": "文の形 1: 一般動詞の過去形 (Unit 7-1, 7-2)",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "I ==**watched**== TV yesterday.",
+                      "ja": "私は昨日テレビを見ました。"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**Did**== you ==**watch**== TV this morning?",
+                      "ja": "あなたは今朝テレビを見ましたか。"
+                    },
+                    {
+                      "tag": "応答",
+                      "en": "— Yes, I ==**did**==. / No, I ==**did not**==.",
+                      "ja": "はい、見ました。／いいえ、見ませんでした。"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "I ==**did not watch**== TV this morning.",
+                      "ja": "私は今朝テレビを見ませんでした。"
+                    },
+                    {
+                      "tag": "短縮形",
+                      "text": "did not ➔ didn't"
+                    },
+                    {
+                      "tag": "ルール解説",
+                      "text": "主語の人称に関係なく、動詞に -(e)d を付けます。動詞によっては違う形になるものがあります。"
+                    }
+                  ]
+                },
+                {
+                  "type": "verb_list_section",
+                  "header": "不規則動詞の過去形一覧",
+                  "items": [
+                    {
+                      "label": "buy",
+                      "text": "buy ➔ bought"
+                    },
+                    {
+                      "label": "do",
+                      "text": "do ➔ did"
+                    },
+                    {
+                      "label": "eat",
+                      "text": "eat ➔ ate"
+                    },
+                    {
+                      "label": "go",
+                      "text": "go ➔ went"
+                    },
+                    {
+                      "label": "have",
+                      "text": "have ➔ had"
+                    },
+                    {
+                      "label": "see",
+                      "text": "see ➔ saw"
+                    }
+                  ]
+                },
+                {
+                  "type": "verb_list_section",
+                  "header": "規則動詞の過去形と発音一覧",
+                  "items": [
+                    {
+                      "label": "clean",
+                      "text": "clean ➔ cleaned /d/"
+                    },
+                    {
+                      "label": "live",
+                      "text": "live ➔ lived /d/"
+                    },
+                    {
+                      "label": "study",
+                      "text": "study ➔ studied /d/"
+                    },
+                    {
+                      "label": "talk",
+                      "text": "talk ➔ talked /t/"
+                    },
+                    {
+                      "label": "like",
+                      "text": "like ➔ liked /t/"
+                    },
+                    {
+                      "label": "want",
+                      "text": "want ➔ wanted /id/"
+                    }
+                  ]
+                },
+                {
+                  "type": "phonetics_explanation",
+                  "header": "-(e)d の発音のルールと解説",
+                  "text": "-(e)d の発音には次の3種類があります。",
+                  "items": [
+                    {
+                      "tag": "/d/",
+                      "label": "有声音の後",
+                      "text": "原形の語尾の発音が有声音のとき"
+                    },
+                    {
+                      "tag": "/t/",
+                      "label": "無声音の後",
+                      "text": "原形の語尾の発音が無声音のとき"
+                    },
+                    {
+                      "tag": "/id/",
+                      "label": "/t/, /d/ の後",
+                      "text": "原形の語尾の発音が /t/ または /d/ のとき"
+                    },
+                    {
+                      "tag": "有声音とは",
+                      "text": "「あいうえお」のように声になって出る音のことです。喉に手を当てて「あいうえお」と言うと喉が震えます。"
+                    },
+                    {
+                      "tag": "無声音とは",
+                      "text": "声になって出ない音のことです。たとえば「はー」、「すー」などと息だけ出すことがありますが、このとき喉は震えません。このような音が無声音です。"
+                    }
+                  ]
+                },
+                {
+                  "type": "pattern_summary",
+                  "header": "文の形 2: be動詞の過去形 (Unit 7-4)",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "I ==**was**== tired yesterday.",
+                      "ja": "私は昨日疲れていました。"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**Were**== you tired this morning?",
+                      "ja": "あなたは今朝疲れていましたか。"
+                    },
+                    {
+                      "tag": "応答",
+                      "en": "— Yes, I ==**was**==. / No, I ==**was not**==.",
+                      "ja": "はい、疲れていました。／いいえ、疲れていませんでした。"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "I ==**was not**== tired this morning.",
+                      "ja": "私は今朝疲れていませんでした。"
+                    },
+                    {
+                      "tag": "活用変化",
+                      "text": "am ➔ was / is ➔ was / are ➔ were"
+                    },
+                    {
+                      "tag": "短縮形",
+                      "text": "was not ➔ wasn't / were not ➔ weren't"
+                    }
+                  ]
+                },
+                {
+                  "type": "grammar_hunt",
+                  "header": "Grammar Hunt (解答例: Unit 7 Part 1)",
+                  "label": "動詞の過去形と原形",
+                  "items": [
+                    {
+                      "id": "G1_U7_AG5_H_01",
+                      "en": "I <u><b>bought</b></u> it at a temple.",
+                      "ja": "お寺で買ったんだよ。",
+                      "note": "buy (bought)"
+                    },
+                    {
+                      "id": "G1_U7_AG5_H_02",
+                      "en": "I see. I also <u><b>went</b></u> to a temple on New Year's Eve.",
+                      "ja": "なるほどね。私も大みそかにお寺に行ったよ。",
+                      "note": "go (went)"
+                    },
+                    {
+                      "id": "G1_U7_AG5_H_03",
+                      "en": "I <u><b>rang</b></u> a big bell.",
+                      "ja": "大きな鐘をついたんだ。",
+                      "note": "ring (rang)"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Extra: Unit 3 のストーリーの絵の説明 [解答例] (p.152 / 教科書p.112)",
+                  "items": [
+                    {
+                      "id": "G1_U7_AG5_E_01",
+                      "en": "Nick wanted a blue balloon at the summer festival.",
+                      "ja": "ニックは夏祭りで青い風船を欲しいと思いました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_E_02",
+                      "en": "He tried, but it was too heavy.",
+                      "ja": "彼はやってみましたが、それは重すぎました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_E_03",
+                      "en": "Kota is good at it, so he got the blue balloon for Nick.",
+                      "ja": "コウタはそれが得意なので、ニックにその青い風船を取ってあげました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_E_04",
+                      "en": "Nick was very happy.",
+                      "ja": "ニックはとても喜びました。"
+                    }
+                  ]
+                }
+              ],
+              "title": "動詞の過去形（過去の出来事や状態などを伝える言い方）",
+              "page": "151-152"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "speak_section",
+                  "header": "Speak: 週末の出来事を話そう (p.152 / 教科書p.112)",
+                  "items": [
+                    {
+                      "id": "G1_U7_AG5_S_01",
+                      "en": "How was your weekend?",
+                      "ja": "週末はどうでしたか。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_02",
+                      "speaker": "Hajin",
+                      "en": "Last weekend, I went skiing in Nagano with my sister.",
+                      "ja": "先週末、ぼくは姉［妹］と長野へスキーに行きました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_03",
+                      "speaker": "Hajin",
+                      "en": "It was my first time there.",
+                      "ja": "長野へ行くのははじめてでした。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_04",
+                      "speaker": "Hajin",
+                      "en": "It was very cold, but the mountains were so beautiful in the snow.",
+                      "ja": "とても寒かったけれど、雪の山々はとても美しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_05",
+                      "speaker": "Hajin",
+                      "en": "I skied a lot.",
+                      "ja": "ぼくはたくさん滑りました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_06",
+                      "speaker": "Hajin",
+                      "en": "After that, we ate ramen and curry and rice.",
+                      "ja": "そのあとで、ラーメンとカレーライスを食べました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_07",
+                      "speaker": "Hajin",
+                      "en": "I really enjoyed the food.",
+                      "ja": "ぼくは食べ物を本当に楽しみました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_08",
+                      "speaker": "Hajin",
+                      "en": "I had a great time.",
+                      "ja": "とてもすばらしい時間を過ごしました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_09",
+                      "speaker": "Hajin",
+                      "en": "How about your weekend?",
+                      "ja": "あなたの週末はどうでしたか。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_10",
+                      "speaker": "Hajin",
+                      "en": "Did you have fun?",
+                      "ja": "楽しかったですか。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_11",
+                      "speaker": "Hajin",
+                      "en": "What did you do?",
+                      "ja": "あなたは何をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_12",
+                      "speaker": "解答例",
+                      "en": "Last weekend, I went to Lake Biwa with my family.",
+                      "ja": "先週末、私は家族といっしょに琵琶湖へ行きました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_13",
+                      "speaker": "解答例",
+                      "en": "We visited Shirahige Shrine by the lake and I took some beautiful pictures there.",
+                      "ja": "私たちは湖のそばの白髭神社を訪れ、私はそこで美しい写真を撮りました。"
+                    },
+                    {
+                      "id": "G1_U7_AG5_S_14",
+                      "speaker": "解答例",
+                      "en": "It was a lot of fun.",
+                      "ja": "とても楽しかったです。"
+                    }
+                  ]
+                }
+              ],
+              "page": 152
+            }
+          },
+          "page": "112",
+          "textbook_page": "112",
+          "guide_page": ""
+        },
+        "AP": {
+          "title": "AI Appendix: Unit 7 総まとめ",
+          "views": {
+            "PART_APPENDIX": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "phrase_list_section",
+                  "header": "文法攻略：過去形マスターの3大鉄則",
+                  "label": "一般動詞とbe動詞の過去形まとめ",
+                  "items": [
+                    {
+                      "id": "G1_U7_AP_G_01",
+                      "tag": "鉄則1",
+                      "label": "規則動詞 (-ed) の発音ルール",
+                      "en": "cleaned /d/ (voiced), talked /t/ (voiceless), wanted /id/ (after t, d)",
+                      "ja": "語尾が有声音なら /d/、無声音なら /t/、t や d の音なら /id/ と発音します。"
+                    },
+                    {
+                      "id": "G1_U7_AP_G_02",
+                      "tag": "鉄則2",
+                      "label": "不規則動詞は日常会話の最頻出語",
+                      "en": "go-went, eat-ate, see-saw, buy-bought, ring-rang, tell-told, have-had",
+                      "ja": "決まりがない不規則変化は、使えば使うほど自然に口から出るようになります。"
+                    },
+                    {
+                      "id": "G1_U7_AP_G_03",
+                      "tag": "鉄則3",
+                      "label": "疑問文と否定文は動詞が原形に戻る",
+                      "en": "Did you eat soba? (eat is base form) / I didn't eat soba.",
+                      "ja": "Did や didn't が過去を表してくれるので、後ろの動詞は必ず「原形」に戻します。"
+                    },
+                    {
+                      "id": "G1_U7_AP_G_04",
+                      "tag": "鉄則4",
+                      "label": "be動詞の過去形 (was / were) の使い分け",
+                      "en": "I was / It was / You were / They were",
+                      "ja": "単数（I, he, she, it）は was、複数（we, they, the buildings）と you は were を使います。"
+                    }
+                  ]
+                },
+                {
+                  "type": "phrase_list_section",
+                  "header": "文化探究：日本の伝統文化を英語で説明するキラーフレーズ",
+                  "label": "外国の友達に日本の正月を伝えよう",
+                  "items": [
+                    {
+                      "id": "G1_U7_AP_C_01",
+                      "label": "年越しそばの由来",
+                      "en": "Soba is long. It's a sign of long life.",
+                      "ja": "おそばは長いです。長寿のしるし（縁起物）なんです。"
+                    },
+                    {
+                      "id": "G1_U7_AP_C_02",
+                      "label": "初詣の体験",
+                      "en": "I visited a shrine, tried omikuji, and got daikichi!",
+                      "ja": "神社を訪れておみくじを引いたら、大吉が出ました！"
+                    },
+                    {
+                      "id": "G1_U7_AP_C_03",
+                      "label": "文化の共通点（日韓比較）",
+                      "en": "Tteokguk is a rice cake soup. Japan and Korea have some things in common.",
+                      "ja": "トッククはお餅のスープです。日本と韓国には共通点がありますね。"
+                    },
+                    {
+                      "id": "G1_U7_AP_C_04",
+                      "label": "体調を崩した友達へのお見舞い",
+                      "en": "Sorry to hear that. I missed you today. Get well soon!",
+                      "ja": "それは気の毒に。今日君がいなくて寂しかったよ。早くよくなってね！"
+                    }
+                  ]
+                }
+              ],
+              "title": "パート別付録：AIサポーターの重要ポイント"
+            },
+            "UNIT_APPENDIX": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "phrase_list_section",
+                  "header": "エアメール・絵はがきの書き方ステップ",
+                  "label": "海外の友達にポストカードを送ってみよう",
+                  "items": [
+                    {
+                      "id": "G1_U7_AP_F_01",
+                      "label": "Step 1: 宛名と書き出し",
+                      "en": "Dear [Name], / Happy New Year! How are you?",
+                      "ja": "親愛なる〜へ／あけましておめでとう！ 元気ですか。"
+                    },
+                    {
+                      "id": "G1_U7_AP_F_02",
+                      "label": "Step 2: 出来事と感想 (過去形)",
+                      "en": "I went to [Place] yesterday. It was fun! The buildings were beautiful.",
+                      "ja": "昨日〜に行きました。楽しかったです！ 建物が美しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_AP_F_03",
+                      "label": "Step 3: 相手への質問・結び",
+                      "en": "How was your winter vacation? / Best wishes, / Love,",
+                      "ja": "あなたの冬休みはどうでしたか？／それでは（ご多幸を祈って）／愛を込めて"
+                    }
+                  ]
+                },
+                {
+                  "type": "phrase_list_section",
+                  "header": "Unit 7 を終えた君へ：過去を語ることで、世界と未来がつながる！",
+                  "label": "コラム：言葉のタイムマシンを手に入れた君へ",
+                  "items": [
+                    {
+                      "id": "G1_U7_AP_M_01",
+                      "label": "過去を語る力",
+                      "en": "Now you can share your memories and history with people around the world.",
+                      "ja": "「昨日何をしたか」「どんな思い出があるか」を英語で語れるようになった君は、世界中の人と本当の思い出を分かち合えるようになりました。"
+                    },
+                    {
+                      "id": "G1_U7_AP_M_02",
+                      "label": "文化の架け橋",
+                      "en": "Sharing your own culture helps you understand other cultures.",
+                      "ja": "年越しそばやお守り、初日の出の魅力を伝えることは、相手の国の文化（クリスマスや花火）を深く知ることにもつながります。"
+                    },
+                    {
+                      "id": "G1_U7_AP_M_03",
+                      "label": "さあ、次のステージへ！",
+                      "en": "Every step you took makes your English stronger. Keep going!",
+                      "ja": "不規則動詞を1つ覚えるたび、君の英語は確実にたくましくなっています。自信を持って、次のレッスンへ進みましょう！"
+                    }
+                  ]
+                }
+              ],
+              "title": "ユニット付録：英語ポストカードの黄金フォーマット ＆ メッセージ"
+            }
+          },
+          "page": 0,
+          "textbook_page": "",
+          "guide_page": "",
+          "hasAppendix": true
+        },
+        "DL5": {
+          "title": "Daily Life Scene 5: イベントの案内",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_DL5_W_01",
+                  "headword": "workshop",
+                  "pronunciation": "/ˈwɜːrkʃɑːp/",
+                  "pos": "名",
+                  "meaning": "ワークショップ"
+                },
+                {
+                  "id": "G1_U7_DL5_W_02",
+                  "headword": "unique",
+                  "pronunciation": "/juˈniːk/",
+                  "pos": "形",
+                  "meaning": "唯一の、独特の"
+                },
+                {
+                  "id": "G1_U7_DL5_W_03",
+                  "headword": "card(s)",
+                  "pronunciation": "/kɑːrd(z)/",
+                  "pos": "名",
+                  "meaning": "カード、はがき"
+                },
+                {
+                  "id": "G1_U7_DL5_W_04",
+                  "headword": "for",
+                  "pronunciation": "/fɔːr, fər/",
+                  "pos": "前",
+                  "usage": "［受益者］",
+                  "meaning": "～のために、～への"
+                },
+                {
+                  "id": "G1_U7_DL5_W_05",
+                  "headword": "greeting card(s)",
+                  "pronunciation": "/ˈɡriːtɪŋ kɑːrd(z)/",
+                  "pos": "名",
+                  "meaning": "グリーティング・カード、挨拶状［誕生日・クリスマスなどに送る］"
+                },
+                {
+                  "id": "G1_U7_DL5_W_06",
+                  "headword": "Saturday",
+                  "pronunciation": "/ˈsætərdeɪ/",
+                  "pos": "名",
+                  "meaning": "土曜日"
+                },
+                {
+                  "id": "G1_U7_DL5_W_07",
+                  "headword": "stationery",
+                  "pronunciation": "/ˈsteɪʃənɛri/",
+                  "pos": "名",
+                  "meaning": "文房具"
+                },
+                {
+                  "id": "G1_U7_DL5_W_08",
+                  "headword": "shop",
+                  "pronunciation": "/ʃɑːp/",
+                  "pos": "名",
+                  "meaning": "店、商店［小さな店に用いられるのがふつう］"
+                },
+                {
+                  "id": "G1_U7_DL5_W_09",
+                  "headword": "fee",
+                  "pronunciation": "/fiː/",
+                  "pos": "名",
+                  "meaning": "料金、会費"
+                },
+                {
+                  "id": "G1_U7_DL5_W_10",
+                  "headword": "for",
+                  "pronunciation": "/fɔːr, fər/",
+                  "pos": "前",
+                  "usage": "［比例］",
+                  "meaning": "～につき、～に対して"
+                },
+                {
+                  "id": "G1_U7_DL5_W_11",
+                  "headword": "person",
+                  "pronunciation": "/ˈpɜːrsn/",
+                  "pos": "名",
+                  "meaning": "人、人間、一個人"
+                },
+                {
+                  "id": "G1_U7_DL5_W_12",
+                  "headword": "age",
+                  "pronunciation": "/eɪdʒ/",
+                  "pos": "名",
+                  "meaning": "年齢"
+                },
+                {
+                  "id": "G1_U7_DL5_W_13",
+                  "headword": "over",
+                  "pronunciation": "/ˈoʊvər/",
+                  "pos": "前",
+                  "meaning": "～より多く、～より上で"
+                },
+                {
+                  "id": "G1_U7_DL5_W_14",
+                  "headword": "%",
+                  "pronunciation": "= percent /pərˈsɛnt/",
+                  "pos": "名",
+                  "meaning": "パーセント（%）"
+                },
+                {
+                  "id": "G1_U7_DL5_W_15",
+                  "headword": "off",
+                  "pronunciation": "/ɔːf/",
+                  "pos": "副",
+                  "meaning": "割り引いて、差し引いて"
+                },
+                {
+                  "id": "G1_U7_DL5_W_16",
+                  "headword": "only",
+                  "pronunciation": "/ˈoʊnli/",
+                  "pos": "副",
+                  "meaning": "ただ～だけ"
+                },
+                {
+                  "id": "G1_U7_DL5_W_17",
+                  "headword": "bring",
+                  "pronunciation": "/brɪŋ/",
+                  "pos": "動",
+                  "meaning": "～を持ってくる"
+                },
+                {
+                  "id": "G1_U7_DL5_W_18",
+                  "headword": "own",
+                  "pronunciation": "/oʊn/",
+                  "pos": "形",
+                  "meaning": "自分自身の"
+                },
+                {
+                  "id": "G1_U7_DL5_W_19",
+                  "headword": "scissor(s)",
+                  "pronunciation": "/ˈsɪzər(z)/",
+                  "pos": "名",
+                  "usage": "［～sで］",
+                  "meaning": "はさみ"
+                },
+                {
+                  "id": "G1_U7_DL5_W_20",
+                  "headword": "yourself",
+                  "pronunciation": "/jʊərˈsɛlf/",
+                  "pos": "代",
+                  "meaning": "あなた自身"
+                },
+                {
+                  "id": "G1_U7_DL5_W_21",
+                  "headword": "more",
+                  "pronunciation": "/mɔːr/",
+                  "pos": "形",
+                  "meaning": "より多い、より多量の"
+                },
+                {
+                  "id": "G1_U7_DL5_W_22",
+                  "headword": "for",
+                  "pronunciation": "/fɔːr, fər/",
+                  "pos": "前",
+                  "usage": "［関連］",
+                  "meaning": "～について、～に関して"
+                },
+                {
+                  "id": "G1_U7_DL5_W_23",
+                  "headword": "information",
+                  "pronunciation": "/ˌɪnfərˈmeɪʃən/",
+                  "pos": "名",
+                  "meaning": "情報"
+                },
+                {
+                  "id": "G1_U7_DL5_W_24",
+                  "headword": "write",
+                  "pronunciation": "/raɪt/",
+                  "pos": "動",
+                  "meaning": "手紙［はがき、Eメール］を書く"
+                },
+                {
+                  "id": "G1_U7_DL5_W_25",
+                  "headword": "cost",
+                  "pronunciation": "/kɔːst/",
+                  "pos": "動",
+                  "meaning": "（金額・費用が）かかる"
+                },
+                {
+                  "id": "G1_U7_DL5_W_26",
+                  "headword": "up to ~",
+                  "meaning": "（最高）～まで"
+                }
+              ],
+              "content_blocks": [],
+              "page": 154
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "phrase_list_section",
+                  "header": "イベントの案内ポスター：MS. CLARK'S WORKSHOP (p.153 / 教科書p.113)",
+                  "label": "クラークさんのワークショップ [66 words]",
+                  "items": [
+                    {
+                      "id": "G1_U7_DL5_S_01",
+                      "label": "イベント名",
+                      "en": "MS. CLARK'S WORKSHOP",
+                      "ja": "クラークさんのワークショップ"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_02",
+                      "label": "キャッチコピー",
+                      "en": "Make unique greeting cards for your friends and family!",
+                      "ja": "友達や家族にあげるあなただけのカードを作ろう！"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_03",
+                      "label": "日付",
+                      "en": "Date: Saturday, January 31",
+                      "ja": "日付：1月31日 土曜日"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_04",
+                      "label": "時間",
+                      "en": "Time: 10 a.m. to noon",
+                      "ja": "時間：午前10時から正午まで"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_05",
+                      "label": "場所",
+                      "en": "Place: Keyaki Stationery Shop",
+                      "ja": "場所：ケヤキ文具店"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_06",
+                      "label": "料金",
+                      "en": "Fee: ¥500 (for one person)",
+                      "ja": "料金：500円［1人］"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_07",
+                      "label": "割引特典",
+                      "en": "40% off! ¥300 for one person (students only)",
+                      "ja": "40%引き！ 1人300円［学生のみ］"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_08",
+                      "label": "対象年齢",
+                      "en": "Age: over 10 years old",
+                      "ja": "年齢：10歳以上"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_09",
+                      "label": "作れる枚数",
+                      "en": "You can make up to three cards.",
+                      "ja": "カードを3枚まで作れます。"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_10",
+                      "label": "持ち物",
+                      "en": "Please bring your own scissors and photos of yourself.",
+                      "ja": "自分のはさみと、自分の写った写真を持ってきてください。"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_11",
+                      "label": "問い合わせ",
+                      "en": "For more information, please write to: msclark@hwgmail.com",
+                      "ja": "さらに情報が欲しい方は、msclark@hwgmail.com までメールを送ってください。"
+                    },
+                    {
+                      "id": "G1_U7_DL5_S_12",
+                      "label": "語数",
+                      "en": "[66 words]",
+                      "ja": "[66語]"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "読解チェック 1：イベントの選択 (p.153 / 教科書p.113)",
+                  "label": "これは、どのイベントについての案内でしょうか。",
+                  "items": [
+                    {
+                      "id": "G1_U7_DL5_C_01",
+                      "tag": "選択肢1",
+                      "en": "Stationery shop sale",
+                      "ja": "文具店のセール"
+                    },
+                    {
+                      "id": "G1_U7_DL5_C_02",
+                      "tag": "選択肢2",
+                      "en": "Card making workshop",
+                      "ja": "カード作りの講習会",
+                      "note": "正解: レ"
+                    },
+                    {
+                      "id": "G1_U7_DL5_C_03",
+                      "tag": "選択肢3",
+                      "en": "Knitting class",
+                      "ja": "編み物教室"
+                    }
+                  ]
+                },
+                {
+                  "type": "dialogue_section",
+                  "header": "読解チェック 2：友達からの質問と該当箇所 (p.154 / 教科書p.113)",
+                  "label": "上の案内の中で、質問の答えが書かれた箇所",
+                  "items": [
+                    {
+                      "id": "G1_U7_DL5_C_04",
+                      "speaker": "A",
+                      "en": "How much does it cost?",
+                      "ja": "どのくらいの費用がかかりますか。",
+                      "note": "線引き箇所: Fee: ¥500 (for one person) / 40% off! ¥300 for one person (students only)"
+                    },
+                    {
+                      "id": "G1_U7_DL5_C_05",
+                      "speaker": "B",
+                      "en": "Can I make five cards?",
+                      "ja": "5枚のカードを作ってもいいですか。",
+                      "note": "線引き箇所: You can make up to three cards."
+                    }
+                  ]
+                }
+              ],
+              "page": "153-154"
+            }
+          },
+          "page": "113",
+          "textbook_page": "113",
+          "guide_page": ""
+        },
+        "EX": {
+          "title": "Extra Story / 音声内容",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_EX_W_01",
+                  "headword": "tell",
+                  "pronunciation": "/tɛl/",
+                  "pos": "動",
+                  "meaning": "（人）に話す、～を伝える"
+                },
+                {
+                  "id": "G1_U7_EX_W_02",
+                  "headword": "New Year's Day",
+                  "pronunciation": "/n(j)uː jiərz deɪ/",
+                  "pos": "名",
+                  "meaning": "元日"
+                },
+                {
+                  "id": "G1_U7_EX_W_03",
+                  "headword": "member",
+                  "pronunciation": "/ˈmɛmbər/",
+                  "pos": "名",
+                  "meaning": "メンバー"
+                },
+                {
+                  "id": "G1_U7_EX_W_04",
+                  "headword": "tteokguk",
+                  "pos": "名",
+                  "meaning": "トックク［韓国で正月に食べる料理で日本の雑煮に似ている］"
+                },
+                {
+                  "id": "G1_U7_EX_W_05",
+                  "headword": "rice cake",
+                  "pronunciation": "/raɪs keɪk/",
+                  "pos": "名",
+                  "meaning": "餅"
+                },
+                {
+                  "id": "G1_U7_EX_W_06",
+                  "headword": "soup",
+                  "pronunciation": "/suːp/",
+                  "pos": "名",
+                  "meaning": "スープ"
+                },
+                {
+                  "id": "G1_U7_EX_W_07",
+                  "headword": "get together",
+                  "meaning": "集まる"
+                },
+                {
+                  "id": "G1_U7_EX_W_08",
+                  "headword": "a kind of ~",
+                  "meaning": "～のようなもの、一種の～"
+                },
+                {
+                  "id": "G1_U7_EX_W_09",
+                  "headword": "have ~ in common",
+                  "meaning": "～を共通にもつ"
+                }
+              ],
+              "content_blocks": [],
+              "page": 146
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "story_section",
+                  "header": "Extra Story: 韓国のお正月について (p.146 / 教科書p.102)",
+                  "label": "Hajinたちが話す韓国の伝統文化",
+                  "items": [
+                    {
+                      "id": "G1_U7_EX_S_01",
+                      "speaker": "Eri",
+                      "en": "Tell us about New Year's Day in Korea.",
+                      "ja": "韓国の元日について教えて。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_02",
+                      "speaker": "Hajin",
+                      "en": "Sure.",
+                      "ja": "もちろん。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_03",
+                      "speaker": "Hajin",
+                      "en": "In Korea, it's not on January 1st.",
+                      "ja": "韓国では1月1日じゃないんだ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_04",
+                      "speaker": "Hajin",
+                      "en": "It's sometimes from late January to February.",
+                      "ja": "ときどき1月下旬から2月までにあるんだよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_05",
+                      "speaker": "Tina",
+                      "en": "So, does it change every year?",
+                      "ja": "それなら、毎年変わるってこと？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_06",
+                      "speaker": "Hajin",
+                      "en": "Yes, it does.",
+                      "ja": "うん、そうだよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_07",
+                      "speaker": "Eri",
+                      "en": "Do you eat special food on New Year's Day?",
+                      "ja": "元日に特別な食べ物は食べるのかな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_08",
+                      "speaker": "Hajin",
+                      "en": "Yes.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_09",
+                      "speaker": "Hajin",
+                      "en": "The family members get together and eat \"tteokguk.\"",
+                      "ja": "家族のメンバーが集まって「トックク」を食べるんだ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_10",
+                      "speaker": "Hajin",
+                      "en": "It's a kind of rice cake soup.",
+                      "ja": "お餅のスープみたいなものだよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_11",
+                      "speaker": "Eri",
+                      "en": "Is it like \"ozoni\" ...?",
+                      "ja": "「お雑煮」みたいな？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_12",
+                      "speaker": "Hajin",
+                      "en": "Yes, it is.",
+                      "ja": "うん、そうだね。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_13",
+                      "speaker": "Tina",
+                      "en": "So Japan and Korea have some things in common.",
+                      "ja": "じゃあ日本と韓国はいくつかのものを共通にもっているのね。"
+                    }
+                  ]
+                },
+                {
+                  "type": "audio_section",
+                  "header": "Part 1 の音声内容：Kota からの留守番電話メッセージ (p.146 / 教科書p.103)",
+                  "label": "初詣に行けなくなった Kota の連絡",
+                  "items": [
+                    {
+                      "id": "G1_U7_EX_S_14",
+                      "speaker": "Kota",
+                      "en": "Hello, Hajin.",
+                      "ja": "こんにちは、ハジン。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_15",
+                      "speaker": "Kota",
+                      "en": "This is Kota.",
+                      "ja": "コウタだよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_16",
+                      "speaker": "Kota",
+                      "en": "Happy New Year.",
+                      "ja": "あけましておめでとう。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_17",
+                      "speaker": "Kota",
+                      "en": "Unfortunately, I have a cold.",
+                      "ja": "ついてないことに風邪をひいちゃったんだ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_18",
+                      "speaker": "Kota",
+                      "en": "I'm sorry, but I can't go to hatsumode with you tomorrow.",
+                      "ja": "残念だけど、明日は君と初詣に行けない。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_19",
+                      "speaker": "Kota",
+                      "en": "Yesterday, I got up early and saw the first sunrise of the year with my family.",
+                      "ja": "昨日、早起きして家族と初日の出を見に行ったんだ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_20",
+                      "speaker": "Kota",
+                      "en": "Then I went to Honcho Green Park.",
+                      "ja": "それから本町緑公園に行った。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_21",
+                      "speaker": "Kota",
+                      "en": "I flew a kite there.",
+                      "ja": "そこでたこ揚げをしたんだ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_22",
+                      "speaker": "Kota",
+                      "en": "It was cold yesterday, so maybe I caught a cold somewhere.",
+                      "ja": "昨日は寒かったからどこかで風邪をひいたんだろうね。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_23",
+                      "speaker": "Kota",
+                      "en": "I usually like osechi, but I don't want to eat now.",
+                      "ja": "普段ならおせちが好きなんだけど、今は食べたくないや。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_24",
+                      "speaker": "Kota",
+                      "en": "Anyway, I can't go with you tomorrow.",
+                      "ja": "とにかく、明日は君といっしょに行けないってこと。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_25",
+                      "speaker": "Kota",
+                      "en": "Please say sorry to Tina and Eri for me.",
+                      "ja": "ぼくの代わりにティナとエリにごめんねって伝えておいて。"
+                    }
+                  ]
+                },
+                {
+                  "type": "audio_section",
+                  "header": "Part 2 の音声内容：Nick と Eri の対話 (p.147 / 教科書p.105)",
+                  "label": "大みそかと元日にしたこと",
+                  "items": [
+                    {
+                      "id": "G1_U7_EX_S_26",
+                      "speaker": "Eri",
+                      "en": "Hi, Nick.",
+                      "ja": "こんにちは、ニック。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_27",
+                      "speaker": "Eri",
+                      "en": "Long time no see.",
+                      "ja": "久しぶりね。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_28",
+                      "speaker": "Eri",
+                      "en": "Did you enjoy the New Year's?",
+                      "ja": "お正月は楽しめたかな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_29",
+                      "speaker": "Nick",
+                      "en": "Yes!",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_30",
+                      "speaker": "Nick",
+                      "en": "I stayed up late and visited a temple on New Year's Eve.",
+                      "ja": "大みそかは、遅くまで起きていてお寺に行ったよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_31",
+                      "speaker": "Nick",
+                      "en": "There were so many people there.",
+                      "ja": "そこはすごくたくさんの人がいたな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_32",
+                      "speaker": "Eri",
+                      "en": "It's always busy at the temples on New Year's Eve.",
+                      "ja": "大みそかのお寺は、いつも混んでいるよね。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_33",
+                      "speaker": "Nick",
+                      "en": "Did you stay up late, too?",
+                      "ja": "君も遅くまで起きていたかな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_34",
+                      "speaker": "Eri",
+                      "en": "Yes, I did.",
+                      "ja": "うん、起きていたわ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_35",
+                      "speaker": "Eri",
+                      "en": "I played karuta with my family.",
+                      "ja": "家族でかるたをしたの。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_36",
+                      "speaker": "Nick",
+                      "en": "Karuta?",
+                      "ja": "かるた？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_37",
+                      "speaker": "Nick",
+                      "en": "What's that?",
+                      "ja": "それは何かな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_38",
+                      "speaker": "Eri",
+                      "en": "It's a traditional card game.",
+                      "ja": "伝統的なカードゲームよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_39",
+                      "speaker": "Nick",
+                      "en": "I don't know that.",
+                      "ja": "知らないな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_40",
+                      "speaker": "Nick",
+                      "en": "I want to play it sometime.",
+                      "ja": "いつかやってみたいな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_41",
+                      "speaker": "Eri",
+                      "en": "By the way, did you eat anything at the temple?",
+                      "ja": "ところで、お寺では、何か食べたの。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_42",
+                      "speaker": "Nick",
+                      "en": "Tina ate soba.",
+                      "ja": "ティナはそばを食べたよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_43",
+                      "speaker": "Nick",
+                      "en": "I just drank amazake.",
+                      "ja": "ぼくは甘酒を飲んだだけだね。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_44",
+                      "speaker": "Eri",
+                      "en": "How was it?",
+                      "ja": "どうだった？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_45",
+                      "speaker": "Nick",
+                      "en": "Hmm ... I didn't like it so much.",
+                      "ja": "うーん……、ぼくはあまり好きではないな。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_46",
+                      "speaker": "Eri",
+                      "en": "I don't like it, either.",
+                      "ja": "私も好きじゃないよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_47",
+                      "speaker": "Eri",
+                      "en": "So I never drink it.",
+                      "ja": "だから飲まないわ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_48",
+                      "speaker": "Eri",
+                      "en": "How about New Year's Day?",
+                      "ja": "元日はどうだった？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_49",
+                      "speaker": "Eri",
+                      "en": "What did you do?",
+                      "ja": "何をしたの？"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_50",
+                      "speaker": "Nick",
+                      "en": "I tried calligraphy on New Year's Day.",
+                      "ja": "元日に書道をやってみたよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_51",
+                      "speaker": "Nick",
+                      "en": "Did you do that?",
+                      "ja": "君はやったの。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_52",
+                      "speaker": "Eri",
+                      "en": "No, I didn't.",
+                      "ja": "しなかったわ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_53",
+                      "speaker": "Eri",
+                      "en": "I'm not good at calligraphy.",
+                      "ja": "書道は得意じゃないの。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_54",
+                      "speaker": "Eri",
+                      "en": "What characters did you write?",
+                      "ja": "何の字を書いたの。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_55",
+                      "speaker": "Nick",
+                      "en": "I wrote \"Hatsuhinode.\"",
+                      "ja": "「はつひので」と書いたよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_56",
+                      "speaker": "Eri",
+                      "en": "That's nice!",
+                      "ja": "いいね！"
+                    }
+                  ]
+                },
+                {
+                  "type": "audio_section",
+                  "header": "Part 4 の音声内容：Ms. Thusi のスピーチ (p.148 / 教科書p.109)",
+                  "label": "クリスマスと元日の出来事・感想",
+                  "items": [
+                    {
+                      "id": "G1_U7_EX_S_57",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "Hi, everyone.",
+                      "ja": "こんにちは、みなさん。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_58",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "Did you have a good winter vacation?",
+                      "ja": "よい冬休みを過ごせましたか。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_59",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I enjoyed mine very much.",
+                      "ja": "私はとても楽しみました。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_60",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I really enjoyed Christmas.",
+                      "ja": "クリスマスを本当に楽しみました。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_61",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "On Christmas Day, I had a party at home.",
+                      "ja": "クリスマスの日には、家でパーティーをしました。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_62",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I cooked a turkey.",
+                      "ja": "七面鳥を焼いたんです。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_63",
+                      "tag": "(1)",
+                      "speaker": "Ms. Thusi",
+                      "en": "It was delicious.",
+                      "ja": "とてもおいしかったです。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_64",
+                      "tag": "(2)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I also enjoyed New Year's Day.",
+                      "ja": "元日も楽しみましたよ。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_65",
+                      "tag": "(2)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I went for a drive to Yamanashi.",
+                      "ja": "山梨県にドライブに行ったんです。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_66",
+                      "tag": "(2)",
+                      "speaker": "Ms. Thusi",
+                      "en": "I saw Mt. Fuji.",
+                      "ja": "富士山を見ました。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_67",
+                      "tag": "(2)",
+                      "speaker": "Ms. Thusi",
+                      "en": "It was a clear day, so we could see it perfectly.",
+                      "ja": "天気のいい日だったので、完璧に見ることができました。"
+                    },
+                    {
+                      "id": "G1_U7_EX_S_68",
+                      "tag": "(2)",
+                      "speaker": "Ms. Thusi",
+                      "en": "It was really beautiful.",
+                      "ja": "本当に美しかったです。"
+                    }
+                  ]
+                }
+              ],
+              "page": "146-148"
+            }
+          },
+          "page": "109",
+          "textbook_page": "109",
+          "guide_page": ""
+        },
+        "GL": {
+          "title": "Goal: 冬休みの様子をはがきで伝えよう",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_GL_W_01",
+                  "headword": "celebrate",
+                  "pronunciation": "/ˈsɛləbreɪt/",
+                  "pos": "動",
+                  "meaning": "～を祝う"
+                },
+                {
+                  "id": "G1_U7_GL_W_02",
+                  "headword": "different",
+                  "pronunciation": "/ˈdɪfərənt/",
+                  "pos": "形",
+                  "meaning": "いろいろな"
+                },
+                {
+                  "id": "G1_U7_GL_W_03",
+                  "headword": "city",
+                  "pronunciation": "/ˈsɪti/",
+                  "pos": "名",
+                  "meaning": "都市、市、（大きな）町"
+                },
+                {
+                  "id": "G1_U7_GL_W_04",
+                  "headword": "boat",
+                  "pronunciation": "/boʊt/",
+                  "pos": "名",
+                  "meaning": "ボート"
+                },
+                {
+                  "id": "G1_U7_GL_W_05",
+                  "headword": "tradition(s)",
+                  "pronunciation": "/trəˈdɪʃən(z)/",
+                  "pos": "名",
+                  "meaning": "伝統、慣習"
+                },
+                {
+                  "id": "G1_U7_GL_W_06",
+                  "headword": "best",
+                  "pronunciation": "/bɛst/",
+                  "pos": "形",
+                  "meaning": "最もよい、最高の"
+                },
+                {
+                  "id": "G1_U7_GL_W_07",
+                  "headword": "lots of ~",
+                  "meaning": "たくさんの～"
+                },
+                {
+                  "id": "G1_U7_GL_W_08",
+                  "headword": "Best wishes.",
+                  "usage": "［手紙の結びの言葉］",
+                  "meaning": "ご多幸を祈って。それでは。"
+                }
+              ],
+              "content_blocks": [],
+              "page": 149
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "postcard_section",
+                  "header": "Read: David から Kota へのはがき (p.149 / 教科書p.110)",
+                  "label": "ニューヨークからの新年の便り [69 words]",
+                  "items": [
+                    {
+                      "id": "G1_U7_GL_S_01",
+                      "speaker": "Salutation",
+                      "en": "Dear Kota,",
+                      "ja": "親愛なるコウタへ"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_02",
+                      "speaker": "David",
+                      "en": "Happy New Year!",
+                      "ja": "あけましておめでとう！"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_03",
+                      "speaker": "David",
+                      "en": "I'm in New York now.",
+                      "ja": "ぼくは今ニューヨークにいるよ。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_04",
+                      "speaker": "David",
+                      "en": "Here in New York, we celebrate the new year with lots of fireworks.",
+                      "ja": "ここニューヨークでは、新年をたくさんの花火で祝うんだ。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_05",
+                      "speaker": "David",
+                      "en": "You can see them from different places in the city.",
+                      "ja": "町のいろんなところから花火を見ることができるよ。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_06",
+                      "speaker": "David",
+                      "en": "This year, I saw them from a boat on the river with my family.",
+                      "ja": "今年は家族と川に浮かぶボートから花火を見たんだ。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_07",
+                      "speaker": "David",
+                      "en": "They were so beautiful!",
+                      "ja": "とても美しかったよ！"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_08",
+                      "speaker": "David",
+                      "en": "Did you enjoy your winter vacation?",
+                      "ja": "君は冬休みを楽しめたかい？"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_09",
+                      "speaker": "David",
+                      "en": "I'm really interested in New Year's traditions in Japan.",
+                      "ja": "日本のお正月の伝統にとっても興味があるんだ。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_10",
+                      "speaker": "Complimentary Close",
+                      "en": "Best wishes,",
+                      "ja": "それでは。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_11",
+                      "speaker": "Signature",
+                      "en": "David",
+                      "ja": "デイヴィッド"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_12",
+                      "en": "[69 words]",
+                      "ja": "[69語]"
+                    }
+                  ]
+                },
+                {
+                  "type": "check_section",
+                  "header": "読解チェック (p.149 / 教科書p.110)",
+                  "items": [
+                    {
+                      "id": "G1_U7_GL_C_01",
+                      "label": "(1) 写真の選択",
+                      "text": "David から、現地の様子を伝える写真も送られてきました。教科書p.110の写真のうち、はがきの文章に合うほうにレを付けましょう。",
+                      "note": "正解: A（川に浮かぶボートから見る花火）"
+                    },
+                    {
+                      "id": "G1_U7_GL_C_02",
+                      "label": "(2) 興味をもっていることの下線",
+                      "text": "David が特に興味をもっていることがわかる文に下線を引きましょう。",
+                      "note": "下線部: I'm really interested in New Year's traditions in Japan."
+                    }
+                  ]
+                },
+                {
+                  "type": "mind_map_section",
+                  "header": "① 伝える内容の整理図 [解答例] (p.150 / 教科書p.111)",
+                  "label": "冬休みの出来事アイデア整理マップ",
+                  "items": [
+                    {
+                      "id": "G1_U7_GL_M_00",
+                      "label": "中心テーマ",
+                      "en": "my winter vacation",
+                      "ja": "私の冬休み"
+                    },
+                    {
+                      "id": "G1_U7_GL_M_01",
+                      "label": "どこに行った（いた）かな？",
+                      "en": "visited my uncle in Nara",
+                      "ja": "奈良のおじのところ"
+                    },
+                    {
+                      "id": "G1_U7_GL_M_02",
+                      "label": "何をしたかな？",
+                      "en": "ate toshikoshi soba, went to Todaiji temple",
+                      "ja": "年越しそばを食べた、東大寺に行った"
+                    },
+                    {
+                      "id": "G1_U7_GL_M_03",
+                      "label": "どんな感想をもったかな？",
+                      "en": "the lanterns were very beautiful",
+                      "ja": "灯籠がとても美しかった"
+                    },
+                    {
+                      "id": "G1_U7_GL_M_04",
+                      "label": "何に興味があるかな？",
+                      "en": "Christmas traditions in America",
+                      "ja": "アメリカのクリスマスの伝統"
+                    }
+                  ]
+                },
+                {
+                  "type": "postcard_section",
+                  "header": "② 返書を書いて、友達と読み合おう [解答例] (p.150 / 教科書p.111)",
+                  "label": "Yui から David への返書",
+                  "items": [
+                    {
+                      "id": "G1_U7_GL_S_13",
+                      "speaker": "Salutation",
+                      "en": "Dear David,",
+                      "ja": "親愛なるデイヴィッドへ"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_14",
+                      "speaker": "Yui",
+                      "en": "Happy New Year!",
+                      "ja": "あけましておめでとう！"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_15",
+                      "speaker": "Yui",
+                      "en": "How are you?",
+                      "ja": "元気ですか。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_16",
+                      "speaker": "Yui",
+                      "en": "I enjoyed the winter vacation.",
+                      "ja": "私は冬休みを楽しみました。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_17",
+                      "speaker": "Yui",
+                      "en": "I visited my uncle in Nara.",
+                      "ja": "私は奈良のおじのところを訪ねました。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_18",
+                      "speaker": "Yui",
+                      "en": "On New Year's Eve, I ate toshikoshi soba with my family.",
+                      "ja": "大みそかに、家族と年越しそばを食べました。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_19",
+                      "speaker": "Yui",
+                      "en": "It's a Japanese New Year's custom.",
+                      "ja": "日本のお正月の風習です。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_20",
+                      "speaker": "Yui",
+                      "en": "Then I went to Todaiji temple.",
+                      "ja": "それから東大寺に行きました。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_21",
+                      "speaker": "Yui",
+                      "en": "The lanterns were very beautiful.",
+                      "ja": "灯籠がとても美しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_22",
+                      "speaker": "Yui",
+                      "en": "I'm interested in American New Year's special food.",
+                      "ja": "私はアメリカのお正月の特別な食べ物に興味があります。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_23",
+                      "speaker": "Yui",
+                      "en": "Tell me about that sometime.",
+                      "ja": "そのうち教えてください。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_24",
+                      "speaker": "Complimentary Close",
+                      "en": "Best wishes,",
+                      "ja": "それでは。"
+                    },
+                    {
+                      "id": "G1_U7_GL_S_25",
+                      "speaker": "Signature",
+                      "en": "Yui",
+                      "ja": "ユイ"
+                    }
+                  ]
+                }
+              ],
+              "page": "149-150"
+            }
+          },
+          "page": "110",
+          "textbook_page": "110",
+          "guide_page": ""
+        },
+        "P1": {
+          "title": "Part 1: 今年もよろしくね！",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_P1_W_01",
+                  "headword": "charm",
+                  "pronunciation": "/tʃɑːrm/",
+                  "pos": "名",
+                  "meaning": "お守り、飾り"
+                },
+                {
+                  "id": "G1_U7_P1_W_02",
+                  "headword": "buy",
+                  "pronunciation": "/baɪ/",
+                  "pos": "動",
+                  "meaning": "～を買う"
+                },
+                {
+                  "id": "G1_U7_P1_W_03",
+                  "headword": "bought",
+                  "pronunciation": "/bɔːt/",
+                  "pos": "動",
+                  "meaning": "buyの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_04",
+                  "headword": "temple",
+                  "pronunciation": "/ˈtɛmpl/",
+                  "pos": "名",
+                  "meaning": "寺、寺院"
+                },
+                {
+                  "id": "G1_U7_P1_W_05",
+                  "headword": "eve",
+                  "pronunciation": "/iːv/",
+                  "pos": "名",
+                  "meaning": "（祝祭日などの）前夜、前日"
+                },
+                {
+                  "id": "G1_U7_P1_W_06",
+                  "headword": "New Year's Eve",
+                  "pronunciation": "/n(j)uː jiərz iːv/",
+                  "pos": "名",
+                  "meaning": "大みそか"
+                },
+                {
+                  "id": "G1_U7_P1_W_07",
+                  "headword": "ring",
+                  "pronunciation": "/rɪŋ/",
+                  "pos": "動",
+                  "meaning": "～を鳴らす"
+                },
+                {
+                  "id": "G1_U7_P1_W_08",
+                  "headword": "rang",
+                  "pronunciation": "/ræŋ/",
+                  "pos": "動",
+                  "meaning": "ringの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_09",
+                  "headword": "TV",
+                  "pronunciation": "/tiː viː/",
+                  "pos": "名",
+                  "meaning": "テレビ"
+                },
+                {
+                  "id": "G1_U7_P1_W_10",
+                  "headword": "clean(ed)",
+                  "pronunciation": "/kliːn(d)/",
+                  "pos": "動",
+                  "meaning": "～をきれいにする、～を掃除する、～を片づける"
+                },
+                {
+                  "id": "G1_U7_P1_W_11",
+                  "headword": "up",
+                  "pronunciation": "/ʌp/",
+                  "pos": "副",
+                  "usage": "［強調］",
+                  "meaning": "完全に、まったく、すっかり"
+                },
+                {
+                  "id": "G1_U7_P1_W_12",
+                  "headword": "house",
+                  "pronunciation": "/haʊs/",
+                  "pos": "名",
+                  "meaning": "家"
+                },
+                {
+                  "id": "G1_U7_P1_W_13",
+                  "headword": "see",
+                  "pronunciation": "/siː/",
+                  "pos": "動",
+                  "meaning": "～を見る、～を見物する"
+                },
+                {
+                  "id": "G1_U7_P1_W_14",
+                  "headword": "saw",
+                  "pronunciation": "/sɔː/",
+                  "pos": "動",
+                  "meaning": "seeの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_15",
+                  "headword": "eat",
+                  "pronunciation": "/iːt/",
+                  "pos": "動",
+                  "meaning": "（～を）食べる、食事をする"
+                },
+                {
+                  "id": "G1_U7_P1_W_16",
+                  "headword": "ate",
+                  "pronunciation": "/eɪt/",
+                  "pos": "動",
+                  "meaning": "eatの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_17",
+                  "headword": "fly",
+                  "pronunciation": "/flaɪ/",
+                  "pos": "動",
+                  "meaning": "～を飛ばす、（たこなど）を揚げる"
+                },
+                {
+                  "id": "G1_U7_P1_W_18",
+                  "headword": "flew",
+                  "pronunciation": "/fluː/",
+                  "pos": "動",
+                  "meaning": "flyの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_19",
+                  "headword": "shopping",
+                  "pronunciation": "/ˈʃɑːpɪŋ/",
+                  "pos": "名",
+                  "meaning": "買い物、ショッピング"
+                },
+                {
+                  "id": "G1_U7_P1_W_20",
+                  "headword": "yesterday",
+                  "pronunciation": "/ˈjɛstərdeɪ/",
+                  "pos": "副",
+                  "meaning": "昨日（は）"
+                },
+                {
+                  "id": "G1_U7_P1_W_21",
+                  "headword": "take",
+                  "pronunciation": "/teɪk/",
+                  "pos": "動",
+                  "meaning": "取る"
+                },
+                {
+                  "id": "G1_U7_P1_W_22",
+                  "headword": "took",
+                  "pronunciation": "/tʊk/",
+                  "pos": "動",
+                  "meaning": "takeの過去形"
+                },
+                {
+                  "id": "G1_U7_P1_W_23",
+                  "headword": "part",
+                  "pronunciation": "/pɑːrt/",
+                  "pos": "名",
+                  "meaning": "部分"
+                },
+                {
+                  "id": "G1_U7_P1_W_24",
+                  "headword": "volunteer",
+                  "pronunciation": "/ˌvɑːlənˈtɪr/",
+                  "pos": "名",
+                  "meaning": "ボランティア"
+                },
+                {
+                  "id": "G1_U7_P1_W_25",
+                  "headword": "take part in ~",
+                  "meaning": "～に参加する"
+                },
+                {
+                  "id": "G1_U7_P1_W_26",
+                  "headword": "clean up ~",
+                  "meaning": "～を掃除する"
+                }
+              ],
+              "content_blocks": [],
+              "page": "135-136"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "今年もよろしくね！ (p.135 / 教科書p.102)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P1_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Tina と Hajin は、大みそかに何をしたでしょうか。",
+                      "ja": "Q. ティナとハジンは、大みそかに何をしたでしょうか。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_A1",
+                      "speaker": "Answer",
+                      "en": "A. (例) ティナはお寺に行って鐘をついた。ハジンは家で家族とテレビを見た。",
+                      "ja": "A. (例) ティナはお寺に行って鐘をついた。ハジンは家で家族とテレビを見た。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_01",
+                      "ref_num": "①",
+                      "speaker": "Tina",
+                      "en": "Happy New Year!",
+                      "ja": "あけましておめでとう！"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_02",
+                      "ref_num": "②",
+                      "speaker": "Hajin, Eri",
+                      "en": "Happy New Year, Tina!",
+                      "ja": "あけましておめでとう、ティナ！"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_03",
+                      "ref_num": "③",
+                      "speaker": "Hajin",
+                      "en": "How are you doing?",
+                      "ja": "調子はどう？"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_04",
+                      "ref_num": "④",
+                      "speaker": "Tina",
+                      "en": "I'm really good.",
+                      "ja": "とってもいいよ。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Tina",
+                      "en": "Eri, that's cute.",
+                      "ja": "エリ、それかわいいね。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Tina",
+                      "en": "What is it?",
+                      "ja": "それは何？"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Eri",
+                      "en": "It's an omamori, a good luck charm.",
+                      "ja": "「オマモリ」だよ、幸運の飾りなんだ。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Eri",
+                      "en": "I bought it at a temple.",
+                      "ja": "お寺で買ったんだよ。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Tina",
+                      "en": "I see.",
+                      "ja": "なるほどね。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Tina",
+                      "en": "I also went to a temple on New Year's Eve.",
+                      "ja": "私も大みそかにお寺に行ったよ。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "I rang a big bell.",
+                      "ja": "大きな鐘をついたんだ。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Eri",
+                      "en": "Hajin, how about you?",
+                      "ja": "ハジン、あなたはどう？"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Hajin",
+                      "en": "I didn't do much.",
+                      "ja": "大したことはしなかったね。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Hajin",
+                      "en": "I stayed home and watched TV with my family.",
+                      "ja": "家にいて家族とテレビを見ていたよ。"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Speak: 昨日したことの対話 (p.136 / 教科書p.103)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P1_S_15",
+                      "speaker": "[例] A",
+                      "en": "I went shopping with my brother yesterday. How about you?",
+                      "ja": "私は昨日、兄と買い物に行きました。あなたはどうですか。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_16",
+                      "speaker": "[例] B",
+                      "en": "I took part in volunteer activities. I cleaned up the streets.",
+                      "ja": "私はボランティア活動に参加しました。通りをきれいにしました。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_17",
+                      "speaker": "[例] A",
+                      "en": "That's great.",
+                      "ja": "それはすばらしいですね。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_18",
+                      "speaker": "[解答例] A",
+                      "en": "I played soccer in the park. How about you?",
+                      "ja": "私は公園でサッカーをしました。あなたはどうですか。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_19",
+                      "speaker": "[解答例] B",
+                      "en": "I visited my grandparents. I ate dinner with them.",
+                      "ja": "祖父母を訪ねました。彼らと夕食を食べました。"
+                    },
+                    {
+                      "id": "G1_U7_P1_S_20",
+                      "speaker": "[解答例] A",
+                      "en": "That's nice.",
+                      "ja": "それはいいですね。"
+                    }
+                  ]
+                }
+              ],
+              "page": "135-136"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G1_U7_P1_K_01",
+                  "en": "I go to school every day.",
+                  "ja": "私は毎日学校に行きます。"
+                },
+                {
+                  "id": "G1_U7_P1_K_02",
+                  "en": "I ==**went**== to a temple on New Year's Eve.",
+                  "ja": "私は大みそかにお寺に行きました。",
+                  "ref_id": "G1_U7_P1_S_10"
+                },
+                {
+                  "id": "G1_U7_P1_K_03",
+                  "en": "I watch TV with my family.",
+                  "ja": "私は家族とテレビを見ます。"
+                },
+                {
+                  "id": "G1_U7_P1_K_04",
+                  "en": "I ==**watched**== TV with my family.",
+                  "ja": "私は家族とテレビを見ました。",
+                  "ref_id": "G1_U7_P1_S_14"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "過去の出来事を言う。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "I go to school every day.",
+                      "ja": "(私は毎日学校に行きます。)",
+                      "ref_id": "G1_U7_P1_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "I ==**went**== to a temple on New Year's Eve.",
+                      "ja": "(私は大みそかにお寺に行きました。)",
+                      "ref_id": "G1_U7_P1_K_02"
+                    },
+                    {
+                      "ref_num": "③",
+                      "en": "I watch TV with my family.",
+                      "ja": "(私は家族とテレビを見ます。)",
+                      "ref_id": "G1_U7_P1_K_03"
+                    },
+                    {
+                      "ref_num": "④",
+                      "en": "I ==**watched**== TV with my family.",
+                      "ja": "(私は家族とテレビを見ました。)",
+                      "ref_id": "G1_U7_P1_K_04"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "動詞の過去形",
+                  "text": "①② 「〜しました」と過去のことを言うときは、動詞を==**過去形**==にして表します。動詞の中には、**go → went** のように不規則に変化して過去形をつくるものと、動詞の原形の語尾に **-ed** を付けて過去形をつくるものがあります。\n**go → went** のように不規則に変化する動詞を==**不規則動詞**==といいます。不規則動詞の変化には決まりがあるわけではないので、1語1語覚えていきましょう。",
+                  "items": [
+                    {
+                      "tag": "現在",
+                      "en": "I go to school every day.",
+                      "ja": "(私は毎日学校に行きます。)"
+                    },
+                    {
+                      "tag": "過去",
+                      "en": "I ==**went**== to a temple on New Year's Eve.",
+                      "ja": "(私は大みそかにお寺に行きました。)",
+                      "note": "不規則に変化する"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "規則動詞の過去形",
+                  "text": "③④ watch などの一般動詞は、**watched** のように動詞の原形の語尾に **-ed** や **-d** を付けた形を使います。このように動詞の語尾に -ed を付けて過去形をつくる動詞を==**規則動詞**==といいます。",
+                  "items": [
+                    {
+                      "tag": "現在",
+                      "en": "I watch TV with my family.",
+                      "ja": "(私は家族とテレビを見ます。)"
+                    },
+                    {
+                      "tag": "過去",
+                      "en": "I ==**watched**== TV with my family.",
+                      "ja": "(私は家族とテレビを見ました。)",
+                      "note": "動詞の原形(watch)の語尾に -ed を付ける"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G1_U7_P1G_E_01",
+                      "ref_num": "①",
+                      "en": "Happy New Year!",
+                      "note": "→教科書p.102 Key Phrases",
+                      "text": "**Happy New Year.** は、「あけましておめでとう。」という意味の新年の挨拶です。",
+                      "ref_id": "G1_U7_P1_S_01"
+                    },
+                    {
+                      "id": "G1_U7_P1G_E_02",
+                      "ref_num": "③",
+                      "en": "How are you doing?",
+                      "note": "→教科書p.102 Key Phrases",
+                      "text": "**How are you doing?** は、「お元気ですか。」という意味を表す、相手の調子をたずねる表現です。",
+                      "ref_id": "G1_U7_P1_S_03"
+                    },
+                    {
+                      "id": "G1_U7_P1G_E_03",
+                      "ref_num": "⑦⑧",
+                      "en": "It's an omamori, a good luck charm. / I bought it at a temple.",
+                      "text": "What is it? (それは何ですか。) という質問に対し、**It's an omamori.** (お守りです。) と、名前を答え、**a good luck charm** (幸運の飾り) と、どんな用途のものかを説明しています。さらに、**I bought it at a temple.** (お寺で買いました。) という情報も付け加えています。会話をふくらませるには、このように詳しい情報を付け加えると効果的です。**bought** は、不規則動詞 **buy** (買う) の過去形です。",
+                      "ref_id": "G1_U7_P1_S_07"
+                    },
+                    {
+                      "id": "G1_U7_P1G_E_04",
+                      "ref_num": "⑩",
+                      "en": "I also went to a temple on New Year's Eve.",
+                      "text": "**went** は、不規則動詞 **go** (行く) の過去形です。**on** は、曜日や日付の前に付く前置詞で、「〜に」という意味です。",
+                      "ref_id": "G1_U7_P1_S_10"
+                    },
+                    {
+                      "id": "G1_U7_P1G_E_05",
+                      "ref_num": "⑬",
+                      "en": "I didn't do much.",
+                      "text": "「〜しませんでした」と過去のことを否定して言うときは **〈主語 ＋ didn't [did not] ＋ 動詞の原形 〜.〉** の形で表します。**didn't** は did not の短縮形です。**much** は「たくさん(は)」という意味を表す副詞で、量や程度を表すときに使います。",
+                      "ref_id": "G1_U7_P1_S_13"
+                    },
+                    {
+                      "id": "G1_U7_P1G_E_06",
+                      "ref_num": "⑭",
+                      "en": "I stayed home and watched TV with my family.",
+                      "text": "**stayed** は、一般動詞 **stay** (とどまる) の、**watched** は、一般動詞 **watch** (見る) の過去形です。",
+                      "ref_id": "G1_U7_P1_S_14"
+                    }
+                  ]
+                }
+              ],
+              "page": 136,
+              "title": "Part 1 本文の解説"
+            }
+          },
+          "page": "102",
+          "textbook_page": "102",
+          "guide_page": ""
+        },
+        "P2": {
+          "title": "Part 2: 大みそかといえば…",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_P2_W_01",
+                  "headword": "traditional",
+                  "pronunciation": "/trədíʃənl/",
+                  "pos": "形",
+                  "meaning": "伝統的な"
+                },
+                {
+                  "id": "G1_U7_P2_W_02",
+                  "headword": "Japanese",
+                  "pronunciation": "/dʒæ̀pəníːz/",
+                  "pos": "名・形",
+                  "meaning": "日本(の)、日本人(の)"
+                },
+                {
+                  "id": "G1_U7_P2_W_03",
+                  "headword": "custom",
+                  "pronunciation": "/ˈkʌstəm/",
+                  "pos": "名",
+                  "meaning": "習慣、風習"
+                },
+                {
+                  "id": "G1_U7_P2_W_04",
+                  "headword": "because",
+                  "pronunciation": "/bɪkɔ́ːz, bɪkʌ́z/",
+                  "pos": "接",
+                  "meaning": "～だから、～なので"
+                },
+                {
+                  "id": "G1_U7_P2_W_05",
+                  "headword": "sign",
+                  "pronunciation": "/saɪn/",
+                  "pos": "名",
+                  "meaning": "しるし、前兆"
+                },
+                {
+                  "id": "G1_U7_P2_W_06",
+                  "headword": "life",
+                  "pronunciation": "/laɪf/",
+                  "pos": "名",
+                  "meaning": "一生、生涯、人生"
+                },
+                {
+                  "id": "G1_U7_P2_W_07",
+                  "headword": "tell",
+                  "pronunciation": "/tɛl/",
+                  "pos": "動",
+                  "meaning": "（人）に話す、～を伝える"
+                },
+                {
+                  "id": "G1_U7_P2_W_08",
+                  "headword": "told",
+                  "pronunciation": "/toʊld/",
+                  "pos": "動",
+                  "meaning": "tellの過去形"
+                },
+                {
+                  "id": "G1_U7_P2_W_09",
+                  "headword": "how",
+                  "pronunciation": "/haʊ/",
+                  "pos": "副",
+                  "usage": "［感嘆］",
+                  "meaning": "なんと、いかに"
+                },
+                {
+                  "id": "G1_U7_P2_W_10",
+                  "headword": "interesting",
+                  "pronunciation": "/ˈɪntərəstɪŋ/",
+                  "pos": "形",
+                  "meaning": "興味を引き起こす、おもしろい"
+                },
+                {
+                  "id": "G1_U7_P2_W_11",
+                  "headword": "bad",
+                  "pronunciation": "/bæd/",
+                  "pos": "形",
+                  "meaning": "気の毒で"
+                },
+                {
+                  "id": "G1_U7_P2_W_12",
+                  "headword": "poor",
+                  "pronunciation": "/pʊər/",
+                  "pos": "形",
+                  "meaning": "哀れな、かわいそうな"
+                },
+                {
+                  "id": "G1_U7_P2_W_13",
+                  "headword": "by the way",
+                  "meaning": "ところで"
+                },
+                {
+                  "id": "G1_U7_P2_W_14",
+                  "headword": "day",
+                  "pronunciation": "/deɪ/",
+                  "pos": "名",
+                  "usage": "［しばしば D～で］",
+                  "meaning": "祝日、祭日"
+                },
+                {
+                  "id": "G1_U7_P2_W_15",
+                  "headword": "stay",
+                  "pronunciation": "/steɪ/",
+                  "pos": "動",
+                  "meaning": "～の（状態の）ままでいる"
+                },
+                {
+                  "id": "G1_U7_P2_W_16",
+                  "headword": "up",
+                  "pronunciation": "/ʌp/",
+                  "pos": "副",
+                  "usage": "［状態・位置］",
+                  "meaning": "起きていて"
+                },
+                {
+                  "id": "G1_U7_P2_W_17",
+                  "headword": "drink",
+                  "pronunciation": "/drɪŋk/",
+                  "pos": "動",
+                  "meaning": "～を飲む"
+                },
+                {
+                  "id": "G1_U7_P2_W_18",
+                  "headword": "comedy",
+                  "pronunciation": "/ˈkɑːmədi/",
+                  "pos": "名",
+                  "meaning": "コメディー、喜劇"
+                },
+                {
+                  "id": "G1_U7_P2_W_19",
+                  "headword": "New Year's Day",
+                  "pronunciation": "/n(j)uː jiərz deɪ/",
+                  "pos": "名",
+                  "meaning": "元日"
+                },
+                {
+                  "id": "G1_U7_P2_W_20",
+                  "headword": "stay up",
+                  "meaning": "（寝ないで）起きている"
+                }
+              ],
+              "content_blocks": [],
+              "page": "137-138"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "大みそかといえば… (p.137 / 教科書p.104)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P2_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. 大みそかに食べるものについて、Tina と Eri はどのような説明をしましたか。",
+                      "ja": "Q. 大みそかに食べるものについて、ティナとエリはどのような説明をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_A1",
+                      "speaker": "Answer",
+                      "en": "A. (例) 年越しそばといって、長寿のしるしであるそばを食べることが日本の風習だということ。",
+                      "ja": "A. (例) 年越しそばといって、長寿のしるしであるそばを食べることが日本の風習だということ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_01",
+                      "ref_num": "①",
+                      "speaker": "Eri",
+                      "en": "Did you eat any traditional food?",
+                      "ja": "何か伝統的な食べ物は食べた？"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_02",
+                      "ref_num": "②",
+                      "speaker": "Tina",
+                      "en": "Yes, I did.",
+                      "ja": "うん、食べた。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_03",
+                      "ref_num": "③",
+                      "speaker": "Tina",
+                      "en": "I ate toshikoshi soba.",
+                      "ja": "年越しそばを食べたよ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_04",
+                      "ref_num": "④",
+                      "speaker": "Hajin",
+                      "en": "Toshi ... what?",
+                      "ja": "トシ……何？"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Eri",
+                      "en": "Toshikoshi soba.",
+                      "ja": "年越しそば。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Eri",
+                      "en": "We eat soba on New Year's Eve.",
+                      "ja": "大みそかにおそばを食べるの。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Eri",
+                      "en": "It's a Japanese custom.",
+                      "ja": "日本の風習なんだよ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Hajin",
+                      "en": "Why soba?",
+                      "ja": "どうしておそばを？"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Tina",
+                      "en": "Because soba is long.",
+                      "ja": "おそばは長いから。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Tina",
+                      "en": "It's a sign of long life.",
+                      "ja": "長寿のしるしなんだよ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "My father told me.",
+                      "ja": "お父さんが教えてくれたんだ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Hajin",
+                      "en": "I didn't know that.",
+                      "ja": "それは知らなかった。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Hajin",
+                      "en": "How interesting!",
+                      "ja": "なんておもしろいんだ！"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Tina",
+                      "en": "By the way, where's Kota?",
+                      "ja": "ところで、コウタはどこ？"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_15",
+                      "ref_num": "⑮",
+                      "speaker": "Hajin",
+                      "en": "He's at home.",
+                      "ja": "家にいるよ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_16",
+                      "ref_num": "⑯",
+                      "speaker": "Hajin",
+                      "en": "He has a cold.",
+                      "ja": "風邪をひいてるんだ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_17",
+                      "ref_num": "⑰",
+                      "speaker": "Tina",
+                      "en": "Oh, that's too bad.",
+                      "ja": "ええ、それは残念。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_18",
+                      "ref_num": "⑱",
+                      "speaker": "Tina",
+                      "en": "Poor Kota.",
+                      "ja": "かわいそうなコウタ。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_19",
+                      "speaker": "You're the Writer!",
+                      "en": "I want to talk with him.",
+                      "ja": "(解答例) 彼と話したいな。"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Speak: 元日にしたことのインタビュー (p.138 / 教科書p.105)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P2_S_20",
+                      "speaker": "[例] A",
+                      "en": "Did you eat any traditional food on New Year's Day?",
+                      "ja": "あなたは元日に伝統的な食べ物を食べましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_21",
+                      "speaker": "[例] B",
+                      "en": "Yes, I did.",
+                      "ja": "はい、食べました。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_22",
+                      "speaker": "[例] B",
+                      "en": "No, I didn't.",
+                      "ja": "(または) いいえ、食べませんでした。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_23",
+                      "speaker": "[例] A",
+                      "en": "What did you eat?",
+                      "ja": "何を食べましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_24",
+                      "speaker": "[例] B",
+                      "en": "I ate some mochi.",
+                      "ja": "お餅を食べました。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_25",
+                      "speaker": "[解答例] A",
+                      "en": "Did you play any traditional games on New Year's Day?",
+                      "ja": "あなたは元日に伝統的なゲームをしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_26",
+                      "speaker": "[解答例] B",
+                      "en": "Yes, I did.",
+                      "ja": "はい、しました。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_27",
+                      "speaker": "[解答例] A",
+                      "en": "What did you play?",
+                      "ja": "何をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_28",
+                      "speaker": "[解答例] B",
+                      "en": "I played karuta.",
+                      "ja": "かるたをしました。"
+                    },
+                    {
+                      "id": "G1_U7_P2_S_29",
+                      "speaker": "Write [解答例]",
+                      "en": "Did you make osechi on New Year's Eve?",
+                      "ja": "大みそかにおせちを作りましたか。"
+                    }
+                  ]
+                }
+              ],
+              "page": "137-138"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G1_U7_P2_K_01",
+                  "en": "I ate toshikoshi soba.",
+                  "ja": "私は年越しそばを食べました。",
+                  "ref_id": "G1_U7_P2_S_03"
+                },
+                {
+                  "id": "G1_U7_P2_K_02",
+                  "en": "==**Did you eat**== any traditional food?",
+                  "ja": "何か伝統的な料理を食べましたか。",
+                  "ref_id": "G1_U7_P2_S_01"
+                },
+                {
+                  "id": "G1_U7_P2_K_03",
+                  "en": "— Yes, I ==**did**==. / No, I ==**didn't**==.",
+                  "ja": "はい、食べました。／いいえ、食べませんでした。",
+                  "ref_id": "G1_U7_P2_S_02"
+                },
+                {
+                  "id": "G1_U7_P2_K_04",
+                  "en": "I ==**didn't eat**== any traditional food.",
+                  "ja": "伝統的な料理は何も食べませんでした。"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "過去の出来事についてたずねる。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "I ate toshikoshi soba.",
+                      "ja": "(私は年越しそばを食べました。)",
+                      "ref_id": "G1_U7_P2_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "==**Did you eat**== any traditional food?",
+                      "ja": "(何か伝統的な料理を食べましたか。)",
+                      "ref_id": "G1_U7_P2_K_02"
+                    },
+                    {
+                      "ref_num": "③",
+                      "en": "— Yes, I ==**did**==. / No, I ==**didn't**==.",
+                      "ja": "(はい、食べました。／いいえ、食べませんでした。)",
+                      "ref_id": "G1_U7_P2_K_03"
+                    },
+                    {
+                      "ref_num": "④",
+                      "en": "I ==**didn't eat**== any traditional food.",
+                      "ja": "(伝統的な料理は何も食べませんでした。)",
+                      "ref_id": "G1_U7_P2_K_04"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "did と didn't",
+                  "text": "①② 「〜しましたか」と過去のことについてたずねるときは、==**Did**== を主語の前に置いて ==**〈Did ＋ 主語 ＋ 動詞の原形 〜?〉**==の形で表します。このとき、動詞は原形を使います。\n③ Did 〜? の疑問文には、**did** を使って答えます。Yes のときは **〈Yes, 主語 ＋ did.〉**、No のときは **〈No, 主語 ＋ didn't.〉** の形で答えます。\n④ 過去の文を「〜しませんでした」という否定文にするときは、動詞の前に ==**didn't**== を置き、==**〈主語 ＋ didn't [did not] ＋ 動詞の原形 〜.〉**==の語順になります。didn't の後の動詞は原形にします。",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "She ==**ate**== osechi.",
+                      "ja": "(彼女はおせちを食べました。)"
+                    },
+                    {
+                      "tag": "疑問文",
+                      "en": "==**Did**== she ==**eat**== osechi?",
+                      "ja": "(彼女はおせちを食べましたか。)",
+                      "note": "主語の前に Did を置く、動詞は原形にする"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "I ==**didn't eat**== osechi.",
+                      "ja": "(私はおせちを食べませんでした。)",
+                      "note": "動詞の前に didn't を置く、動詞は原形にする"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G1_U7_P2G_E_01",
+                      "ref_num": "①",
+                      "en": "Did you eat any traditional food?",
+                      "text": "〈Did ＋ 主語 ＋ 動詞の原形 〜?〉の形の「〜しましたか。」と過去の出来事をたずねる文です。このとき、動詞は原形を使うことに注意しましょう。",
+                      "ref_id": "G1_U7_P2_S_01"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_02",
+                      "ref_num": "②",
+                      "en": "Yes, I did.",
+                      "text": "Did 〜? の疑問文には、**did** を使って答えます。",
+                      "ref_id": "G1_U7_P2_S_02"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_03",
+                      "ref_num": "③⑪",
+                      "en": "I ate toshikoshi soba. / My father told me.",
+                      "text": "③の **ate** は eat（〜を食べる）の過去形で、不規則に変化する不規則動詞です。⑪の **told** は tell（〜を話す）の過去形で、不規則動詞です。",
+                      "ref_id": "G1_U7_P2_S_03"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_04",
+                      "ref_num": "④",
+                      "en": "Toshi ... what?",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "**〜 what?** は「〜って？…何？」という意味を表す、相手が言ったことを聞き取れなかったり理解できなかったりしたときに、確認するときの表現です。",
+                      "ref_id": "G1_U7_P2_S_04"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_05",
+                      "ref_num": "⑧⑨",
+                      "en": "Why soba? / Because soba is long.",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "⑧の **Why 〜?** は「どうして〜ですか。」と相手に理由をたずねる疑問文です。それに対し、理由を答えるときは、⑨のように **Because ....** と答えます。**because** は「〜だから…、〜なので…」という意味を表す接続詞です。",
+                      "ref_id": "G1_U7_P2_S_08"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_06",
+                      "ref_num": "⑫",
+                      "en": "I didn't know that.",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "**I didn't know that.** は、「それは知りませんでした。」という意味の表現です。",
+                      "ref_id": "G1_U7_P2_S_12"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_07",
+                      "ref_num": "⑬",
+                      "en": "How interesting!",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "〈How ＋ 形容詞［副詞］!〉の形で、「なんて〜だ。」と感嘆の意味を表します。",
+                      "ref_id": "G1_U7_P2_S_13"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_08",
+                      "ref_num": "⑰",
+                      "en": "Oh, that's too bad.",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "**too bad** は「あいにくで、気の毒で」という意味で、**That's too bad.** は、「残念だ。」と相手に同情したり、気遣ったりするときに使います。",
+                      "ref_id": "G1_U7_P2_S_17"
+                    },
+                    {
+                      "id": "G1_U7_P2G_E_09",
+                      "ref_num": "⑱",
+                      "en": "Poor Kota.",
+                      "note": "→教科書p.104 Key Phrases",
+                      "text": "**Poor 〜.** 「かわいそうな〜。」と同情するときに使います。",
+                      "ref_id": "G1_U7_P2_S_18"
+                    }
+                  ]
+                }
+              ],
+              "page": 138,
+              "title": "Part 2 本文の解説"
+            }
+          },
+          "page": "104",
+          "textbook_page": "104",
+          "guide_page": ""
+        },
+        "P3": {
+          "title": "Part 3: みんなで初詣",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_P3_W_01",
+                  "headword": "what",
+                  "pronunciation": "/hwʌ́t/",
+                  "pos": "形",
+                  "usage": "［感嘆的に］",
+                  "meaning": "なんと、いう"
+                },
+                {
+                  "id": "G1_U7_P3_W_02",
+                  "headword": "lantern",
+                  "pronunciation": "/ˈlæntərn/",
+                  "pos": "名",
+                  "meaning": "ちょうちん"
+                },
+                {
+                  "id": "G1_U7_P3_W_03",
+                  "headword": "wish",
+                  "pronunciation": "/wɪʃ/",
+                  "pos": "名",
+                  "meaning": "願いごと、願い、望み"
+                },
+                {
+                  "id": "G1_U7_P3_W_04",
+                  "headword": "secret",
+                  "pronunciation": "/ˈsiːkrət/",
+                  "pos": "名",
+                  "meaning": "秘密"
+                },
+                {
+                  "id": "G1_U7_P3_W_05",
+                  "headword": "chat",
+                  "pronunciation": "/tʃæt/",
+                  "pos": "名",
+                  "meaning": "（オンラインでの）チャット"
+                },
+                {
+                  "id": "G1_U7_P3_W_06",
+                  "headword": "still",
+                  "pronunciation": "/stɪl/",
+                  "pos": "副",
+                  "meaning": "まだ、なお、相変わらず"
+                },
+                {
+                  "id": "G1_U7_P3_W_07",
+                  "headword": "fever",
+                  "pronunciation": "/ˈfiːvər/",
+                  "pos": "名",
+                  "meaning": "熱、発熱"
+                },
+                {
+                  "id": "G1_U7_P3_W_08",
+                  "headword": "sorry",
+                  "pronunciation": "/ˈsɑːri/",
+                  "pos": "形",
+                  "meaning": "気の毒で、かわいそうで"
+                },
+                {
+                  "id": "G1_U7_P3_W_09",
+                  "headword": "hear",
+                  "pronunciation": "/hɪər/",
+                  "pos": "動",
+                  "meaning": "～を聞く、～が聞こえる"
+                },
+                {
+                  "id": "G1_U7_P3_W_10",
+                  "headword": "drink",
+                  "pronunciation": "/drɪŋk/",
+                  "pos": "動",
+                  "meaning": "～を飲む"
+                },
+                {
+                  "id": "G1_U7_P3_W_11",
+                  "headword": "drank",
+                  "pronunciation": "/dræŋk/",
+                  "pos": "動",
+                  "meaning": "drinkの過去形"
+                },
+                {
+                  "id": "G1_U7_P3_W_12",
+                  "headword": "lucky",
+                  "pronunciation": "/ˈlʌki/",
+                  "pos": "形",
+                  "meaning": "運のよい、幸運な"
+                },
+                {
+                  "id": "G1_U7_P3_W_13",
+                  "headword": "miss",
+                  "pronunciation": "/mɪs/",
+                  "pos": "動",
+                  "meaning": "～がいないのを寂しく思う"
+                },
+                {
+                  "id": "G1_U7_P3_W_14",
+                  "headword": "well",
+                  "pronunciation": "/wɛl/",
+                  "pos": "形",
+                  "meaning": "健康な、体の調子がよい"
+                },
+                {
+                  "id": "G1_U7_P3_W_15",
+                  "headword": "soon",
+                  "pronunciation": "/suːn/",
+                  "pos": "副",
+                  "meaning": "早く、すぐ"
+                },
+                {
+                  "id": "G1_U7_P3_W_16",
+                  "headword": "have a fever",
+                  "meaning": "（高）熱がある"
+                },
+                {
+                  "id": "G1_U7_P3_W_17",
+                  "headword": "take a photo [photos]",
+                  "meaning": "写真を撮る"
+                },
+                {
+                  "id": "G1_U7_P3_W_18",
+                  "headword": "get well",
+                  "meaning": "元気になる"
+                }
+              ],
+              "content_blocks": [],
+              "page": 139
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "みんなで初詣 (p.139 / 教科書pp.106-107)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P3_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Kota の具合はどうでしょうか。",
+                      "ja": "Q. コウタの具合はどうでしょうか。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_A1",
+                      "speaker": "Answer",
+                      "en": "A. (例) あまりよくなく、熱がある。",
+                      "ja": "A. (例) あまりよくなく、熱がある。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_01",
+                      "ref_num": "①",
+                      "speaker": "Setting",
+                      "en": "At Sensoji Temple, Asakusa:",
+                      "ja": "浅草、浅草寺で："
+                    },
+                    {
+                      "id": "G1_U7_P3_S_02",
+                      "ref_num": "②",
+                      "speaker": "Tina",
+                      "en": "What a big lantern!",
+                      "ja": "なんて大きなちょうちんなの！"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_03",
+                      "ref_num": "③",
+                      "speaker": "Hajin",
+                      "en": "What's your wish?",
+                      "ja": "君の願い事は何？"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_04",
+                      "ref_num": "④",
+                      "speaker": "Tina",
+                      "en": "It's a secret.",
+                      "ja": "秘密だよ。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Setting",
+                      "en": "On a chat:",
+                      "ja": "チャットで："
+                    },
+                    {
+                      "id": "G1_U7_P3_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Tina",
+                      "en": "How are you?",
+                      "ja": "気分はどう？"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Kota",
+                      "en": "Not so good.",
+                      "ja": "あまりよくない。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Kota",
+                      "en": "I still have a fever.",
+                      "ja": "まだ熱があるんだ。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Tina",
+                      "en": "Sorry to hear that.",
+                      "ja": "それは気の毒に。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Kota",
+                      "en": "Did you enjoy hatsumode?",
+                      "ja": "初詣は楽しんだ？"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "Yes!",
+                      "ja": "うん！"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Tina",
+                      "en": "I tried omikuji and drank amazake!",
+                      "ja": "おみくじを引いてみて、甘酒を飲んだよ。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Kota",
+                      "en": "Did you take any photos?",
+                      "ja": "写真は撮った？"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Tina",
+                      "en": "Sure!",
+                      "ja": "もちろん！"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_15",
+                      "ref_num": "⑮",
+                      "speaker": "Kota",
+                      "en": "Daikichi!",
+                      "ja": "大吉！"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_16",
+                      "ref_num": "⑯",
+                      "speaker": "Kota",
+                      "en": "Lucky you! ;-)",
+                      "ja": "ついてるね！ ;-)"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_17",
+                      "ref_num": "⑰",
+                      "speaker": "Tina",
+                      "en": "Yeah.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_18",
+                      "ref_num": "⑱",
+                      "speaker": "Tina",
+                      "en": "But I missed you.",
+                      "ja": "でも、コウタがいなくて寂しかったよ。"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_19",
+                      "ref_num": "⑲",
+                      "speaker": "Tina",
+                      "en": "Get well soon!",
+                      "ja": "早くよくなってね！"
+                    },
+                    {
+                      "id": "G1_U7_P3_S_20",
+                      "speaker": "You're the Writer!",
+                      "en": "You are kind. Thank you.",
+                      "ja": "(解答例) 君は優しいね。ありがとう。"
+                    }
+                  ]
+                }
+              ],
+              "page": 139
+            },
+            "GRAMMAR": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G1_U7_P3G_E_01",
+                      "ref_num": "②",
+                      "en": "What a big lantern!",
+                      "note": "→教科書p.107 Key Phrases",
+                      "text": "**What 〜!** は **〈What a [an] ＋ 形容詞 ＋ 名詞!〉** の形で、How 〜! と同様に「なんて〜なんだ。」という感嘆の意味を表します。",
+                      "ref_id": "G1_U7_P3_S_02"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_02",
+                      "ref_num": "⑥",
+                      "en": "How are you?",
+                      "text": "この文の **How** は「どんな具合で、どんな状態で」という意味で、健康状態や様子をたずねています。how はいろいろな意味で使われますから、前後の内容から判断しましょう。",
+                      "ref_id": "G1_U7_P3_S_06"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_03",
+                      "ref_num": "⑧",
+                      "en": "I still have a fever.",
+                      "text": "**have a fever** は、「熱がある」という意味の表現です。**still** は、「まだ」という意味の副詞です。",
+                      "ref_id": "G1_U7_P3_S_08"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_04",
+                      "ref_num": "⑨",
+                      "en": "Sorry to hear that.",
+                      "note": "→教科書p.107 Key Phrases",
+                      "text": "**Sorry to hear that.** は「それは残念だね。」という意味の表現です。",
+                      "ref_id": "G1_U7_P3_S_09"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_05",
+                      "ref_num": "⑫",
+                      "en": "I tried omikuji and drank amazake!",
+                      "text": "**tried** は、一般動詞 try（〜をやってみる）の過去形です。**drank** は、一般動詞 drink（〜を飲む）の過去形です。",
+                      "ref_id": "G1_U7_P3_S_12"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_06",
+                      "ref_num": "⑯",
+                      "en": "Lucky you! ;-)",
+                      "note": "→教科書p.107 Key Phrases",
+                      "text": "**Lucky you!** は、「ついてるね。」と羨む表現です。**;-)** は、英語の顔文字で、横向きで使われます。",
+                      "ref_id": "G1_U7_P3_S_16"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_07",
+                      "ref_num": "⑱",
+                      "en": "But I missed you.",
+                      "text": "**missed** は、一般動詞 miss の過去形です。**miss** は後に人・ものがきて、「〜がない［いない］ので寂しく思う」という意味を表します。会話でよく使いますから、覚えておきましょう。",
+                      "ref_id": "G1_U7_P3_S_18"
+                    },
+                    {
+                      "id": "G1_U7_P3G_E_08",
+                      "ref_num": "⑲",
+                      "en": "Get well soon!",
+                      "note": "→教科書p.107 Key Phrases",
+                      "text": "**Get well soon!** は、「早くよくなってね。」という意味で、お見舞いのときに使う表現です。",
+                      "ref_id": "G1_U7_P3_S_19"
+                    }
+                  ]
+                }
+              ],
+              "title": "Part 3 本文の解説",
+              "page": 144
+            }
+          },
+          "page": "106",
+          "textbook_page": "106",
+          "guide_page": ""
+        },
+        "P4": {
+          "title": "Part 4: こんなことがあったよ",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_P4_W_01",
+                  "headword": "dear",
+                  "pronunciation": "/dɪər/",
+                  "pos": "形",
+                  "usage": "［手紙などの書き出し、呼びかけで］",
+                  "meaning": "～様、親愛なる～"
+                },
+                {
+                  "id": "G1_U7_P4_W_02",
+                  "headword": "hope",
+                  "pronunciation": "/hoʊp/",
+                  "pos": "動",
+                  "meaning": "～を望む、～を願う"
+                },
+                {
+                  "id": "G1_U7_P4_W_03",
+                  "headword": "present",
+                  "pronunciation": "/ˈprɛznt/",
+                  "pos": "名",
+                  "meaning": "贈り物、プレゼント"
+                },
+                {
+                  "id": "G1_U7_P4_W_04",
+                  "headword": "were",
+                  "pronunciation": "/wər, wɜːr/",
+                  "pos": "動",
+                  "meaning": "areの過去形"
+                },
+                {
+                  "id": "G1_U7_P4_W_05",
+                  "headword": "some",
+                  "pronunciation": "/sʌm, səm/",
+                  "pos": "形",
+                  "meaning": "なかには（～もいる［ある］）、一部の"
+                },
+                {
+                  "id": "G1_U7_P4_W_06",
+                  "headword": "people",
+                  "pronunciation": "/ˈpiːpl/",
+                  "pos": "名",
+                  "meaning": "人々"
+                },
+                {
+                  "id": "G1_U7_P4_W_07",
+                  "headword": "in",
+                  "pronunciation": "/ɪn/",
+                  "pos": "前",
+                  "usage": "［着用］",
+                  "meaning": "～を身につけて"
+                },
+                {
+                  "id": "G1_U7_P4_W_08",
+                  "headword": "atmosphere",
+                  "pronunciation": "/ˈætməsfɪr/",
+                  "pos": "名",
+                  "meaning": "雰囲気"
+                },
+                {
+                  "id": "G1_U7_P4_W_09",
+                  "headword": "this",
+                  "pronunciation": "/ðɪs/",
+                  "pos": "代",
+                  "meaning": "この、今～、次の、今度の"
+                },
+                {
+                  "id": "G1_U7_P4_W_10",
+                  "headword": "love",
+                  "pronunciation": "/lʌv/",
+                  "pos": "名",
+                  "usage": "［親しい人への手紙などの結び］",
+                  "meaning": "愛を込めて"
+                },
+                {
+                  "id": "G1_U7_P4_W_11",
+                  "headword": "Mrs.",
+                  "pronunciation": "/ˈmɪsɪz/",
+                  "pos": "名",
+                  "usage": "［既婚女性の姓・姓名の前で］",
+                  "meaning": "～さん、～夫人"
+                },
+                {
+                  "id": "G1_U7_P4_W_12",
+                  "headword": "east",
+                  "pronunciation": "/iːst/",
+                  "pos": "名",
+                  "meaning": "東、東方"
+                },
+                {
+                  "id": "G1_U7_P4_W_13",
+                  "headword": "street",
+                  "pronunciation": "/striːt/",
+                  "pos": "名",
+                  "usage": "［～Streetで］",
+                  "meaning": "～通り、～街"
+                },
+                {
+                  "id": "G1_U7_P4_W_14",
+                  "headword": "NY",
+                  "pos": "略",
+                  "meaning": "ニューヨーク（市［州］）［New Yorkの略］"
+                },
+                {
+                  "id": "G1_U7_P4_W_15",
+                  "headword": "U.S.A.",
+                  "pronunciation": "/juː ɛs ˈeɪ/",
+                  "pos": "略",
+                  "usage": "［theを付けて］",
+                  "meaning": "アメリカ合衆国［the United States of Americaの略］"
+                },
+                {
+                  "id": "G1_U7_P4_W_16",
+                  "headword": "air mail",
+                  "pronunciation": "/ɛər meɪl/",
+                  "pos": "名",
+                  "meaning": "航空郵便"
+                },
+                {
+                  "id": "G1_U7_P4_W_17",
+                  "headword": "Thank you for ~.",
+                  "meaning": "～をありがとう（ございます）。"
+                },
+                {
+                  "id": "G1_U7_P4_W_18",
+                  "headword": "this year",
+                  "meaning": "今年"
+                },
+                {
+                  "id": "G1_U7_P4_W_19",
+                  "headword": "wonderful",
+                  "pronunciation": "/ˈwʌndərfəl/",
+                  "pos": "形",
+                  "meaning": "すばらしい、すてきな、見事な"
+                },
+                {
+                  "id": "G1_U7_P4_W_20",
+                  "headword": "delicious",
+                  "pronunciation": "/dɪˈlɪʃəs/",
+                  "pos": "形",
+                  "meaning": "とてもおいしい"
+                },
+                {
+                  "id": "G1_U7_P4_W_21",
+                  "headword": "have",
+                  "pronunciation": "/hæv/",
+                  "pos": "動",
+                  "meaning": "～を行う、～をする"
+                },
+                {
+                  "id": "G1_U7_P4_W_22",
+                  "headword": "had",
+                  "pronunciation": "/hæd/",
+                  "pos": "動",
+                  "meaning": "haveの過去形"
+                },
+                {
+                  "id": "G1_U7_P4_W_23",
+                  "headword": "party",
+                  "pronunciation": "/ˈpɑːrti/",
+                  "pos": "名",
+                  "meaning": "パーティー"
+                },
+                {
+                  "id": "G1_U7_P4_W_24",
+                  "headword": "bake(d)",
+                  "pronunciation": "/beɪk(t)/",
+                  "pos": "動",
+                  "meaning": "（パン・ケーキなど）を焼く"
+                },
+                {
+                  "id": "G1_U7_P4_W_25",
+                  "headword": "time",
+                  "pronunciation": "/taɪm/",
+                  "pos": "名",
+                  "meaning": "～回、～度"
+                },
+                {
+                  "id": "G1_U7_P4_W_26",
+                  "headword": "marathon",
+                  "pronunciation": "/ˈmærəθɑːn/",
+                  "pos": "名",
+                  "meaning": "マラソン"
+                },
+                {
+                  "id": "G1_U7_P4_W_27",
+                  "headword": "exciting",
+                  "pronunciation": "/ɪkˈsaɪtɪŋ/",
+                  "pos": "形",
+                  "meaning": "興奮させる、胸をわくわくさせる、刺激的な"
+                },
+                {
+                  "id": "G1_U7_P4_W_28",
+                  "headword": "for the first time",
+                  "meaning": "初めて"
+                }
+              ],
+              "content_blocks": [],
+              "page": "140-141"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "postcard_section",
+                  "header": "こんなことがあったよ：Tina から祖父母へのはがき (p.140 / 教科書p.108)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P4_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Tina は、どんな出来事を中心にしてはがきを書いているでしょうか。",
+                      "ja": "Q. ティナは、どんな出来事を中心にしてはがきを書いているでしょうか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_A1",
+                      "speaker": "Answer",
+                      "en": "A. (例) 昨日、友達と浅草のお寺に行ったこと。",
+                      "ja": "A. (例) 昨日、友達と浅草のお寺に行ったこと。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_01",
+                      "ref_num": "①",
+                      "speaker": "Salutation",
+                      "en": "Dear Grandma and Grandpa,",
+                      "ja": "親愛なるおばあちゃん、おじいちゃんへ"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_02",
+                      "ref_num": "②",
+                      "speaker": "Tina",
+                      "en": "How are you?",
+                      "ja": "お元気ですか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_03",
+                      "ref_num": "③",
+                      "speaker": "Tina",
+                      "en": "I hope you are fine.",
+                      "ja": "二人とも元気だといいな。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_04",
+                      "ref_num": "④",
+                      "speaker": "Tina",
+                      "en": "Thank you for your Christmas present.",
+                      "ja": "クリスマスプレゼントをありがとう。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Tina",
+                      "en": "How were Christmas and New Year's Day?",
+                      "ja": "クリスマスと元日はどうでしたか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Tina",
+                      "en": "I went to a famous temple in Asakusa with my friends yesterday.",
+                      "ja": "私は昨日、友達と浅草の有名なお寺に行きました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Tina",
+                      "en": "It was fun.",
+                      "ja": "楽しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Tina",
+                      "en": "The traditional buildings were beautiful.",
+                      "ja": "伝統的な建物が美しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Tina",
+                      "en": "Some people were in kimonos.",
+                      "ja": "着物を着ている人もいました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Tina",
+                      "en": "I liked the atmosphere.",
+                      "ja": "雰囲気が気に入りました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "Can you come to Japan this year?",
+                      "ja": "今年は日本に来ることができますか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Tina",
+                      "en": "I hope you can.",
+                      "ja": "来られるといいな。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Complimentary Close",
+                      "en": "Love,",
+                      "ja": "愛を込めて"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Signature",
+                      "en": "Tina",
+                      "ja": "ティナより"
+                    }
+                  ]
+                },
+                {
+                  "type": "mail_info_section",
+                  "header": "エアメール宛名情報 (p.140 / 教科書p.108)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P4_M_01",
+                      "label": "航空便表示",
+                      "en": "AIR MAIL",
+                      "ja": "航空郵便"
+                    },
+                    {
+                      "id": "G1_U7_P4_M_02",
+                      "label": "差出人 (From)",
+                      "text": "Christina Rios / 2-19-9 Honcho, Osaki-ku, Yokohama-shi, Kanagawa 219-0005, JAPAN"
+                    },
+                    {
+                      "id": "G1_U7_P4_M_03",
+                      "label": "受取人 (To)",
+                      "text": "Mr. and Mrs. Rios / 98 East 76th Street, New York, NY 10001, U.S.A."
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Speak & Write: 冬休み中の出来事と感想 (p.141 / 教科書p.109)",
+                  "items": [
+                    {
+                      "id": "G1_U7_P4_S_15",
+                      "speaker": "[例] A",
+                      "en": "What did you do during the winter vacation?",
+                      "ja": "あなたは冬休み中に何をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_16",
+                      "speaker": "[例] B",
+                      "en": "I had a party on Christmas Day.",
+                      "ja": "私はクリスマスにパーティーをしました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_17",
+                      "speaker": "[例] B",
+                      "en": "I baked a cake for the first time.",
+                      "ja": "初めてケーキを焼きました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_18",
+                      "speaker": "[例] B",
+                      "en": "It was delicious.",
+                      "ja": "とてもおいしかったです。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_19",
+                      "speaker": "[例] B",
+                      "en": "How about you?",
+                      "ja": "あなたはどうですか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_20",
+                      "speaker": "[例] A",
+                      "en": "I watched a marathon on TV at home.",
+                      "ja": "私は家でテレビのマラソンを見ました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_21",
+                      "speaker": "[例] A",
+                      "en": "It was exciting.",
+                      "ja": "わくわくしました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_22",
+                      "speaker": "[解答例] A",
+                      "en": "What did you do during the winter vacation?",
+                      "ja": "あなたは冬休み中に何をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_23",
+                      "speaker": "[解答例] B",
+                      "en": "I made osechi with my grandmother.",
+                      "ja": "私は祖母とおせちを作りました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_24",
+                      "speaker": "[解答例] B",
+                      "en": "It was fun.",
+                      "ja": "楽しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_25",
+                      "speaker": "[解答例] B",
+                      "en": "How about you?",
+                      "ja": "あなたはどうですか。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_26",
+                      "speaker": "[解答例] A",
+                      "en": "I went to the beach and saw the sunrise.",
+                      "ja": "浜辺に行って日の出を見ました。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_27",
+                      "speaker": "[解答例] A",
+                      "en": "It was beautiful.",
+                      "ja": "美しかったです。"
+                    },
+                    {
+                      "id": "G1_U7_P4_S_28",
+                      "speaker": "Write [解答例]",
+                      "en": "I made osechi with my grandmother. It was fun.",
+                      "ja": "(私は祖母とおせちを作りました。楽しかったです。)"
+                    }
+                  ]
+                }
+              ],
+              "page": "140-141"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G1_U7_P4_K_01",
+                  "en": "It is fun.",
+                  "ja": "楽しいです。"
+                },
+                {
+                  "id": "G1_U7_P4_K_02",
+                  "en": "It ==**was**== fun.",
+                  "ja": "楽しかったです。",
+                  "ref_id": "G1_U7_P4_S_07"
+                },
+                {
+                  "id": "G1_U7_P4_K_03",
+                  "en": "The traditional buildings are beautiful.",
+                  "ja": "伝統的な建物は美しいです。"
+                },
+                {
+                  "id": "G1_U7_P4_K_04",
+                  "en": "The traditional buildings ==**were**== beautiful.",
+                  "ja": "伝統的な建物は美しかったです。",
+                  "ref_id": "G1_U7_P4_S_08"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "過去の状態や感想などを言う。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "It is fun.",
+                      "ja": "(楽しいです。)",
+                      "ref_id": "G1_U7_P4_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "It ==**was**== fun.",
+                      "ja": "(楽しかったです。)",
+                      "ref_id": "G1_U7_P4_K_02"
+                    },
+                    {
+                      "ref_num": "③",
+                      "en": "The traditional buildings are beautiful.",
+                      "ja": "(伝統的な建物は美しいです。)",
+                      "ref_id": "G1_U7_P4_K_03"
+                    },
+                    {
+                      "ref_num": "④",
+                      "en": "The traditional buildings ==**were**== beautiful.",
+                      "ja": "(伝統的な建物は美しかったです。)",
+                      "ref_id": "G1_U7_P4_K_04"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "was と were",
+                  "text": "be動詞を使った文を、「〜でした」と過去の文にするときは、be動詞を過去形にします。be動詞の過去形には ==**was**== と ==**were**== があり、主語によって使い分けます。\n\n①② **am, is の過去形 → was**（主語が I や 3人称単数のとき）\n③④ **are の過去形 → were**（主語が you や複数のとき）",
+                  "items": [
+                    {
+                      "tag": "現在",
+                      "en": "It is fun.",
+                      "ja": "(楽しいです。)"
+                    },
+                    {
+                      "tag": "過去",
+                      "en": "It ==**was**== fun.",
+                      "ja": "(楽しかったです。)",
+                      "note": "be動詞を過去形にする"
+                    },
+                    {
+                      "tag": "現在",
+                      "en": "The traditional buildings are beautiful.",
+                      "ja": "(伝統的な建物は美しいです。)"
+                    },
+                    {
+                      "tag": "過去",
+                      "en": "The traditional buildings ==**were**== beautiful.",
+                      "ja": "(伝統的な建物は美しかったです。)",
+                      "note": "主語が複数なので were を使う"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G1_U7_P4G_E_01",
+                      "ref_num": "③",
+                      "en": "I hope you are fine.",
+                      "note": "→教科書p.108 Key Phrase",
+                      "text": "**I hope 〜.** は、「〜だといいな。」という意味の表現です。",
+                      "ref_id": "G1_U7_P4_S_03"
+                    },
+                    {
+                      "id": "G1_U7_P4G_E_02",
+                      "ref_num": "⑤",
+                      "en": "How were Christmas and New Year's Day?",
+                      "text": "この文の **How** は「どんなふうに」という意味で、様子をたずねています。**were** は、「〜でした」という意味の are の過去形です。ここでは、「クリスマスと元日はどうでしたか。」の意味になります。",
+                      "ref_id": "G1_U7_P4_S_05"
+                    },
+                    {
+                      "id": "G1_U7_P4G_E_03",
+                      "ref_num": "⑥",
+                      "en": "I went to a famous temple in Asakusa with my friends yesterday.",
+                      "text": "**went** は不規則動詞で、一般動詞 go（行く）の過去形です。",
+                      "ref_id": "G1_U7_P4_S_06"
+                    },
+                    {
+                      "id": "G1_U7_P4G_E_04",
+                      "ref_num": "⑧",
+                      "en": "The traditional buildings were beautiful.",
+                      "text": "**were** は、be動詞の are の過去形です。主語は The traditional buildings で複数なので、was ではなく、**were** を使います。",
+                      "ref_id": "G1_U7_P4_S_08"
+                    },
+                    {
+                      "id": "G1_U7_P4G_E_05",
+                      "ref_num": "⑩",
+                      "en": "I liked the atmosphere.",
+                      "text": "**liked** は規則動詞で、一般動詞 like（〜が好きである）の過去形です。",
+                      "ref_id": "G1_U7_P4_S_10"
+                    },
+                    {
+                      "id": "G1_U7_P4G_E_06",
+                      "ref_num": "⑫",
+                      "en": "I hope you can.",
+                      "text": "この文の **you can** は、you can come to Japan this year. を省略しています。",
+                      "ref_id": "G1_U7_P4_S_12"
+                    }
+                  ]
+                }
+              ],
+              "page": 141,
+              "title": "Part 4 本文の解説"
+            }
+          },
+          "page": "108",
+          "textbook_page": "108",
+          "guide_page": ""
+        },
+        "ST": {
+          "title": "Start: The New Year in Japan",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G1_U7_ST_W_01",
+                  "headword": "New Year",
+                  "pronunciation": "/n(j)uː jíər/",
+                  "pos": "名",
+                  "meaning": "新年、正月［年の初めの数日間］"
+                },
+                {
+                  "id": "G1_U7_ST_W_02",
+                  "headword": "did",
+                  "pronunciation": "/dɪd, dɪd/",
+                  "pos": "助・動",
+                  "meaning": "doの過去形"
+                },
+                {
+                  "id": "G1_U7_ST_W_03",
+                  "headword": "sunrise",
+                  "pronunciation": "/ˈsʌnraɪz/",
+                  "pos": "名",
+                  "meaning": "日の出"
+                },
+                {
+                  "id": "G1_U7_ST_W_04",
+                  "headword": "calligraphy",
+                  "pronunciation": "/kəˈlɪɡrəfi/",
+                  "pos": "名",
+                  "meaning": "習字、書道"
+                },
+                {
+                  "id": "G1_U7_ST_W_05",
+                  "headword": "bell",
+                  "pronunciation": "/bɛl/",
+                  "pos": "名",
+                  "meaning": "鐘"
+                },
+                {
+                  "id": "G1_U7_ST_W_06",
+                  "headword": "kite",
+                  "pronunciation": "/kaɪt/",
+                  "pos": "名",
+                  "meaning": "たこ"
+                }
+              ],
+              "content_blocks": [],
+              "page": 134
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "goal_section",
+                  "header": "Unit 7 の目標 (Goal)",
+                  "items": [
+                    {
+                      "tag": "Read",
+                      "text": "出来事を伝えるはがきを読み、おおまかな内容を捉えることができる。"
+                    },
+                    {
+                      "tag": "Write",
+                      "text": "出来事や気持ちが伝わるように、はがきを書くことができる。"
+                    }
+                  ]
+                },
+                {
+                  "type": "intro_section",
+                  "header": "About You",
+                  "items": [
+                    {
+                      "id": "G1_U7_ST_S_01",
+                      "en": "What did you do during the winter vacation?",
+                      "ja": "冬休みは何をしましたか。"
+                    },
+                    {
+                      "id": "G1_U7_ST_S_02",
+                      "en": "I saw the sunrise with my family.",
+                      "ja": "(例) 家族と日の出を見ました。",
+                      "tag": "例"
+                    }
+                  ]
+                },
+                {
+                  "type": "check_section",
+                  "header": "ストーリーのおおまかな内容をつかむ：1. 予想する",
+                  "items": [
+                    {
+                      "id": "G1_U7_ST_S_03",
+                      "en": "What did Tina do during the year-end and New Year holidays?",
+                      "ja": "Tina は年末年始に何をしたでしょうか。教科書 pp.100-101 の写真を参考に、予想してみましょう。"
+                    },
+                    {
+                      "id": "G1_U7_ST_S_04",
+                      "en": "She ate osechi dishes.",
+                      "ja": "(例) おせち料理を食べた。",
+                      "tag": "例"
+                    }
+                  ]
+                },
+                {
+                  "type": "phrase_list_section",
+                  "header": "日本の伝統文化キーワード (p.134 / 教科書pp.100-101)",
+                  "items": [
+                    {
+                      "id": "G1_U7_ST_K_01",
+                      "en": "the first sunrise of the year",
+                      "ja": "初日の出"
+                    },
+                    {
+                      "id": "G1_U7_ST_K_02",
+                      "en": "osechi",
+                      "ja": "おせち"
+                    },
+                    {
+                      "id": "G1_U7_ST_K_03",
+                      "en": "calligraphy",
+                      "ja": "習字"
+                    },
+                    {
+                      "id": "G1_U7_ST_K_04",
+                      "en": "karuta",
+                      "ja": "かるた"
+                    },
+                    {
+                      "id": "G1_U7_ST_K_05",
+                      "en": "a bell",
+                      "ja": "鐘"
+                    },
+                    {
+                      "id": "G1_U7_ST_K_06",
+                      "en": "a kite",
+                      "ja": "たこ"
+                    }
+                  ]
+                }
+              ],
+              "page": 134
+            }
+          },
+          "page": "100",
+          "textbook_page": "100",
+          "guide_page": ""
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "styles": null
+}

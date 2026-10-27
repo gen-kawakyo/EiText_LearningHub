@@ -1,0 +1,713 @@
+{
+  "source": "English Learning Hub",
+  "type": "STYLES",
+  "version": "2.5.0",
+  "exportedAt": "2026-10-27T01:36:34.827Z",
+  "config": {
+    "styles": {
+      "header": {
+        "font": "sans",
+        "size": 0.7,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88"
+      },
+      "en": {
+        "font": "serif",
+        "size": 1.15,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#000000",
+        "column": 3
+      },
+      "ja": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000",
+        "column": 3
+      },
+      "text": {
+        "font": "jp",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000",
+        "column": 3
+      },
+      "note": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.5,
+        "color": "#475569",
+        "column": 3
+      },
+      "ref_num": {
+        "font": "mono",
+        "size": 0.6,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.35,
+        "color": "#000000",
+        "column": 2
+      },
+      "title": {
+        "font": "jp",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#000000"
+      },
+      "label": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.5,
+        "color": "#000000",
+        "column": 2
+      },
+      "tag": {
+        "font": "sans",
+        "size": 0.6,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#3c1e00",
+        "bgColor": "#fff5eb",
+        "borderRadius": 4,
+        "padding": "2px 6px",
+        "column": 2
+      },
+      "speaker": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#F27D26",
+        "column": 1
+      },
+      "mark": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88",
+        "bgColor": "#EFF6FF",
+        "borderRadius": 4,
+        "padding": "2px 6px",
+        "column": 1
+      },
+      "seal": {
+        "font": "sans",
+        "size": 0.6,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#DC2626",
+        "bgColor": "#FEE2E2",
+        "borderRadius": 4,
+        "padding": "2px 6px",
+        "column": 1
+      },
+      "role": {
+        "font": "sans",
+        "size": 0.6,
+        "weight": 700,
+        "italic": false,
+        "opacity": 0.6,
+        "color": "#475569",
+        "bgColor": "#F1F5F9",
+        "borderRadius": 4,
+        "padding": "1px 5px",
+        "column": 3
+      },
+      "main": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#1A1A1A",
+        "column": 3
+      },
+      "wo": {
+        "font": "sans",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88",
+        "bgColor": "#EFF6FF",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "word": {
+        "font": "sans",
+        "size": 0.9,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#073d88",
+        "bgColor": "#EFF6FF",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "ph": {
+        "font": "sans",
+        "size": 0.9,
+        "weight": 600,
+        "italic": false,
+        "opacity": 1,
+        "color": "#059669",
+        "bgColor": "#ECFDF5",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "phrase": {
+        "font": "sans",
+        "size": 0.9,
+        "weight": 600,
+        "italic": false,
+        "opacity": 1,
+        "color": "#059669",
+        "bgColor": "#ECFDF5",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "fr": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 500,
+        "italic": true,
+        "opacity": 1,
+        "color": "#D97706",
+        "borderColor": "#FDE68A",
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "frag": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 500,
+        "italic": true,
+        "opacity": 1,
+        "color": "#D97706",
+        "borderColor": "#FDE68A",
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderRadius": 4,
+        "padding": "1px 4px",
+        "column": 3
+      },
+      "grammar": {
+        "font": "sans",
+        "size": 0.85,
+        "weight": 700,
+        "italic": false,
+        "opacity": 1,
+        "color": "#4F46E5",
+        "bgColor": "#EEF2FF",
+        "borderRadius": 4,
+        "padding": "2px 6px",
+        "column": 3
+      },
+      "example": {
+        "font": "serif",
+        "size": 0.95,
+        "weight": 400,
+        "italic": true,
+        "opacity": 1,
+        "color": "#1E293B",
+        "column": 3
+      },
+      "en1": {
+        "font": "serif",
+        "size": 0.85,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#000000"
+      },
+      "label1": {
+        "font": "sans",
+        "size": 0.8,
+        "weight": 400,
+        "italic": false,
+        "opacity": 0.8,
+        "color": "#ff0000"
+      },
+      "source": "English Learning Hub",
+      "type": "STYLES",
+      "config": {
+        "styles": {
+          "header": {
+            "font": "sans",
+            "size": 0.7,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#073d88"
+          },
+          "en": {
+            "font": "serif",
+            "size": 1,
+            "weight": 400,
+            "italic": true,
+            "opacity": 1,
+            "color": "#191932",
+            "column": 3
+          },
+          "ja": {
+            "font": "jp",
+            "size": 0.85,
+            "weight": 400,
+            "italic": false,
+            "opacity": 1,
+            "color": "#191932",
+            "column": 3
+          },
+          "text": {
+            "font": "jp",
+            "size": 0.85,
+            "weight": 400,
+            "italic": false,
+            "opacity": 0.8,
+            "color": "#191932",
+            "column": 3
+          },
+          "note": {
+            "font": "sans",
+            "size": 0.65,
+            "weight": 700,
+            "italic": false,
+            "opacity": 0.5,
+            "color": "#3c3c50",
+            "column": 3
+          },
+          "ref_num": {
+            "font": "mono",
+            "size": 0.6,
+            "weight": 400,
+            "italic": false,
+            "opacity": 0.35,
+            "color": "#191932",
+            "column": 2
+          },
+          "title": {
+            "font": "jp",
+            "size": 0.9,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#191932"
+          },
+          "label": {
+            "font": "sans",
+            "size": 0.65,
+            "weight": 700,
+            "italic": false,
+            "opacity": 0.5,
+            "color": "#191932",
+            "column": 2
+          },
+          "tag": {
+            "font": "sans",
+            "size": 0.6,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#0a2846",
+            "bgColor": "#ECFDF5",
+            "borderRadius": 4,
+            "padding": "2px 6px",
+            "column": 2
+          },
+          "speaker": {
+            "font": "sans",
+            "size": 0.75,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#F27D26",
+            "column": 1,
+            "bgColor": null,
+            "borderColor": "#ffffff",
+            "borderStyle": "none",
+            "borderWidth": "1px"
+          },
+          "mark": {
+            "font": "sans",
+            "size": 0.65,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#073d88",
+            "bgColor": "#EFF6FF",
+            "borderRadius": 4,
+            "padding": "2px 6px",
+            "column": 1
+          },
+          "seal": {
+            "font": "sans",
+            "size": 0.6,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#DC2626",
+            "bgColor": "#FEE2E2",
+            "borderRadius": 4,
+            "padding": "2px 6px",
+            "column": 1
+          },
+          "role": {
+            "font": "sans",
+            "size": 0.6,
+            "weight": 700,
+            "italic": false,
+            "opacity": 0.6,
+            "color": "#475569",
+            "bgColor": "#F1F5F9",
+            "borderRadius": 4,
+            "padding": "1px 5px",
+            "column": 3
+          },
+          "main": {
+            "font": "sans",
+            "size": 0.85,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#1A1A1A",
+            "column": 3
+          },
+          "wo": {
+            "font": "sans",
+            "size": 0.9,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#073d88",
+            "bgColor": "#EFF6FF",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "word": {
+            "font": "sans",
+            "size": 0.9,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#073d88",
+            "bgColor": "#EFF6FF",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "ph": {
+            "font": "sans",
+            "size": 0.9,
+            "weight": 600,
+            "italic": false,
+            "opacity": 1,
+            "color": "#059669",
+            "bgColor": "#ECFDF5",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "phrase": {
+            "font": "sans",
+            "size": 0.9,
+            "weight": 600,
+            "italic": false,
+            "opacity": 1,
+            "color": "#059669",
+            "bgColor": "#ECFDF5",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "fr": {
+            "font": "sans",
+            "size": 0.85,
+            "weight": 500,
+            "italic": true,
+            "opacity": 1,
+            "color": "#D97706",
+            "borderColor": "#FDE68A",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "frag": {
+            "font": "sans",
+            "size": 0.85,
+            "weight": 500,
+            "italic": true,
+            "opacity": 1,
+            "color": "#D97706",
+            "borderColor": "#FDE68A",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "borderRadius": 4,
+            "padding": "1px 4px",
+            "column": 3
+          },
+          "grammar": {
+            "font": "sans",
+            "size": 0.85,
+            "weight": 700,
+            "italic": false,
+            "opacity": 1,
+            "color": "#4F46E5",
+            "bgColor": "#EEF2FF",
+            "borderRadius": 4,
+            "padding": "2px 6px",
+            "column": 3
+          },
+          "example": {
+            "font": "serif",
+            "size": 0.95,
+            "weight": 400,
+            "italic": true,
+            "opacity": 1,
+            "color": "#1E293B",
+            "column": 3
+          }
+        }
+      },
+      "headtext": {
+        "font": "sans",
+        "size": 0.75,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#3c4650",
+        "column": 1
+      },
+      "midtext": {
+        "font": "sans",
+        "size": 0.75,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#3c4650",
+        "column": 2
+      },
+      "toplabel": {
+        "font": "sans",
+        "size": 0.65,
+        "weight": 400,
+        "italic": false,
+        "opacity": 1,
+        "color": "#ebf5ff",
+        "column": 1,
+        "bgColor": "#193264"
+      }
+    },
+    "customPresets": {
+      "custom1": {
+        "id": "custom1",
+        "name": "標準１",
+        "shortLabel": "1",
+        "col1": "5.5rem",
+        "col2": "5.5rem",
+        "col3": "1fr",
+        "note": "標準的な対話・番号バランス"
+      },
+      "custom2": {
+        "id": "custom2",
+        "name": "文法2",
+        "shortLabel": "2",
+        "col1": "7.5rem",
+        "col2": "7.5rem",
+        "col3": "1fr",
+        "note": "話者名・役職を広めに確保"
+      },
+      "custom3": {
+        "id": "custom3",
+        "name": "文法タグ広め",
+        "shortLabel": "3",
+        "col1": "5rem",
+        "col2": "10rem",
+        "col3": "1fr",
+        "note": "文法ポイント・STEPタグを広めに配置"
+      },
+      "custom4": {
+        "id": "custom4",
+        "name": "カスタム 4 (本文最大化)",
+        "shortLabel": "4",
+        "col1": "2.5rem",
+        "col2": "2.0rem",
+        "col3": "1fr",
+        "note": "左列を狭めて本文領域を最大化"
+      },
+      "custom5": {
+        "id": "custom5",
+        "name": "2分割列1あり",
+        "shortLabel": "5",
+        "col1": "10rem",
+        "col2": "0rem",
+        "col3": "1fr",
+        "note": "英語と和訳を左右均等50:50配置"
+      },
+      "custom6": {
+        "id": "custom6",
+        "name": "2分割2あり",
+        "shortLabel": "6",
+        "col1": "0rem",
+        "col2": "15rem",
+        "col3": "1fr",
+        "note": "話者とタグを均等に配置"
+      },
+      "custom7": {
+        "id": "custom7",
+        "name": "2分割2あり",
+        "shortLabel": "7",
+        "col1": "0rem",
+        "col2": "10rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット7"
+      },
+      "custom8": {
+        "id": "custom8",
+        "name": "カスタム 8",
+        "shortLabel": "8",
+        "col1": "5.0rem",
+        "col2": "5.0rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット8"
+      },
+      "custom9": {
+        "id": "custom9",
+        "name": "カスタム 9",
+        "shortLabel": "9",
+        "col1": "8.0rem",
+        "col2": "2.5rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット9"
+      },
+      "custom10": {
+        "id": "custom10",
+        "name": "カスタム 10",
+        "shortLabel": "10",
+        "col1": "3.0rem",
+        "col2": "3.0rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット10"
+      },
+      "custom11": {
+        "id": "custom11",
+        "name": "カスタム 11 (番号なし対話)",
+        "shortLabel": "11",
+        "col1": "6.5rem",
+        "col2": "0rem",
+        "col3": "1fr",
+        "note": "文番号なしで話者名と英文のみ"
+      },
+      "custom12": {
+        "id": "custom12",
+        "name": "カスタム 12 (長ラベル見出し)",
+        "shortLabel": "12",
+        "col1": "0rem",
+        "col2": "6.0rem",
+        "col3": "1fr",
+        "note": "話者列なし・左に大見出しタグ"
+      },
+      "custom13": {
+        "id": "custom13",
+        "name": "カスタム 13 (3列均等配分)",
+        "shortLabel": "13",
+        "col1": "1fr",
+        "col2": "1fr",
+        "col3": "1fr",
+        "note": "3列均等配分"
+      },
+      "custom14": {
+        "id": "custom14",
+        "name": "カスタム 14 (記号＋文法タグ)",
+        "shortLabel": "14",
+        "col1": "2.0rem",
+        "col2": "5.5rem",
+        "col3": "1fr",
+        "note": "記号＋文法タグ広め"
+      },
+      "custom15": {
+        "id": "custom15",
+        "name": "カスタム 15 (長話者・肩書)",
+        "shortLabel": "15",
+        "col1": "8.5rem",
+        "col2": "1.8rem",
+        "col3": "1fr",
+        "note": "長文話者・役職名対応"
+      },
+      "custom16": {
+        "id": "custom16",
+        "name": "カスタム 16 (英70:和30)",
+        "shortLabel": "16",
+        "col1": "0rem",
+        "col2": "7fr",
+        "col3": "3fr",
+        "note": "英語広め・和訳コンパクト"
+      },
+      "custom17": {
+        "id": "custom17",
+        "name": "カスタム 17 (英30:和70)",
+        "shortLabel": "17",
+        "col1": "0rem",
+        "col2": "3fr",
+        "col3": "7fr",
+        "note": "和訳・解説広め"
+      },
+      "custom18": {
+        "id": "custom18",
+        "name": "カスタム 18 (極小マーク＋本文大)",
+        "shortLabel": "18",
+        "col1": "1.5rem",
+        "col2": "1.5rem",
+        "col3": "1fr",
+        "note": "左列を最小化して本文集中"
+      },
+      "custom19": {
+        "id": "custom19",
+        "name": "カスタム 19 (自由設定)",
+        "shortLabel": "19",
+        "col1": "4.0rem",
+        "col2": "3.0rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット19"
+      },
+      "custom20": {
+        "id": "custom20",
+        "name": "カスタム 20 (自由設定)",
+        "shortLabel": "20",
+        "col1": "5.0rem",
+        "col2": "3.5rem",
+        "col3": "1fr",
+        "note": "自由設定用プリセット20"
+      }
+    },
+    "defaultColumnTemplate": "standard"
+  }
+}

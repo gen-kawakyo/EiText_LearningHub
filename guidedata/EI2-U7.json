@@ -1,0 +1,3165 @@
+{
+  "source": "English Hub Backup",
+  "type": "FULL_BACKUP",
+  "version": "2.5.0",
+  "exportedAt": "2026-10-27T01:16:27.590Z",
+  "units": {
+    "G2-U7": {
+      "title": "Unit G2-U7",
+      "grade": "2",
+      "unit": "7",
+      "label": "Unit 7",
+      "guide_page": "",
+      "textbook_page": "",
+      "category": "standard",
+      "header": {},
+      "parts": {
+        "AG7": {
+          "title": "Active Grammar 7: 比較表現",
+          "views": {
+            "GRAMMAR": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "context_section",
+                  "header": "場面と意味 (Look Back)",
+                  "text": "ストーリーをふり返って、どんな場面で何を伝えていたかを思い出してみましょう。",
+                  "items": [
+                    {
+                      "speaker": "Tina",
+                      "en": "It may sound crazy, but should we try a musical?",
+                      "ja": "ばかげて聞こえるかもしれないけど、ミュージカルをやってみるべきじゃない？"
+                    },
+                    {
+                      "speaker": "Eri",
+                      "en": "That's too difficult. I think a play is easier than a musical.",
+                      "ja": "それは難しすぎるよ。劇のほうがミュージカルより簡単だと思う。"
+                    },
+                    {
+                      "tag": "場面の例",
+                      "text": "イベントでの出し物について比較しながら話し合っている。"
+                    }
+                  ]
+                },
+                {
+                  "type": "pattern_summary",
+                  "header": "文の形 1: 2つのものを比べて「…より～」〈比較級〉 (Unit 7-1, 7-2)",
+                  "items": [
+                    {
+                      "id": "G2_U7_AG7_P1_01",
+                      "en": "Hajin is ==**taller than**== Eri.",
+                      "ja": "ハジンはエリよりも背が高いです。",
+                      "note": "比べる対象：[Hajin] と [Eri]"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P1_02",
+                      "en": "Soccer is ==**more popular than**== baseball in Singapore.",
+                      "ja": "シンガポールではサッカーは野球よりも人気があります。",
+                      "note": "比べる対象：[Soccer] と [baseball]"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P1_03",
+                      "en": "Tina runs ==**faster than**== Eri.",
+                      "ja": "ティナはエリよりも速く走ります。",
+                      "note": "比べる対象：[Tina] と [Eri]"
+                    }
+                  ]
+                },
+                {
+                  "type": "pattern_summary",
+                  "header": "文の形 2: 3つ以上のものを比べて「(…で) いちばん～」〈最上級〉 (Unit 7-1, 7-2)",
+                  "items": [
+                    {
+                      "id": "G2_U7_AG7_P2_01",
+                      "en": "Hajin is ==**the tallest**== of the four.",
+                      "ja": "ハジンは4人の中でいちばん背が高いです。",
+                      "note": "範囲：of the four"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P2_02",
+                      "en": "Soccer is ==**the most popular**== sport in Singapore.",
+                      "ja": "シンガポールでは最も人気のあるスポーツはサッカーです。",
+                      "note": "範囲：in Singapore"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P2_03",
+                      "en": "Hajin runs ==**the fastest**== in the class.",
+                      "ja": "ハジンはクラスでいちばん速く走ります。",
+                      "note": "範囲：in the class"
+                    }
+                  ]
+                },
+                {
+                  "type": "inflection_table",
+                  "header": "形容詞・副詞の変化",
+                  "items": [
+                    {
+                      "tag": "-er, -est を付ける",
+                      "rule": "通常の語",
+                      "base": "long (長い、長く)",
+                      "comparative": "long<span style=\"color:red;\">er</span>",
+                      "superlative": "long<span style=\"color:red;\">est</span>"
+                    },
+                    {
+                      "tag": "-r, -st を付ける",
+                      "rule": "語末が -e で終わる語",
+                      "base": "large (大きい、広い)",
+                      "comparative": "large<span style=\"color:red;\">r</span>",
+                      "superlative": "large<span style=\"color:red;\">st</span>"
+                    },
+                    {
+                      "tag": "語末の y を i に変え、-er, -est を付ける",
+                      "rule": "〈子音字 ＋ y〉で終わる語",
+                      "base": "easy (やさしい、簡単な)",
+                      "comparative": "eas<span style=\"color:red;\">ier</span>",
+                      "superlative": "eas<span style=\"color:red;\">iest</span>"
+                    },
+                    {
+                      "tag": "語末の子音字を重ね、-er, -est を付ける",
+                      "rule": "〈短母音 ＋ 子音字〉で終わる語",
+                      "base": "big (大きい)",
+                      "comparative": "big<span style=\"color:red;\">ger</span>",
+                      "superlative": "big<span style=\"color:red;\">gest</span>"
+                    },
+                    {
+                      "tag": "more, most を使う",
+                      "rule": "多くの2音節以上の語など",
+                      "base": "beautiful (美しい)",
+                      "comparative": "<span style=\"color:red;\">more</span> beautiful",
+                      "superlative": "<span style=\"color:red;\">most</span> beautiful"
+                    },
+                    {
+                      "tag": "不規則なもの",
+                      "rule": "不規則変化 (bad)",
+                      "base": "bad (悪い)",
+                      "comparative": "<span style=\"color:red;\">worse</span>",
+                      "superlative": "<span style=\"color:red;\">worst</span>"
+                    },
+                    {
+                      "tag": "不規則なもの",
+                      "rule": "不規則変化 (good / well)",
+                      "base": "good / well (良い、よく)",
+                      "comparative": "<span style=\"color:red;\">better</span>",
+                      "superlative": "<span style=\"color:red;\">best</span>"
+                    },
+                    {
+                      "tag": "不規則なもの",
+                      "rule": "不規則変化 (many / much)",
+                      "base": "many / much (多くの)",
+                      "comparative": "<span style=\"color:red;\">more</span>",
+                      "superlative": "<span style=\"color:red;\">most</span>"
+                    }
+                  ]
+                },
+                {
+                  "type": "pattern_summary",
+                  "header": "文の形 3: 2つのものを比べて「…と同じくらい～」〈同等比較〉 (Unit 7-3)",
+                  "items": [
+                    {
+                      "id": "G2_U7_AG7_P3_01",
+                      "en": "Eri is ==**as tired as**== Kota.",
+                      "ja": "エリはコウタと同じくらい疲れています。",
+                      "note": "比べる対象：[Eri] と [Kota]"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P3_02",
+                      "en": "Singapore is ==**not as big as**== Tokyo.",
+                      "ja": "シンガポールは東京ほど大きくありません。",
+                      "note": "比べる対象：[Singapore] と [Tokyo]"
+                    },
+                    {
+                      "id": "G2_U7_AG7_P3_03",
+                      "en": "Kota practiced ==**as hard as**== Hajin.",
+                      "ja": "コウタはハジンと同じくらい一生懸命練習しました。",
+                      "note": "比べる対象：[Kota] と [Hajin]"
+                    },
+                    {
+                      "tag": "補足ルール",
+                      "text": "not as ～ as ... にすると、「…ほど～ではない」という意味になります。"
+                    }
+                  ]
+                },
+                {
+                  "type": "grammar_hunt",
+                  "header": "Grammar Hunt (解答例: Unit 7 Part 1)",
+                  "items": [
+                    {
+                      "speaker": "Tina",
+                      "en": "The Honcho International Festival is coming soon.",
+                      "ja": "本町インターナショナルフェスティバルがもうすぐだね。"
+                    },
+                    {
+                      "speaker": "Eri",
+                      "en": "It's ==**the biggest**== event of the year.",
+                      "ja": "1年で一番大きなイベントだね。",
+                      "note": "比べているもの：本町インターナショナルフェスティバルとその年の他のイベント"
+                    }
+                  ]
+                }
+              ],
+              "title": "比較表現（何かを比べて説明する言い方）",
+              "page": 161
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "speak_section",
+                  "header": "Speak (About You): 祖父母と行く春休みの日本旅行 (p.162 / 教科書p.100)",
+                  "items": [
+                    {
+                      "id": "G2_U7_AG7_S_01",
+                      "tag": "ポイント",
+                      "en": "I think Kyoto is the best place for sightseeing in Japan.",
+                      "ja": "私は京都は日本で最も観光によい場所だと思います。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_02",
+                      "speaker": "Tina",
+                      "en": "My grandparents are coming to Japan for a week during the spring vacation.",
+                      "ja": "春休みの間に祖父母が1週間、日本に来ます。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_03",
+                      "speaker": "Tina",
+                      "en": "It's their first trip here.",
+                      "ja": "彼らの初めての日本旅行です。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_04",
+                      "speaker": "Tina",
+                      "en": "Where should we go?",
+                      "ja": "私たちはどこに行くべきでしょうか。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_05",
+                      "speaker": "Tina",
+                      "en": "I think Kyoto is the best place because they can visit famous temples and shrines.",
+                      "ja": "有名なお寺や神社に行けるので、私は京都が最もよいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_06",
+                      "speaker": "Tina",
+                      "en": "My grandparents like history.",
+                      "ja": "祖父母は歴史が好きです。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_07",
+                      "speaker": "Tina",
+                      "en": "Okinawa is also a great place because it's warmer and full of nature.",
+                      "ja": "より暖かくて自然がいっぱいなので、沖縄もすばらしい場所です。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_08",
+                      "speaker": "Tina",
+                      "en": "My grandparents like the sea, too.",
+                      "ja": "祖父は海も好きです。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_09",
+                      "speaker": "Tina",
+                      "en": "What do you think?",
+                      "ja": "あなたはどう思いますか。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_10",
+                      "speaker": "Tina",
+                      "en": "Do you have any other good ideas?",
+                      "ja": "ほかによいアイデアはありますか。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_11",
+                      "speaker": "解答例",
+                      "en": "If you want to enjoy history and nature, I think Hakone is the best place to visit.",
+                      "ja": "歴史と自然を楽しみたいなら、私は箱根が訪れるのにいちばんよい場所だと思います。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_12",
+                      "speaker": "解答例",
+                      "en": "Kamakura also has old shrines and temples, but Hakone is full of nature.",
+                      "ja": "鎌倉にも古い神社や寺がありますが、箱根は自然がたくさんあります。"
+                    },
+                    {
+                      "id": "G2_U7_AG7_S_13",
+                      "speaker": "解答例",
+                      "en": "You can also enjoy the views of Mt. Fuji and the sea on the way to Hakone.",
+                      "ja": "箱根に行く途中で富士山や海の景色も楽しむことができます。"
+                    }
+                  ]
+                }
+              ],
+              "page": 162
+            }
+          },
+          "page": "100",
+          "textbook_page": "100",
+          "guide_page": ""
+        },
+        "AP": {
+          "title": "AI Appendix: Unit 7 総まとめ",
+          "views": {
+            "PART_APPENDIX": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "info_box",
+                  "header": "比較3大パターンの総整理マップ",
+                  "items": [
+                    {
+                      "tag": "1. 比較級",
+                      "label": "2つのものを比べる「AはBより〜だ」",
+                      "en": "A is ==**[ 比較級 ] than**== B.",
+                      "text": "・短い語：語尾に -er (taller, bigger, easier)\n・長い語：直前に more (more exciting, more popular)\n・不規則：good/well ➔ better, bad ➔ worse"
+                    },
+                    {
+                      "tag": "2. 最上級",
+                      "label": "3つ以上の中で「Aがいちばん〜だ」",
+                      "en": "A is ==**the [ 最上級 ]**== [ in / of ... ].",
+                      "text": "・短い語：the + 語尾に -est (the tallest, the biggest)\n・長い語：the most + 原級 (the most important)\n・不規則：good/well ➔ the best, bad ➔ the worst"
+                    },
+                    {
+                      "tag": "3. 同等比較",
+                      "label": "程度が同じ「AはBと同じくらい〜だ」",
+                      "en": "A is ==**as [ 原級 ] as**== B.",
+                      "text": "・肯定文：AはBと同じくらい〜だ (as tired as Kota)\n・否定文：A is ==**not as [ 原級 ] as**== B.「AはBほど〜ではない」\n※「A < B」の意味になり、比較級への書き換え問題で頻出！"
+                    }
+                  ]
+                },
+                {
+                  "type": "info_box",
+                  "header": "テストで差がつく！「in vs of」と「つづりの変化」の落とし穴",
+                  "items": [
+                    {
+                      "tag": "最上級の in と of",
+                      "label": "後ろに来る言葉で瞬時に見分ける！",
+                      "text": "・==**in ＋ 場所・組織・単数**==：in my class（クラスで）, in Japan（日本で）, in the world（世界で）\n・==**of ＋ 同類・複数・数字**==：of all（すべての中で）, of the three（3つの中で）, of them（彼らの中で）"
+                    },
+                    {
+                      "tag": "つづり変化の4大トラップ",
+                      "label": "ミスしやすい語尾を総点検！",
+                      "text": "① 重ねて -er/-est：bi==gg==er / bi==gg==est, ho==tt==er / ho==tt==est（短母音＋子音字）\n② y を i に変える：eas==ier== / eas==iest==, happ==ier== / happ==iest==（子音字＋y）\n③ e で終わる語：larg==er== / larg==est==, nic==er== / nic==est==\n④ 長い語は語尾を変えない：==more== beautiful / the ==most== beautiful（誤：beautifuller ✕）"
+                    }
+                  ]
+                },
+                {
+                  "type": "info_box",
+                  "header": "一歩進んだ英会話！比較を豊かにする実戦フレーズ",
+                  "items": [
+                    {
+                      "tag": "選択の問いかけ",
+                      "en": "Which do you like better, A or B?",
+                      "ja": "AとBでは、どちらのほうが好きですか。",
+                      "note": "日常会話で最もよく使われる比較の質問パターン。"
+                    },
+                    {
+                      "tag": "差を強調する much",
+                      "en": "Tokyo Tower is ==**much taller**== than my school building.",
+                      "ja": "東京タワーは私の学校の校舎より「ずっと」高いです。",
+                      "note": "比較級の前に much を置くと「ずっと〜だ」と強調できる。"
+                    }
+                  ]
+                }
+              ],
+              "title": "パート別付録：AIサポーターの比較文法マスターガイド"
+            },
+            "UNIT_APPENDIX": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "phrase_box",
+                  "header": "対立を乗り越え、チームをまとめる「仲直り・共感」表現",
+                  "items": [
+                    {
+                      "id": "G2_U7_AP_S_01",
+                      "label": "冷静さを促す",
+                      "en": "Calm down, you two.",
+                      "ja": "2人とも落ち着いて。"
+                    },
+                    {
+                      "id": "G2_U7_AP_S_02",
+                      "label": "感情を認めて謝る",
+                      "en": "I just lost my temper. I'll apologize to her later.",
+                      "ja": "腹が立っただけなんだ。あとで彼女に謝るよ。"
+                    },
+                    {
+                      "id": "G2_U7_AP_S_03",
+                      "label": "相手のプレッシャーに寄り添う",
+                      "en": "You're under a lot of pressure. We all understand.",
+                      "ja": "君はすごい重圧を感じているんだよね。みんな理解しているよ。"
+                    },
+                    {
+                      "id": "G2_U7_AP_S_04",
+                      "label": "目的を再確認する",
+                      "en": "Teamwork is the most important thing.",
+                      "ja": "チームワークがいちばん大切なことだよ。"
+                    }
+                  ]
+                },
+                {
+                  "type": "column_box",
+                  "header": "Unit 7 を終えた君へ：「比べる」ことは、それぞれの良さを見つけること",
+                  "items": [
+                    {
+                      "tag": "Differences Create Excitement",
+                      "text": "コウタが「普通の学校生活の劇だと思っていた」と言ったのに対し、ティナは「宇宙の学校のほうがワクワクする」と返しました。日常と非日常を比べることで、アイデアは何倍にも魅力的になります。"
+                    },
+                    {
+                      "tag": "Every Role Matters",
+                      "text": "セリフを覚えられないコウタ、完璧を目指して焦るエリ、みんなをかばうハジン、全体をなだめるティナ。誰が優れていて誰が劣っているかではなく、それぞれが真剣だからこそプレッシャーが生まれ、ぶつかり合いました。"
+                    },
+                    {
+                      "tag": "From Comparison to Harmony",
+                      "text": "文法の世界では taller や the biggest のように『差』に目を向けますが、私たちが何かを比べる本当の目的は、順位をつけることではありません。ポスター選定で『写真の迫力』『色の楽しさ』『文字の分かりやすさ』それぞれの良さを認め合ったように、お互いの強みを組み合わせて一つの作品を作り上げること――それこそが、このユニットのタイトルである『Working Together（団結すること）』の本当の力です。"
+                    }
+                  ]
+                }
+              ],
+              "title": "ユニット付録：団結（Working Together）のコミュニケーション＆コラム"
+            }
+          },
+          "page": 0,
+          "textbook_page": "",
+          "guide_page": "",
+          "hasAppendix": true
+        },
+        "EX": {
+          "title": "Extra Story / 音声内容",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_EX_W_01",
+                  "headword": "pressure",
+                  "pronunciation": "/préʃər/",
+                  "pos": "名",
+                  "meaning": "重圧、プレッシャー"
+                },
+                {
+                  "id": "G2_U7_EX_W_02",
+                  "headword": "upset",
+                  "pronunciation": "/ʌpsét/",
+                  "pos": "形",
+                  "meaning": "取り乱している"
+                },
+                {
+                  "id": "G2_U7_EX_W_03",
+                  "headword": "lose one's temper",
+                  "meaning": "腹を立てる"
+                },
+                {
+                  "id": "G2_U7_EX_W_04",
+                  "headword": "you know",
+                  "meaning": "ほらあの、ねえ"
+                },
+                {
+                  "id": "G2_U7_EX_W_05",
+                  "headword": "You're under a lot of pressure.",
+                  "meaning": "君はすごいプレッシャーにさらされている。"
+                }
+              ],
+              "content_blocks": [],
+              "page": 157
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "audio_section",
+                  "header": "Part 1 の音声内容：地理についてのクイズ (p.155 / 教科書p.93)",
+                  "items": [
+                    {
+                      "id": "G2_U7_EX_S_01",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "I know you learned a lot of things about Japan, Tina.",
+                      "ja": "君は日本についてたくさんのことを学んでるよね、ティナ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_02",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "I'll give you a quiz, OK?",
+                      "ja": "君にクイズを出すよ、いい？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_03",
+                      "tag": "(1)",
+                      "speaker": "Tina",
+                      "en": "OK.",
+                      "ja": "いいよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_04",
+                      "tag": "(1)",
+                      "speaker": "Tina",
+                      "en": "Sounds interesting.",
+                      "ja": "おもしろそう。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_05",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "There are a lot of tall buildings in big cities like Tokyo, Osaka, and Yokohama.",
+                      "ja": "東京、大阪、横浜のような大都市には高い建物がたくさんある。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_06",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "What is the tallest building in Yokohama?",
+                      "ja": "横浜でいちばん高い建物は何でしょう？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_07",
+                      "tag": "(1)",
+                      "speaker": "Tina",
+                      "en": "It's the Yokohama Landmark Tower.",
+                      "ja": "横浜ランドマークタワーだね。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_08",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Right.",
+                      "ja": "正解。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_09",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Which is taller, the Landmark Tower or Tokyo Tower?",
+                      "ja": "ランドマークタワーと東京タワーでは、どちらのほうが高い？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_10",
+                      "tag": "(1)",
+                      "speaker": "Tina",
+                      "en": "I think Tokyo Tower is taller than the Yokohama Landmark Tower.",
+                      "ja": "東京タワーのほうが横浜ランドマークタワーより高いと思う。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_11",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "That's right.",
+                      "ja": "その通り。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_12",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Tokyo Tower is 333 meters tall.",
+                      "ja": "東京タワーは333メートル。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_13",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "The Yokohama Landmark Tower is 296 meters tall.",
+                      "ja": "横浜ランドマークタワーは296メートルなんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_14",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Tokyo Tower is taller than the Yokohama Landmark Tower.",
+                      "ja": "東京タワーのほうが横浜ランドマークタワーより高いね。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_15",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Do you know any famous castles in Japan?",
+                      "ja": "君は日本にある何か有名なお城を知ってる？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_16",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "Yes.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_17",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "I know Himeji Castle and Osaka Castle.",
+                      "ja": "姫路城や大阪城を知ってるよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_18",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Great.",
+                      "ja": "すばらしいね。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_19",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Some famous castles are Japanese national treasures.",
+                      "ja": "いくつかの有名なお城は日本の国宝なんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_20",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Inuyama Castle and Hikone Castle are two of them.",
+                      "ja": "犬山城や彦根城はそれらのうちの2つだよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_21",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Which is older, Inuyama Castle or Hikone Castle?",
+                      "ja": "犬山城と彦根城ではどちらのほうが古い？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_22",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "Can I ask you a question?",
+                      "ja": "質問してもいい？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_23",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Sure.",
+                      "ja": "もちろん。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_24",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "Where are those castles?",
+                      "ja": "それらのお城はどこにあるの？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_25",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Inuyama Castle is on a small mountain, and Hikone Castle is on flat land.",
+                      "ja": "犬山城は小さな山の上で、彦根城は平らな土地にあるよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_26",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "I see.",
+                      "ja": "わかった。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_27",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "I think Inuyama Castle is older than Hikone Castle.",
+                      "ja": "犬山城のほうが彦根城より古いと思う。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_28",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "That's right.",
+                      "ja": "その通り。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_29",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Inuyama Castle is about 500 years old, and Hikone Castle is about 400 years old.",
+                      "ja": "犬山城は築500年ほどで、彦根城は築400年ほどなんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_30",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "How did you know the answer?",
+                      "ja": "どうやって答えを知ったの？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_31",
+                      "tag": "(2)",
+                      "speaker": "Tina",
+                      "en": "Well, I learned that many old castles are on mountains.",
+                      "ja": "うーん、多くの古いお城は山の上にあると学んだんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_32",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Oh, good thinking!",
+                      "ja": "へえ、いい考え方だね！"
+                    }
+                  ]
+                },
+                {
+                  "type": "audio_section",
+                  "header": "Part 2 の音声内容：アンケート調査の結果発表 (p.156 / 教科書p.95)",
+                  "items": [
+                    {
+                      "id": "G2_U7_EX_S_33",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "I asked my classmates about their school lives.",
+                      "ja": "ぼくは同級生に彼らの学校生活についてたずねました。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_34",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "The question was, \"What's the most important subject for you?\"",
+                      "ja": "質問は、「あなたにとっていちばん大切な教科は何ですか？」でした。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_35",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "I'd like to tell you about the results of the survey.",
+                      "ja": "その調査の結果についてあなたたちに伝えたいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_36",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Look at this graph.",
+                      "ja": "グラフを見てください。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_37",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "In our class, Japanese is the most important subject.",
+                      "ja": "ぼくたちのクラスでは、国語がいちばん大切な教科です。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_38",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Thirteen students think Japanese is the most important.",
+                      "ja": "13人の生徒が、国語がいちばん大切だと考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_39",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "The second is math.",
+                      "ja": "2位は数学です。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_40",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Ten students think math is the most important subject.",
+                      "ja": "10人の生徒が、数学がいちばん大切だと考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_41",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "English is third.",
+                      "ja": "英語は3位です。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_42",
+                      "tag": "(1)",
+                      "speaker": "Kota",
+                      "en": "Seven students think English is the most important.",
+                      "ja": "7人の生徒が、英語がいちばん大切だと考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_43",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "I also asked my classmates about their lives at home.",
+                      "ja": "ぼくはまた、同級生に彼らの家庭生活についてもたずねました。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_44",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "The question was, \"Which is the most exciting for you, playing video games, watching TV, or listening to music?\"",
+                      "ja": "質問は、「ゲームをすること、テレビを見ること、音楽を聞くこと、どれがいちばんわくわくしますか？」でした。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_45",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "I collected the answers and made a graph.",
+                      "ja": "ぼくは答えを集めてグラフを作りました。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_46",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Can you guess the results?",
+                      "ja": "結果を推測できますか。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_47",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "At first, I thought that playing video games would be the most popular, but I was wrong.",
+                      "ja": "最初は、ぼくはゲームをすることがいちばん人気になるだろうと考えましたが、間違っていました。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_48",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Look at this graph.",
+                      "ja": "このグラフを見てください。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_49",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Watching TV is more popular than playing video games.",
+                      "ja": "テレビを見ることのほうがゲームをすることよりも人気があります。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_50",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "18 students think watching TV is the most exciting activity.",
+                      "ja": "18人の生徒がテレビを見ることがいちばんわくわくする活動だと考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_51",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "That's about 45% of the class.",
+                      "ja": "それはクラスの45％ほどです。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_52",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Only 14 students think playing video games is the most exciting.",
+                      "ja": "たった14人の生徒がゲームをすることがいちばんわくわくすると考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_53",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "That's 35% of the class.",
+                      "ja": "それはクラスの35％ほどです。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_54",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "So it's not the most popular.",
+                      "ja": "だから、それはいちばん人気ではありません。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_55",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "How about listening to music?",
+                      "ja": "音楽を聞くことはどうでしょうか。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_56",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "Only 8 students think listening to music is the most exciting.",
+                      "ja": "たった8人の生徒が音楽を聞くことがいちばんわくわくすると考えています。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_57",
+                      "tag": "(2)",
+                      "speaker": "Kota",
+                      "en": "That's about 20% of the class.",
+                      "ja": "それはクラスの20％ほどです。"
+                    }
+                  ]
+                },
+                {
+                  "type": "story_section",
+                  "header": "Extra Story: 教室を飛び出してしまったHajin (p.156-157 / 教科書p.96)",
+                  "items": [
+                    {
+                      "id": "G2_U7_EX_S_58",
+                      "speaker": "Tina",
+                      "en": "Are you OK?",
+                      "ja": "大丈夫？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_59",
+                      "speaker": "Hajin",
+                      "en": "Yeah.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_60",
+                      "speaker": "Hajin",
+                      "en": "I'm fine now.",
+                      "ja": "今は元気だよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_61",
+                      "speaker": "Hajin",
+                      "en": "I just lost my temper.",
+                      "ja": "腹が立っただけ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_62",
+                      "speaker": "Tina",
+                      "en": "You know, Eri was trying to make it better.",
+                      "ja": "ねえ、エリはより良いものにしようとしていたんだよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_63",
+                      "speaker": "Hajin",
+                      "en": "I know.",
+                      "ja": "わかってる。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_64",
+                      "speaker": "Hajin",
+                      "en": "I'll apologize to her later.",
+                      "ja": "あとで彼女に謝るよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_65",
+                      "speaker": "Kota",
+                      "en": "Eri, are you all right?",
+                      "ja": "エリ、大丈夫？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_66",
+                      "speaker": "Eri",
+                      "en": "Yes, but I think I was too hard on you and Hajin.",
+                      "ja": "うん、でも私はあなたとハジンに厳しすぎたと思う。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_67",
+                      "speaker": "Eri",
+                      "en": "I'm sorry.",
+                      "ja": "ごめんね。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_68",
+                      "speaker": "Kota",
+                      "en": "We all understand.",
+                      "ja": "ぼくたちはみんな理解しているよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_69",
+                      "speaker": "Kota",
+                      "en": "You're under a lot of pressure.",
+                      "ja": "君はすごいプレッシャーにさらされている。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_70",
+                      "speaker": "Eri",
+                      "en": "I was upset.",
+                      "ja": "取り乱していたの。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_71",
+                      "speaker": "Kota",
+                      "en": "I know.",
+                      "ja": "わかってる。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_72",
+                      "speaker": "Kota",
+                      "en": "But you should talk to Hajin.",
+                      "ja": "でも、君はハジンに声をかけたほうがいいよ。"
+                    }
+                  ]
+                },
+                {
+                  "type": "audio_section",
+                  "header": "Part 3 の音声内容：見たいテレビ番組 (p.157 / 教科書p.97)",
+                  "items": [
+                    {
+                      "id": "G2_U7_EX_S_73",
+                      "speaker": "Nick",
+                      "en": "What are you watching, Tina?",
+                      "ja": "何を見ているの、ティナ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_74",
+                      "speaker": "Tina",
+                      "en": "Sports Fan.",
+                      "ja": "『スポーツファン』。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_75",
+                      "speaker": "Tina",
+                      "en": "I'm watching a report about taekwondo.",
+                      "ja": "テコンドーについてのレポートを見ているの。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_76",
+                      "speaker": "Tina",
+                      "en": "That's the national sport of Korea.",
+                      "ja": "韓国の国技なんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_77",
+                      "speaker": "Tina",
+                      "en": "Hajin told us about it.",
+                      "ja": "ハジンが私たちに教えてくれたよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_78",
+                      "speaker": "Nick",
+                      "en": "Yes, I remember.",
+                      "ja": "うん、覚えているよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_79",
+                      "speaker": "Nick",
+                      "en": "But I want to watch another program.",
+                      "ja": "でもほかの番組が見たいな。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_80",
+                      "speaker": "Tina",
+                      "en": "Hey, Nick.",
+                      "ja": "ちょっと、ニック。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_81",
+                      "speaker": "Tina",
+                      "en": "What are you doing?",
+                      "ja": "何してるの？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_82",
+                      "speaker": "Tina",
+                      "en": "I said I was watching Sports Fan.",
+                      "ja": "「スポーツファン」を見ているって言ったでしょ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_83",
+                      "speaker": "Nick",
+                      "en": "Yeah.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_84",
+                      "speaker": "Nick",
+                      "en": "But I want to watch Music Now.",
+                      "ja": "でもぼくは「ミュージックナウ」が見たいんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_85",
+                      "speaker": "Nick",
+                      "en": "Sports Fan is not as exciting as Music Now.",
+                      "ja": "「スポーツファン」は「ミュージックナウ」ほどわくわくしないよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_86",
+                      "speaker": "Tina",
+                      "en": "Nick, I was watching Sports Fan.",
+                      "ja": "ニック、私は「スポーツファン」を見ていたんだよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_87",
+                      "speaker": "Tina",
+                      "en": "Give me back the remote.",
+                      "ja": "リモコンを返して。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_88",
+                      "speaker": "Nick",
+                      "en": "OK, how about Quiz Don Don?",
+                      "ja": "じゃあ、「クイズドンドン」はどう？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_89",
+                      "speaker": "Nick",
+                      "en": "That's as interesting as Sports Fan.",
+                      "ja": "「スポーツファン」と同じくらい興味深いよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_90",
+                      "speaker": "Nick",
+                      "en": "You like quiz shows, too, don't you?",
+                      "ja": "クイズ番組も好きだよね？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_91",
+                      "speaker": "Nick",
+                      "en": "How about watching that together?",
+                      "ja": "それをいっしょに見るのはどう？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_92",
+                      "speaker": "Tina",
+                      "en": "No.",
+                      "ja": "いやよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_93",
+                      "speaker": "Tina",
+                      "en": "I want to watch Sports Fan.",
+                      "ja": "「スポーツファン」が見たいの。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_94",
+                      "speaker": "Nick",
+                      "en": "But taekwondo isn't as exciting as music.",
+                      "ja": "でも、テコンドーは音楽ほどわくわくしないよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_95",
+                      "speaker": "Nick",
+                      "en": "Let's watch Music Now.",
+                      "ja": "「ミュージックナウ」を見ようよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_96",
+                      "speaker": "Tina",
+                      "en": "Nick!",
+                      "ja": "ニック！"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_97",
+                      "speaker": "Ms. Rios",
+                      "en": "Hey, you two!",
+                      "ja": "ねえ、2人とも！"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_98",
+                      "speaker": "Ms. Rios",
+                      "en": "What are you doing?",
+                      "ja": "何をしているの？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_99",
+                      "speaker": "Ms. Rios",
+                      "en": "What's the matter?",
+                      "ja": "どうしたの？"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_100",
+                      "speaker": "Nick",
+                      "en": "I want to watch Music Now, but Tina won't let me watch it.",
+                      "ja": "ぼくは「ミュージックナウ」が見たいのに、ティナが見させてくれないんだ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_101",
+                      "speaker": "Nick",
+                      "en": "My favorite singer is going to appear in a few minutes.",
+                      "ja": "好きなアーティストがあと数分で出演するんだよ。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_102",
+                      "speaker": "Tina",
+                      "en": "OK, Nick.",
+                      "ja": "いいよ、ニック。"
+                    },
+                    {
+                      "id": "G2_U7_EX_S_103",
+                      "speaker": "Tina",
+                      "en": "Let's watch Music Now together.",
+                      "ja": "「ミュージックナウ」をいっしょに見よう。"
+                    }
+                  ]
+                }
+              ],
+              "page": "155-157"
+            }
+          },
+          "page": "97",
+          "textbook_page": "97",
+          "guide_page": ""
+        },
+        "GL": {
+          "title": "Goal: ポスター案について、自分の意見を伝えよう",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_GL_W_01",
+                  "headword": "size",
+                  "pronunciation": "/sáiz/",
+                  "pos": "名",
+                  "meaning": "大きさ"
+                },
+                {
+                  "id": "G2_U7_GL_W_02",
+                  "headword": "letter(s)",
+                  "pronunciation": "/létər(z)/",
+                  "pos": "名",
+                  "meaning": "文字"
+                },
+                {
+                  "id": "G2_U7_GL_W_03",
+                  "headword": "colorful",
+                  "pronunciation": "/kʌ́lərfəl/",
+                  "pos": "形",
+                  "meaning": "カラフルな"
+                },
+                {
+                  "id": "G2_U7_GL_W_04",
+                  "headword": "eye-catching",
+                  "pronunciation": "/áikætʃiŋ/",
+                  "pos": "形",
+                  "meaning": "人目をひく"
+                },
+                {
+                  "id": "G2_U7_GL_W_05",
+                  "headword": "excitement",
+                  "pronunciation": "/iksáitmənt/",
+                  "pos": "名",
+                  "meaning": "興奮、わくわく"
+                },
+                {
+                  "id": "G2_U7_GL_W_06",
+                  "headword": "other",
+                  "pronunciation": "/ʌ́ðər/",
+                  "pos": "代",
+                  "usage": "〔ふつう the ～で〕",
+                  "meaning": "（2つのうち）もう一方のもの［人］、〔the ～sで〕（3つ以上のうち）その他全てのもの［人］"
+                },
+                {
+                  "id": "G2_U7_GL_W_07",
+                  "headword": "choose",
+                  "pronunciation": "/tʃúːz/",
+                  "pos": "動",
+                  "meaning": "～を選ぶ",
+                  "note": "過去形：chose /tʃóuz/"
+                },
+                {
+                  "id": "G2_U7_GL_W_08",
+                  "headword": "point",
+                  "pronunciation": "/pɔ́int/",
+                  "pos": "名",
+                  "meaning": "論点、意見"
+                }
+              ],
+              "content_blocks": [],
+              "page": 160
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "poster_info_section",
+                  "header": "ポスター案の内容 (p.158 / 教科書p.98)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_P_01",
+                      "tag": "Poster A (Eri)",
+                      "en": "An Original Play / WORKING TOGETHER / at the Honcho International Festival",
+                      "ja": "オリジナル劇／協力／本町インターナショナルフェスティバルにて"
+                    },
+                    {
+                      "id": "G2_U7_GL_P_02",
+                      "tag": "Poster B (Tina)",
+                      "en": "Welcome! / An Original Play at the Honcho International Festival / Date: Saturday, Feb 14 / Start 2 p.m. / Place: Room 8 at Honcho Kominkan",
+                      "ja": "ようこそ！／本町インターナショナルフェスティバルでオリジナル劇／日時：2月14日 土曜日／開演 午後2時／場所：本町公民館8号室"
+                    },
+                    {
+                      "id": "G2_U7_GL_P_03",
+                      "tag": "Poster C (Hajin)",
+                      "en": "Feb 14",
+                      "ja": "2月14日"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_section",
+                  "header": "工夫した点とポスターの対応表 (p.158 / 教科書p.98)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_T_01",
+                      "label": "(1) Hajin [Poster C]",
+                      "text": "Pictures (絵): ○ / The size of the letters (文字のサイズ): [ ] / Colors (色): [ ]"
+                    },
+                    {
+                      "id": "G2_U7_GL_T_02",
+                      "label": "(2) Tina [Poster B]",
+                      "text": "Pictures (絵): ○ / The size of the letters (文字のサイズ): [ ] / Colors (色): ○"
+                    },
+                    {
+                      "id": "G2_U7_GL_T_03",
+                      "label": "(3) Eri [Poster A]",
+                      "text": "Pictures (絵): ○ / The size of the letters (文字のサイズ): ○ / Colors (色): [ ]"
+                    }
+                  ]
+                },
+                {
+                  "type": "speech_section",
+                  "header": "ポスター案の説明スピーチ (p.158-159 / 教科書p.98-99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_S_01",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "Hi, I made this poster.",
+                      "ja": "やあ、ぼくがこのポスターを作ったよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_02",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "I'm going to explain a few points about its design.",
+                      "ja": "そのデザインについていくつかのポイントを説明しようと思う。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_03",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "The most important point is the picture.",
+                      "ja": "いちばん大切なポイントは絵なんだ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_04",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "I drew two astronauts in the center of the poster because the play's main character is an astronaut.",
+                      "ja": "その劇の主人公が宇宙飛行士だから、2人の宇宙飛行士をポスターの中央に描いた。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_05",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "This poster has the biggest picture of the three.",
+                      "ja": "3枚の中ではこのポスターにいちばん大きな絵がある。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_06",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "It's cool, isn't it?",
+                      "ja": "かっこいいよね。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_07",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "When people see this poster, they'll be interested in our play.",
+                      "ja": "人々がこのポスターを見たら、ぼくたちの劇に興味を持つと思う。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_08",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "I think it's important to get a lot of attention.",
+                      "ja": "多くの注目を集めることが大切だと思うよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_09",
+                      "tag": "(1) Hajin",
+                      "speaker": "Hajin",
+                      "en": "My poster is the most eye-catching.",
+                      "ja": "ぼくのポスターはいちばん人目を引くよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_10",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "I'd like to explain my poster's good points.",
+                      "ja": "私のポスターのよいポイントを説明しようと思う。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_11",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "The best point is the colors.",
+                      "ja": "いちばんよいポイントは色。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_12",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "I use yellow, orange, red, pink, and violet.",
+                      "ja": "黄、オレンジ、赤、ピンク、紫を使っているの。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_13",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "My poster is the most colorful of all.",
+                      "ja": "私のポスターは全部の中でいちばんカラフルだよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_14",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "In addition, I put a picture of some funny characters in our play at the top.",
+                      "ja": "さらに、上の方にいくつかのおもしろいキャラクターの絵を描いたよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_15",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "They look cute.",
+                      "ja": "それらはかわいく見える。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_16",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "When people see this poster, they'll smile and think that our play is a lot of fun.",
+                      "ja": "人々がこのポスターを見たら、笑って、私たちの劇はとてもおもしろいんだろうなと思ってくれる。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_17",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "I think the most important point is a feeling of excitement.",
+                      "ja": "私はわくわくする気持ちがいちばん大切なポイントだと思う。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_18",
+                      "tag": "(2) Tina",
+                      "speaker": "Tina",
+                      "en": "I hope a lot of people will come to see our play.",
+                      "ja": "たくさんの人が私たちの劇を見に来てくれるといいな。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_19",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "This is my poster.",
+                      "ja": "これが私のポスターだよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_20",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "I think it's most important to show the theme of our play.",
+                      "ja": "私たちの劇のテーマを見せることがいちばん大切だと思うんだ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_21",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "I put the words \"Working Together\" in the middle.",
+                      "ja": "真ん中に「協力」という言葉を置いたの。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_22",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "This poster has the largest letters; when people see this poster, they will easily understand the theme.",
+                      "ja": "このポスターにはいちばん大きな文字がある、人々がこのポスターを見たとき、テーマを簡単に理解できると思う。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_23",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "I want to say one more thing.",
+                      "ja": "私はもう1つ言いたいことがあるの。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_24",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "Look at the small picture at the top.",
+                      "ja": "上の方の小さな絵を見て。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_25",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "The image of three hands expresses the theme of our play \"Working Together.\"",
+                      "ja": "3人の手が、「協力」という私たちのテーマを表現しているんだ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_26",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "My poster is the easiest to understand.",
+                      "ja": "私のポスターはいちばん理解しやすいよ。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_27",
+                      "tag": "(3) Eri",
+                      "speaker": "Eri",
+                      "en": "It is easy to imagine our play.",
+                      "ja": "私たちの劇を想像するのが簡単なんだ。"
+                    }
+                  ]
+                },
+                {
+                  "type": "memo_section",
+                  "header": "Extra: 一番大切にしたことのメモ [解答例] (p.159 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_M_01",
+                      "label": "(1) Hajin",
+                      "en": "the most important point is the picture",
+                      "ja": "いちばん大切なポイントは絵"
+                    },
+                    {
+                      "id": "G2_U7_GL_M_02",
+                      "label": "(2) Tina",
+                      "en": "the most important point is a feeling of excitement",
+                      "ja": "いちばん大切なポイントはわくわくする気持ち"
+                    },
+                    {
+                      "id": "G2_U7_GL_M_03",
+                      "label": "(3) Eri",
+                      "en": "it's most important to show the theme of our play",
+                      "ja": "私たちの劇のテーマを見せることがいちばん大切"
+                    }
+                  ]
+                },
+                {
+                  "type": "phrase_list_section",
+                  "header": "Key Words (p.160 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_K_01",
+                      "en": "colorful",
+                      "ja": "カラフルな"
+                    },
+                    {
+                      "id": "G2_U7_GL_K_02",
+                      "en": "easy to understand",
+                      "ja": "理解しやすい"
+                    },
+                    {
+                      "id": "G2_U7_GL_K_03",
+                      "en": "eye-catching",
+                      "ja": "人目をひく"
+                    },
+                    {
+                      "id": "G2_U7_GL_K_04",
+                      "en": "feeling of excitement",
+                      "ja": "わくわくする気持ち"
+                    }
+                  ]
+                },
+                {
+                  "type": "discussion_section",
+                  "header": "Speak ①: 考えを伝え合おう (p.160 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_S_28",
+                      "label": "モデル 1",
+                      "en": "I think A is the best.",
+                      "ja": "私はAがいちばんよいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_29",
+                      "label": "モデル 1",
+                      "en": "It's the easiest to read.",
+                      "ja": "読みやすいです。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_30",
+                      "label": "モデル 2",
+                      "en": "I think C is better than the others because the pictures are beautiful.",
+                      "ja": "絵が美しいので、私はCがその他のものよりよいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_31",
+                      "label": "解答例 A",
+                      "speaker": "A",
+                      "en": "I think B is the best.",
+                      "ja": "私はBがいちばんよいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_32",
+                      "label": "解答例 A",
+                      "speaker": "A",
+                      "en": "It's colorful and it expresses a feeling of excitement.",
+                      "ja": "カラフルで、わくわくする気持ちを表しています。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_33",
+                      "label": "解答例 B",
+                      "speaker": "B",
+                      "en": "I think C is better than the others because it's eye-catching.",
+                      "ja": "人目をひくので、私はCがその他のものよりよいと思います。"
+                    }
+                  ]
+                },
+                {
+                  "type": "presentation_section",
+                  "header": "Speak ②: 発表しよう (p.160 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_F_01",
+                      "tag": "枠組み",
+                      "en": "We chose this poster because ....",
+                      "ja": "……なので、私たちはこのポスターを選びました。"
+                    },
+                    {
+                      "id": "G2_U7_GL_F_02",
+                      "tag": "枠組み",
+                      "en": "The most important point is ....",
+                      "ja": "いちばん大切なポイントは～です。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_34",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "We chose this poster B because it has two good points.",
+                      "ja": "2つのよいポイントがあるので、私たちはこのポスターBを選びました。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_35",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "First, the best point is colors.",
+                      "ja": "まず、いちばんよいポイントは色です。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_36",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "It's very colorful and beautiful.",
+                      "ja": "とてもカラフルで美しいです。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_37",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "When people see this poster, they'll feel happy.",
+                      "ja": "人々がこのポスターを見ると、楽しく感じると思います。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_38",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "Second, this poster expresses a feeling of excitement.",
+                      "ja": "次に、このポスターはわくわくする気持ちを表現しています。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_39",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "There are some funny characters on the top.",
+                      "ja": "いくつかのおもしろいキャラクターが上の方にいます。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_40",
+                      "label": "発表解答例 (選んだポスター：B)",
+                      "en": "They look cute and exciting.",
+                      "ja": "それらはかわいく、わくわくしそうです。"
+                    }
+                  ]
+                },
+                {
+                  "type": "suggestion_section",
+                  "header": "Extra: ポスター改善のアイデア提案 [解答例] (p.160 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_S_41",
+                      "en": "I have a suggestion for this poster.",
+                      "ja": "このポスターのための提案があります。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_42",
+                      "en": "I think we should change the size of the letters.",
+                      "ja": "文字のサイズを変えるべきだと思います。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_43",
+                      "en": "The size of the letters is small.",
+                      "ja": "文字のサイズが小さいです。"
+                    },
+                    {
+                      "id": "G2_U7_GL_S_44",
+                      "en": "Why don't you use bigger size of letters?",
+                      "ja": "より大きなサイズの文字を使ってはどうですか。"
+                    }
+                  ]
+                },
+                {
+                  "type": "evaluation_section",
+                  "header": "ふりかえり CAN-DO (p.160 / 教科書p.99)",
+                  "items": [
+                    {
+                      "id": "G2_U7_GL_C_01",
+                      "tag": "CAN-DO (L-2)",
+                      "text": "ポスター案の説明を聞いて、おおまかな内容を捉えることができる。"
+                    },
+                    {
+                      "id": "G2_U7_GL_C_02",
+                      "tag": "CAN-DO (SI-2)",
+                      "text": "複数のポスター案を比べ、自分の意見とその理由を伝え合うことができる。"
+                    }
+                  ]
+                }
+              ],
+              "page": "158-160"
+            }
+          },
+          "page": "98",
+          "textbook_page": "98",
+          "guide_page": ""
+        },
+        "P1": {
+          "title": "Part 1: TinaとEriの企画会議",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_P1_W_01",
+                  "headword": "international",
+                  "pronunciation": "/ìntərnǽʃənl/",
+                  "pos": "形",
+                  "meaning": "国際的な"
+                },
+                {
+                  "id": "G2_U7_P1_W_02",
+                  "headword": "crazy",
+                  "pronunciation": "/kréizi/",
+                  "pos": "形",
+                  "meaning": "どうかした、ばかげた"
+                },
+                {
+                  "id": "G2_U7_P1_W_03",
+                  "headword": "musical",
+                  "pronunciation": "/mjúːzikl/",
+                  "pos": "名",
+                  "meaning": "ミュージカル"
+                },
+                {
+                  "id": "G2_U7_P1_W_04",
+                  "headword": "play",
+                  "pronunciation": "/pléi/",
+                  "pos": "名",
+                  "meaning": "劇、芝居"
+                },
+                {
+                  "id": "G2_U7_P1_W_05",
+                  "headword": "than",
+                  "pronunciation": "/ðæn/",
+                  "pos": "接",
+                  "meaning": "～よりも"
+                },
+                {
+                  "id": "G2_U7_P1_W_06",
+                  "headword": "write",
+                  "pronunciation": "/ráit/",
+                  "pos": "動",
+                  "meaning": "（物語・詩・音楽など）を執筆する"
+                },
+                {
+                  "id": "G2_U7_P1_W_07",
+                  "headword": "original",
+                  "pronunciation": "/ərídʒənl/",
+                  "pos": "形",
+                  "meaning": "独創的な、独自の"
+                },
+                {
+                  "id": "G2_U7_P1_W_08",
+                  "headword": "script",
+                  "pronunciation": "/skrípt/",
+                  "pos": "名",
+                  "meaning": "脚本、台本"
+                },
+                {
+                  "id": "G2_U7_P1_W_09",
+                  "headword": "theme",
+                  "pronunciation": "/θíːm/",
+                  "pos": "名",
+                  "meaning": "主題、テーマ"
+                },
+                {
+                  "id": "G2_U7_P1_W_10",
+                  "headword": "friendship",
+                  "pronunciation": "/fréndʃìp/",
+                  "pos": "名",
+                  "meaning": "友情"
+                },
+                {
+                  "id": "G2_U7_P1_W_11",
+                  "headword": "come",
+                  "pronunciation": "/kʌ́m/",
+                  "pos": "動",
+                  "meaning": "～に達する"
+                },
+                {
+                  "id": "G2_U7_P1_W_12",
+                  "headword": "come up with ~",
+                  "meaning": "～を思いつく"
+                },
+                {
+                  "id": "G2_U7_P1_W_13",
+                  "headword": "castle",
+                  "pronunciation": "/kǽsl/",
+                  "pos": "名",
+                  "meaning": "城"
+                },
+                {
+                  "id": "G2_U7_P1_W_14",
+                  "headword": "better",
+                  "pronunciation": "/bétər/",
+                  "pos": "形",
+                  "usage": "〔goodの比較級〕",
+                  "meaning": "よりよい、より適した"
+                },
+                {
+                  "id": "G2_U7_P1_W_15",
+                  "headword": "choice",
+                  "pronunciation": "/tʃɔ́is/",
+                  "pos": "名",
+                  "meaning": "選ぶこと、選択"
+                }
+              ],
+              "content_blocks": [],
+              "page": "146-147"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "TinaとEriの企画会議 (p.146 / 教科書p.92)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P1_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Tinaたちは、マッピングを使って何のアイデアを出そうとしていますか。",
+                      "ja": "Q. ティナたちは、マッピングを使って何のアイデアを出そうとしていますか。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_A1",
+                      "speaker": "Answer",
+                      "tag": "例",
+                      "en": "A. (例) 友情をテーマとした劇のストーリー。",
+                      "ja": "A. (例) 友情をテーマとした劇のストーリー。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_01",
+                      "ref_num": "①",
+                      "speaker": "Tina",
+                      "en": "The Honcho International Festival is coming soon.",
+                      "ja": "本町インターナショナルフェスティバルがもうすぐだね。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_02",
+                      "ref_num": "②",
+                      "speaker": "Eri",
+                      "en": "It's the biggest event of the year.",
+                      "ja": "1年で一番大きなイベントだね。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_03",
+                      "ref_num": "③",
+                      "speaker": "Tina",
+                      "en": "Yeah.",
+                      "ja": "うん。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_04",
+                      "ref_num": "④",
+                      "speaker": "Tina",
+                      "en": "It may sound crazy, but should we try a musical?",
+                      "ja": "ばかげて聞こえるかもしれないけど、ミュージカルをやってみるべきじゃない？"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Eri",
+                      "en": "That's too difficult.",
+                      "ja": "それは難しすぎるよ。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Eri",
+                      "en": "I think a play is easier than a musical.",
+                      "ja": "劇のほうがミュージカルより簡単だと思うな。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Tina",
+                      "en": "I guess you're right.",
+                      "ja": "その通りだね。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Eri",
+                      "en": "Let's write an original script.",
+                      "ja": "オリジナルの台本を書こうよ。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Eri",
+                      "en": "The theme is friendship.",
+                      "ja": "テーマは友情。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Eri",
+                      "en": "Any good ideas for the story?",
+                      "ja": "ストーリーに何かいいアイディアはある？"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "I want to try a science fiction drama.",
+                      "ja": "SF演劇をやってみたいな。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Eri",
+                      "en": "Sounds fun.",
+                      "ja": "面白そうだね。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Tina",
+                      "en": "Let's try mapping.",
+                      "ja": "マッピングをしてみよう。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Tina",
+                      "en": "It's the best way to come up with good ideas.",
+                      "ja": "いいアイディアを思いつくのに最適なやり方だよ。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_15",
+                      "speaker": "You're the Writer!",
+                      "tag": "解答例",
+                      "en": "What is mapping? Tell me more about it.",
+                      "ja": "マッピングって何かな。もっと教えて。"
+                    }
+                  ]
+                },
+                {
+                  "type": "quiz_section",
+                  "header": "Listen: 日本の地理についてのクイズ (p.147 / 教科書p.93)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P1_Q_01",
+                      "label": "(1) taller (より高い)",
+                      "en": "Yokohama Landmark Tower [ ] / Tokyo Tower [✓]",
+                      "ja": "横浜ランドマークタワー［ ］／ 東京タワー［✓］"
+                    },
+                    {
+                      "id": "G2_U7_P1_Q_02",
+                      "label": "(2) older (より古い)",
+                      "en": "Hikone Castle [ ] / Inuyama Castle [✓]",
+                      "ja": "彦根城［ ］／ 犬山城［✓］"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Speak 1 & 2: 地域のイベントや名所を比べよう (p.147 / 教科書p.93)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P1_S_16",
+                      "speaker": "1. [例] A",
+                      "en": "Sapporo TV Tower is taller than Sapporo Clock Tower.",
+                      "ja": "札幌テレビ塔は札幌市時計台よりも高いです。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_17",
+                      "speaker": "1. [例] B",
+                      "en": "Takino Suzuran Hillside Park is the largest park in Sapporo.",
+                      "ja": "国営滝野すずらん丘陵公園は札幌でいちばん広い公園です。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_18",
+                      "speaker": "1. [解答例] A",
+                      "en": "Daigo-ji is older than Kiyomizu-dera Temple.",
+                      "ja": "醍醐寺は清水寺よりも古いです。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_19",
+                      "speaker": "1. [解答例] B",
+                      "en": "Kyoto Prefectural Yamashiro Comprehensive Sports Park is the largest park in Kyoto.",
+                      "ja": "京都府立山城総合運動公園は京都でいちばん広い公園です。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_20",
+                      "speaker": "2. [例] A",
+                      "en": "I think the Sapporo Snow Festival is the best choice because it's the biggest winter event in Sapporo City.",
+                      "ja": "札幌市でいちばん大きな冬のイベントなので、札幌雪まつりがいちばんよい選択だと思います。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_21",
+                      "speaker": "2. [例] B",
+                      "en": "Ms. Thusi likes animals, so I think Maruyama Zoo is better.",
+                      "ja": "ツィ先生は動物が好きなので、円山動物園のほうがよいと思います。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_22",
+                      "speaker": "2. [解答例] A",
+                      "en": "I think the Kyoto Gion Festival is the best choice because it's the biggest summer event in Kyoto City.",
+                      "ja": "京都市でいちばん大きな夏のイベントなので、京都祇園祭がいちばんよい選択だと思います。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_23",
+                      "speaker": "2. [解答例] B",
+                      "en": "Ms. Brown is interested in kimonos, so I think Cherry-blossom viewing parade and Festival in Hirano Shrine is better.",
+                      "ja": "ブラウン先生は着物に興味があるので、平野神社の桜花祭のほうがよいと思います。"
+                    }
+                  ]
+                },
+                {
+                  "type": "writing_section",
+                  "header": "Write: ALTに向けた紹介文 [解答例] (p.147 / 教科書p.93)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P1_S_24",
+                      "en": "Daigo-ji is the oldest building in Kyoto.",
+                      "ja": "醍醐寺は京都でいちばん古い建物です。",
+                      "note": "教科書ガイド印刷表記：Digo-ji"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_25",
+                      "en": "It is older than Kiyomizu-dera Temple.",
+                      "ja": "清水寺よりも古いです。"
+                    },
+                    {
+                      "id": "G2_U7_P1_S_26",
+                      "en": "You can see the beautiful garden.",
+                      "ja": "美しい庭を見ることができます。",
+                      "note": "教科書ガイド印刷表記：beatiful"
+                    }
+                  ]
+                }
+              ],
+              "page": "146-147"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G2_U7_P1_K_01",
+                  "en": "This festival is a big event.",
+                  "ja": "この催しは大きなイベントです。"
+                },
+                {
+                  "id": "G2_U7_P1_K_02",
+                  "en": "This festival is ==**bigger than**== the Honcho Summer Festival.",
+                  "ja": "この催しは本町夏祭りより大きいです。"
+                },
+                {
+                  "id": "G2_U7_P1_K_03",
+                  "en": "This festival is ==**the biggest**== event of the year.",
+                  "ja": "この催しは1年でいちばん大きなイベントです。",
+                  "ref_id": "G2_U7_P1_S_02"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "何かと比べて説明する。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "This festival is a big event.",
+                      "ja": "(この催しは大きなイベントです。)",
+                      "ref_id": "G2_U7_P1_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "This festival is ==**bigger than**== the Honcho Summer Festival.",
+                      "ja": "(この催しは本町夏祭りより大きいです。)",
+                      "ref_id": "G2_U7_P1_K_02"
+                    },
+                    {
+                      "ref_num": "③",
+                      "en": "This festival is ==**the biggest**== event of the year.",
+                      "ja": "(この催しは1年でいちばん大きなイベントです。)",
+                      "ref_id": "G2_U7_P1_K_03"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "比較級と最上級 (-er / -est)",
+                  "text": "何かを比べて「…より～」と説明するときは、形容詞や副詞の語尾を ==**-(e)r（比較級）**==に変え、==**〈形容詞・副詞の比較級 ＋ than ...〉**==の形で表します。「いちばん～」と説明するときは、語尾を ==**-(e)st（最上級）**==に変え、==**〈the ＋ 形容詞・副詞の最上級〉**==の形で表します。「…の中で」と言うときは、後に同種類のものの（複数）がくる場合は **of**、場所や範囲を表す語句（単数）がくる場合は **in** を使って表します。",
+                  "items": [
+                    {
+                      "tag": "普通の文",
+                      "en": "This festival is a big event.",
+                      "ja": "この催しは大きなイベントです。"
+                    },
+                    {
+                      "tag": "比較級の文",
+                      "en": "This festival is ==**bigger than**== the Honcho Summer Festival.",
+                      "ja": "この催しは本町夏祭りより大きいです。",
+                      "note": "〈比較級 ＋ than〉"
+                    },
+                    {
+                      "tag": "最上級の文",
+                      "en": "This festival is ==**the biggest**== event of the year.",
+                      "ja": "この催しは1年でいちばん大きなイベントです。",
+                      "note": "〈the ＋ 最上級〉"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G2_U7_P1G_E_01",
+                      "ref_num": "②",
+                      "en": "It's the biggest event of the year.",
+                      "text": "==**〈the ＋ 形容詞・副詞の最上級〉**==で「いちばん～」と説明する最上級の文です。形容詞 big の語尾を **biggest** と変えると、最上級になります。「…の中で」と言うとき、同種類のものの（複数）がくる場合は **of** を使います。",
+                      "ref_id": "G2_U7_P1_S_02"
+                    },
+                    {
+                      "id": "G2_U7_P1G_E_02",
+                      "ref_num": "④",
+                      "en": "It may sound crazy, but should we try a musical?",
+                      "text": "**may** は「～かもしれない」と、推量を表す助動詞です。**should** は「～すべきである」と、助言・義務を表す助動詞です。2つの文を接続詞の **but** がつないでいます。",
+                      "ref_id": "G2_U7_P1_S_04"
+                    },
+                    {
+                      "id": "G2_U7_P1G_E_03",
+                      "ref_num": "⑥",
+                      "en": "I think a play is easier than a musical.",
+                      "text": "==**〈形容詞・副詞の比較級 ＋ than …〉**==で、何かを比べて「…より～」と説明する比較級の文です。比較級の文を作るときは、形容詞や副詞の語尾を **-(e)r** に変えます。",
+                      "ref_id": "G2_U7_P1_S_06"
+                    },
+                    {
+                      "id": "G2_U7_P1G_E_04",
+                      "ref_num": "⑭",
+                      "en": "It's the best way to come up with good ideas.",
+                      "text": "「いちばん～」と説明する==**〈the ＋ 形容詞・副詞の最上級〉**==の形で表す最上級の文です。**best** は形容詞 good の最上級です。**come up with ～** で「～を思いつく」という意味を表します。",
+                      "ref_id": "G2_U7_P1_S_14"
+                    }
+                  ]
+                }
+              ],
+              "page": 147,
+              "title": "Part 1 本文の解説"
+            }
+          },
+          "page": "92",
+          "textbook_page": "92",
+          "guide_page": ""
+        },
+        "P2": {
+          "title": "Part 2: 二人の自信作",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_P2_W_01",
+                  "headword": "Jonathan",
+                  "pronunciation": "/dʒάnəθən/",
+                  "pos": "名",
+                  "meaning": "ジョナサン〔人物の名〕"
+                },
+                {
+                  "id": "G2_U7_P2_W_02",
+                  "headword": "android",
+                  "pronunciation": "/ǽndrɔid/",
+                  "pos": "名",
+                  "meaning": "アンドロイド"
+                },
+                {
+                  "id": "G2_U7_P2_W_03",
+                  "headword": "spaceship",
+                  "pronunciation": "/spéissìp/",
+                  "pos": "名",
+                  "meaning": "宇宙船"
+                },
+                {
+                  "id": "G2_U7_P2_W_04",
+                  "headword": "space",
+                  "pronunciation": "/spéis/",
+                  "pos": "名",
+                  "meaning": "宇宙"
+                },
+                {
+                  "id": "G2_U7_P2_W_05",
+                  "headword": "more",
+                  "pronunciation": "/mɔ́ːr/",
+                  "pos": "副",
+                  "usage": "〔比較級をつくる〕",
+                  "meaning": "（～より）もっと"
+                },
+                {
+                  "id": "G2_U7_P2_W_06",
+                  "headword": "normal",
+                  "pronunciation": "/nɔ́ːrml/",
+                  "pos": "形",
+                  "meaning": "標準の、ふつうの"
+                },
+                {
+                  "id": "G2_U7_P2_W_07",
+                  "headword": "teamwork",
+                  "pronunciation": "/tíːmwə̀ːrk/",
+                  "pos": "名",
+                  "meaning": "チームワーク"
+                },
+                {
+                  "id": "G2_U7_P2_W_08",
+                  "headword": "most",
+                  "pronunciation": "/móust/",
+                  "pos": "副",
+                  "usage": "〔最上級をつくる〕",
+                  "meaning": "最も"
+                },
+                {
+                  "id": "G2_U7_P2_W_09",
+                  "headword": "take place",
+                  "meaning": "起こる、行われる"
+                },
+                {
+                  "id": "G2_U7_P2_W_10",
+                  "headword": "question(s)",
+                  "pronunciation": "/kwéstʃən(z)/",
+                  "pos": "名",
+                  "meaning": "質問"
+                },
+                {
+                  "id": "G2_U7_P2_W_11",
+                  "headword": "answer(s)",
+                  "pronunciation": "/ǽnsər(z)/",
+                  "pos": "名",
+                  "meaning": "答え"
+                }
+              ],
+              "content_blocks": [],
+              "page": "148-149"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "二人の自信作 (p.148 / 教科書p.94)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P2_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Eriたちが書いた台本は、どこを舞台にしたストーリーでしょうか。",
+                      "ja": "Q. エリたちが書いた台本は、どこを舞台にしたストーリーでしょうか。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_A1",
+                      "speaker": "Answer",
+                      "tag": "例",
+                      "en": "A. (例) 宇宙船。",
+                      "ja": "A. (例) 宇宙船。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_01",
+                      "ref_num": "①",
+                      "speaker": "Tina",
+                      "en": "Look, everyone!",
+                      "ja": "みんな、見て！"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_02",
+                      "ref_num": "②",
+                      "speaker": "Tina",
+                      "en": "The script for our original play.",
+                      "ja": "私たちのオリジナル劇の台本だよ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_03",
+                      "ref_num": "③",
+                      "speaker": "Eri",
+                      "en": "I hope you guys like it.",
+                      "ja": "みんな気に入ってくれるといいな。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_04",
+                      "ref_num": "④",
+                      "speaker": "Tina",
+                      "en": "Kota, you're Jonathan, the main character.",
+                      "ja": "コウタはジョナサン役、主人公だよ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Eri",
+                      "en": "Hajin, you're F15.",
+                      "ja": "ハジンはF15役。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Eri",
+                      "en": "You're an android.",
+                      "ja": "アンドロイドだよ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Hajin",
+                      "en": "What?!",
+                      "ja": "何だって？！"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Eri",
+                      "en": "The story takes place on a spaceship.",
+                      "ja": "物語は宇宙船上で進むんだ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Eri",
+                      "en": "It's a science fiction drama!",
+                      "ja": "SF演劇だよ！"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Kota",
+                      "en": "I thought it was about school life.",
+                      "ja": "学校生活についての劇だと思っていた。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Tina",
+                      "en": "Yes, but a school in space is more exciting than a normal one.",
+                      "ja": "うん。でも宇宙の学校のほうが普通の学校よりもわくわくするでしょ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Kota",
+                      "en": "I don't know about that ....",
+                      "ja": "それはわからないけど……。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Eri",
+                      "en": "Don't worry, we have time to prepare.",
+                      "ja": "心配しないで、準備する時間はあるから。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Tina",
+                      "en": "Teamwork is the most important thing, everyone.",
+                      "ja": "みんな、チームワークがいちばん大切だよ。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_15",
+                      "speaker": "You're the Writer!",
+                      "tag": "解答例",
+                      "en": "I know that, but I'm worried.",
+                      "ja": "それは知っているけど、心配だよ。"
+                    }
+                  ]
+                },
+                {
+                  "type": "listening_check_section",
+                  "header": "Listen: アンケート調査の結果発表 (p.149 / 教科書p.95)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P2_L_01",
+                      "label": "(1) 学校生活",
+                      "en": "Japanese, English, Math -> Graph C [✓]",
+                      "ja": "国語、英語、数学 ➔ グラフC［✓］"
+                    },
+                    {
+                      "id": "G2_U7_P2_L_02",
+                      "label": "(2) 家庭生活",
+                      "en": "Playing video games, Watching TV, Listening to music -> Graph F [✓]",
+                      "ja": "テレビゲームをすること、テレビを見ること、音楽を聞くこと ➔ グラフF［✓］"
+                    }
+                  ]
+                },
+                {
+                  "type": "interview_section",
+                  "header": "Speak (About You): 10人にインタビューをしよう [解答例] (p.149 / 教科書p.95)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P2_Q_01",
+                      "label": "Questions (1)",
+                      "en": "Which is more difficult for you, ① math or ② English?",
+                      "ja": "① 数学と ② 英語、どちらのほうがあなたにとってより難しいですか。"
+                    },
+                    {
+                      "id": "G2_U7_P2_A_01",
+                      "label": "Answers (1)",
+                      "en": "① 4 students, ② 6 students",
+                      "ja": "① 4人、② 6人"
+                    },
+                    {
+                      "id": "G2_U7_P2_Q_02",
+                      "label": "Questions (2)",
+                      "en": "What is the most important thing in your life?",
+                      "ja": "あなたの人生にとっていちばん大切なことは何ですか。"
+                    },
+                    {
+                      "id": "G2_U7_P2_A_02",
+                      "label": "Answers (2)",
+                      "en": "my friends",
+                      "ja": "友達"
+                    },
+                    {
+                      "id": "G2_U7_P2_Q_03",
+                      "label": "Questions (3)",
+                      "en": "What is the most famous building in your country?",
+                      "ja": "あなたの国でいちばん有名な建物は何ですか。"
+                    },
+                    {
+                      "id": "G2_U7_P2_A_03",
+                      "label": "Answers (3)",
+                      "en": "Tokyo Tower",
+                      "ja": "東京タワー"
+                    }
+                  ]
+                },
+                {
+                  "type": "writing_section",
+                  "header": "Write (About You): インタビューの結果を書こう (p.149 / 教科書p.95)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P2_S_16",
+                      "speaker": "[例]",
+                      "en": "Six students think English is more difficult than math.",
+                      "ja": "6人の生徒が英語のほうが数学より難しいと思っています。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_17",
+                      "speaker": "[例]",
+                      "en": "Masami thinks the most important thing is having friends.",
+                      "ja": "マサミは友達を持つことがいちばん大切なことだと思っています。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_18",
+                      "speaker": "[解答例]",
+                      "en": "Four students think math is more difficult than English.",
+                      "ja": "4人の生徒が数学の方が英語より難しいと思っています。"
+                    },
+                    {
+                      "id": "G2_U7_P2_S_19",
+                      "speaker": "[解答例]",
+                      "en": "Takeru thinks the most famous building in Japan is Tokyo Tower.",
+                      "ja": "タケルは、日本でいちばん有名な建物は東京タワーだと思っています。"
+                    }
+                  ]
+                }
+              ],
+              "page": "148-149"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G2_U7_P2_K_01",
+                  "en": "A school in space is ==**more exciting than**== a normal one.",
+                  "ja": "宇宙の学校は、普通の学校よりわくわくします。",
+                  "ref_id": "G2_U7_P2_S_11"
+                },
+                {
+                  "id": "G2_U7_P2_K_02",
+                  "en": "Teamwork is ==**the most important**== thing.",
+                  "ja": "チームワークはいちばん大事なことです。",
+                  "ref_id": "G2_U7_P2_S_14"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "何かと比べて説明する。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "A school in space is ==**more exciting than**== a normal one.",
+                      "ja": "(宇宙の学校は、普通の学校よりわくわくします。)",
+                      "ref_id": "G2_U7_P2_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "Teamwork is ==**the most important**== thing.",
+                      "ja": "(チームワークはいちばん大事なことです。)",
+                      "ref_id": "G2_U7_P2_K_02"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "比較級と最上級 (more / the most)",
+                  "text": "音節が2つ以上ある形容詞や副詞の中には、前に ==**more**== を置いて、==**〈more ＋ 形容詞・副詞の原級 ＋ than ...〉**==の形で比較級にするものがあります。最上級にするときは、==**the most**== を置いて、==**〈the most ＋ 形容詞・副詞の原級〉**==の形で表します。どちらも語尾は変化しません。原級とは、-(e)r や -(e)st が付かないもとの形のことです。",
+                  "items": [
+                    {
+                      "tag": "比較級 (語尾に -er)",
+                      "en": "I'm ==**taller than**== you.",
+                      "ja": "私はあなたよりも背が高いです。"
+                    },
+                    {
+                      "tag": "比較級 (前に more)",
+                      "en": "I'm ==**more nervous than**== you.",
+                      "ja": "私はあなたよりも緊張しています。"
+                    },
+                    {
+                      "tag": "最上級 (語尾に -est)",
+                      "en": "I'm ==**the tallest**== in my class.",
+                      "ja": "私はクラスの中でいちばん背が高いです。"
+                    },
+                    {
+                      "tag": "最上級 (前に most)",
+                      "en": "I'm ==**the most nervous**== in my class.",
+                      "ja": "私はクラスの中でいちばん緊張しています。"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G2_U7_P2G_E_01",
+                      "ref_num": "⑪",
+                      "en": "Yes, but a school in space is more exciting than a normal one.",
+                      "note": "→教科書p.94 Key Phrase",
+                      "text": "**Yes, but ....** は「そうですよね。一方で…。」という意味を表し、相手が言ったことなどを受け止めた後に自分の考えを伝える表現です。また、exciting のように音節が2つ以上の形容詞や副詞の中には、前に more を置いて、==**〈more ＋ 形容詞・副詞の原級〉**==の形で比較級にするものがあります。",
+                      "ref_id": "G2_U7_P2_S_11"
+                    },
+                    {
+                      "id": "G2_U7_P2G_E_02",
+                      "ref_num": "⑬",
+                      "en": "Don't worry, we have time to prepare.",
+                      "text": "**to prepare** は、形容詞的用法の不定詞で、直前の名詞 **time** を後ろから説明しています。",
+                      "ref_id": "G2_U7_P2_S_13"
+                    },
+                    {
+                      "id": "G2_U7_P2G_E_03",
+                      "ref_num": "⑭",
+                      "en": "Teamwork is the most important thing, everyone.",
+                      "text": "important のように音節が2つ以上の形容詞や副詞の中には、前に the most を置いて、==**〈the most ＋ 形容詞・副詞の原級〉**==の形で最上級にするものがあります。語尾は変化しないので注意しましょう。",
+                      "ref_id": "G2_U7_P2_S_14"
+                    }
+                  ]
+                }
+              ],
+              "page": 149,
+              "title": "Part 2 本文の解説"
+            }
+          },
+          "page": "94",
+          "textbook_page": "94",
+          "guide_page": ""
+        },
+        "P3": {
+          "title": "Part 3: 本番2日前に…",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_P3_W_01",
+                  "headword": "rehearse",
+                  "pronunciation": "/rihə́ːrs/",
+                  "pos": "動",
+                  "meaning": "～のリハーサルをする、～の下稽古をする",
+                  "note": "-ing形：rehearsing /rihə́ːrsiŋ/"
+                },
+                {
+                  "id": "G2_U7_P3_W_02",
+                  "headword": "blow",
+                  "pronunciation": "/blóu/",
+                  "pos": "動",
+                  "meaning": "～を飛ばす",
+                  "note": "過去形：blew /blúː/"
+                },
+                {
+                  "id": "G2_U7_P3_W_03",
+                  "headword": "line",
+                  "pronunciation": "/láin/",
+                  "pos": "名",
+                  "meaning": "せりふ"
+                },
+                {
+                  "id": "G2_U7_P3_W_04",
+                  "headword": "remember",
+                  "pronunciation": "/rimémbər/",
+                  "pos": "動",
+                  "meaning": "～を覚えている、～を記憶している"
+                },
+                {
+                  "id": "G2_U7_P3_W_05",
+                  "headword": "break",
+                  "pronunciation": "/bréik/",
+                  "pos": "名",
+                  "meaning": "小休止、休憩"
+                },
+                {
+                  "id": "G2_U7_P3_W_06",
+                  "headword": "overworked",
+                  "pronunciation": "/òuvərwə́ːrkt/",
+                  "pos": "形",
+                  "meaning": "働きすぎの"
+                },
+                {
+                  "id": "G2_U7_P3_W_07",
+                  "headword": "as",
+                  "pronunciation": "/æz, əz/",
+                  "pos": "接",
+                  "usage": "〔as ～ as … で〕",
+                  "meaning": "…と同じくらい～、…と同じように～",
+                  "note": "前のasは副詞"
+                },
+                {
+                  "id": "G2_U7_P3_W_08",
+                  "headword": "anybody",
+                  "pronunciation": "/énibὰdi/",
+                  "pos": "代",
+                  "meaning": "誰でも"
+                },
+                {
+                  "id": "G2_U7_P3_W_09",
+                  "headword": "acting",
+                  "pronunciation": "/ǽktiŋ/",
+                  "pos": "名",
+                  "meaning": "演技"
+                },
+                {
+                  "id": "G2_U7_P3_W_10",
+                  "headword": "hey",
+                  "pronunciation": "/héi/",
+                  "pos": "間",
+                  "meaning": "おい、ちょっと"
+                },
+                {
+                  "id": "G2_U7_P3_W_11",
+                  "headword": "calm",
+                  "pronunciation": "/kάːm/",
+                  "pos": "動",
+                  "meaning": "静まる、落ち着く"
+                },
+                {
+                  "id": "G2_U7_P3_W_12",
+                  "headword": "down",
+                  "pronunciation": "/dáun/",
+                  "pos": "副",
+                  "meaning": "（勢いが）落ちて、抑えて、落ち着いて"
+                },
+                {
+                  "id": "G2_U7_P3_W_13",
+                  "headword": "two",
+                  "pronunciation": "/túː/",
+                  "pos": "名",
+                  "usage": "〔代名詞的に〕",
+                  "meaning": "2人"
+                },
+                {
+                  "id": "G2_U7_P3_W_14",
+                  "headword": "blow one's lines",
+                  "meaning": "せりふを忘れる"
+                },
+                {
+                  "id": "G2_U7_P3_W_15",
+                  "headword": "take a break",
+                  "meaning": "ひと休みする"
+                },
+                {
+                  "id": "G2_U7_P3_W_16",
+                  "headword": "calm down",
+                  "meaning": "落ち着く"
+                },
+                {
+                  "id": "G2_U7_P3_W_17",
+                  "headword": "serious",
+                  "pronunciation": "/síəriəs/",
+                  "pos": "形",
+                  "meaning": "まじめな、シリアスな、本格的な"
+                }
+              ],
+              "content_blocks": [],
+              "page": "150-151"
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "dialogue_section",
+                  "header": "本番2日前に… (p.150 / 教科書p.96)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3_S_Q1",
+                      "speaker": "Question",
+                      "en": "Q. Hajin は、何が問題だと言っているでしょうか。",
+                      "ja": "Q. ハジンは、何が問題だと言っているでしょうか。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_A1",
+                      "speaker": "Answer",
+                      "tag": "例",
+                      "en": "A. (例) 劇の台本。",
+                      "ja": "A. (例) 劇の台本。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_01",
+                      "ref_num": "①",
+                      "speaker": "Setting",
+                      "en": "The students are rehearsing their play:",
+                      "ja": "生徒たちが劇のリハーサルをしています："
+                    },
+                    {
+                      "id": "G2_U7_P3_S_02",
+                      "ref_num": "②",
+                      "speaker": "Eri",
+                      "en": "Kota, you blew your lines again!",
+                      "ja": "コウタ、またセリフを忘れたよ！"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_03",
+                      "ref_num": "③",
+                      "speaker": "Kota",
+                      "en": "Sorry, but there're too many lines.",
+                      "ja": "ごめん、でもセリフが多すぎるんだ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_04",
+                      "ref_num": "④",
+                      "speaker": "Kota",
+                      "en": "I can't remember them.",
+                      "ja": "覚えられないよ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_05",
+                      "ref_num": "⑤",
+                      "speaker": "Eri",
+                      "en": "OK, let's do it again.",
+                      "ja": "さあ、もう1回やろう。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_06",
+                      "ref_num": "⑥",
+                      "speaker": "Hajin",
+                      "en": "Let's take a break.",
+                      "ja": "休憩を取ろうよ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_07",
+                      "ref_num": "⑦",
+                      "speaker": "Hajin",
+                      "en": "Kota is overworked.",
+                      "ja": "コウタはがんばりすぎだ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_08",
+                      "ref_num": "⑧",
+                      "speaker": "Eri",
+                      "en": "We all are as tired as Kota, but we need to do it again now!",
+                      "ja": "みんなコウタと同じくらい疲れてるよ、でも今もう一回やらないと！"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_09",
+                      "ref_num": "⑨",
+                      "speaker": "Eri",
+                      "en": "Kota needs more practice.",
+                      "ja": "コウタはもっと練習が必要だよ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_10",
+                      "ref_num": "⑩",
+                      "speaker": "Eri",
+                      "en": "You too, Hajin.",
+                      "ja": "ハジンもね。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_11",
+                      "ref_num": "⑪",
+                      "speaker": "Hajin",
+                      "en": "We're trying as hard as anybody else.",
+                      "ja": "ぼくたちはみんな他の誰にも負けないくらい頑張っているよ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_12",
+                      "ref_num": "⑫",
+                      "speaker": "Hajin",
+                      "en": "Maybe the script is the problem.",
+                      "ja": "もしかしたら台本が問題なのかもしれない。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_13",
+                      "ref_num": "⑬",
+                      "speaker": "Eri",
+                      "en": "What did you say?",
+                      "ja": "何ですって。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_14",
+                      "ref_num": "⑭",
+                      "speaker": "Eri",
+                      "en": "Maybe your acting is the problem.",
+                      "ja": "たぶんあなた（たち）の演技が問題なんだよ。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_15",
+                      "ref_num": "⑮",
+                      "speaker": "Hajin",
+                      "en": "What?",
+                      "ja": "何だって？"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_16",
+                      "ref_num": "⑯",
+                      "speaker": "Tina",
+                      "en": "Hey, calm down, you two.",
+                      "ja": "ちょっと、2人とも落ち着いて。"
+                    }
+                  ]
+                },
+                {
+                  "type": "listening_check_section",
+                  "header": "Listen: テレビ番組についての会話 (p.151 / 教科書p.97)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3_L_01",
+                      "label": "1. 見たい番組",
+                      "en": "Tina [ B ], Nick [ C ]",
+                      "ja": "ティナ［ B ］、ニック［ C ］"
+                    },
+                    {
+                      "id": "G2_U7_P3_L_02",
+                      "label": "2. いっしょに見る番組",
+                      "en": "A [ ], B [ ], C [✓]",
+                      "ja": "A［ ］、B［ ］、C［✓］"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_section",
+                  "header": "テレビ番組の評価表 (p.151 / 教科書p.97)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3_T_01",
+                      "label": "Sports Fan (スポーツファン)",
+                      "text": "interesting ★★, serious ★★, funny ★★"
+                    },
+                    {
+                      "id": "G2_U7_P3_T_02",
+                      "label": "Music Now (ミュージックナウ)",
+                      "text": "interesting ★★★, serious ★, funny ★"
+                    },
+                    {
+                      "id": "G2_U7_P3_T_03",
+                      "label": "Quiz Don Don (クイズドンドン)",
+                      "text": "interesting ★★, serious ★, funny ★★★"
+                    }
+                  ]
+                },
+                {
+                  "type": "practice_section",
+                  "header": "Speak: 番組当てクイズ (p.151 / 教科書p.97)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3_S_17",
+                      "speaker": "[例] A",
+                      "en": "This program is as interesting as Quiz Don Don. What is it?",
+                      "ja": "この番組は「クイズドンドン」と同じくらい興味深いです。それは何でしょう？"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_18",
+                      "speaker": "[例] B",
+                      "en": "Is it Sports Fan?",
+                      "ja": "それは「スポーツファン」ですか？"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_19",
+                      "speaker": "[例] A",
+                      "en": "That's right!",
+                      "ja": "正解です！"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_20",
+                      "speaker": "[解答例] A",
+                      "en": "This program is as serious as Music Now. What is it?",
+                      "ja": "この番組は「ミュージックナウ」と同じくらいまじめです。それは何でしょう？"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_21",
+                      "speaker": "[解答例] B",
+                      "en": "Is it Quiz Don Don?",
+                      "ja": "それは「クイズドンドン」ですか？"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_22",
+                      "speaker": "[解答例] A",
+                      "en": "That's right!",
+                      "ja": "正解です！"
+                    }
+                  ]
+                },
+                {
+                  "type": "writing_section",
+                  "header": "Write: 番組を紹介する文 (p.151 / 教科書p.97)",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3_S_23",
+                      "speaker": "[例]",
+                      "en": "Sports Fan is as interesting as Quiz Don Don.",
+                      "ja": "『スポーツファン』は「クイズドンドン」と同じくらい興味深いです。"
+                    },
+                    {
+                      "id": "G2_U7_P3_S_24",
+                      "speaker": "[解答例]",
+                      "en": "Quiz Don Don is as serious as Music Now.",
+                      "ja": "『クイズドンドン』は「ミュージックナウ」と同じくらいまじめです。"
+                    }
+                  ]
+                }
+              ],
+              "page": "150-151"
+            },
+            "GRAMMAR": {
+              "items": [
+                {
+                  "id": "G2_U7_P3_K_01",
+                  "en": "We're ==**as tired as**== Kota.",
+                  "ja": "私たちはコウタと同じくらい疲れています。",
+                  "ref_id": "G2_U7_P3_S_08"
+                },
+                {
+                  "id": "G2_U7_P3_K_02",
+                  "en": "We're ==**not as tired as**== Kota.",
+                  "ja": "私たちはコウタほど疲れていません。"
+                },
+                {
+                  "id": "G2_U7_P3_K_03",
+                  "en": "We're trying ==**as hard as**== Kota.",
+                  "ja": "私たちはコウタと同じくらい一生懸命やっています。",
+                  "ref_id": "G2_U7_P3_S_11"
+                }
+              ],
+              "content_blocks": [
+                {
+                  "type": "examples",
+                  "header": "基本文",
+                  "label": "同じくらいのものと比べて説明する。",
+                  "items": [
+                    {
+                      "ref_num": "①",
+                      "en": "We're ==**as tired as**== Kota.",
+                      "ja": "(私たちはコウタと同じくらい疲れています。)",
+                      "ref_id": "G2_U7_P3_K_01"
+                    },
+                    {
+                      "ref_num": "②",
+                      "en": "We're ==**not as tired as**== Kota.",
+                      "ja": "(私たちはコウタほど疲れていません。)",
+                      "ref_id": "G2_U7_P3_K_02"
+                    },
+                    {
+                      "ref_num": "③",
+                      "en": "We're trying ==**as hard as**== Kota.",
+                      "ja": "(私たちはコウタと同じくらい一生懸命やっています。)",
+                      "ref_id": "G2_U7_P3_K_03"
+                    }
+                  ]
+                },
+                {
+                  "type": "point",
+                  "header": "学習のポイント！",
+                  "label": "as ～ as ...",
+                  "text": "何かを比べて「…と同じくらい～」と説明するときは、形容詞や副詞を as と as の間に置いて、==**〈as ＋ 形容詞・副詞の原級 ＋ as ...〉**==の形で表します。否定文では、「…ほど～ではない」という意味になります。",
+                  "items": [
+                    {
+                      "tag": "肯定文",
+                      "en": "We're ==**as tired as**== Kota.",
+                      "ja": "私たちはコウタと同じくらい疲れています。",
+                      "note": "〈as ＋ 形容詞・副詞の原級 ＋ as〉"
+                    },
+                    {
+                      "tag": "否定文",
+                      "en": "We're ==**not as tired as**== Kota.",
+                      "ja": "私たちはコウタほど疲れていません。",
+                      "note": "〈not ＋ as ＋ 形容詞・副詞の原級 ＋ as〉"
+                    }
+                  ]
+                },
+                {
+                  "type": "explanation_list",
+                  "header": "本文の解説",
+                  "items": [
+                    {
+                      "id": "G2_U7_P3G_E_01",
+                      "ref_num": "②",
+                      "en": "Kota, you blew your lines again!",
+                      "text": "**blow one's lines** で、「せりふを忘れる」という意味を表します。動詞 blow は「～を飛ばす」という意味を持ちます。",
+                      "ref_id": "G2_U7_P3_S_02"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_02",
+                      "ref_num": "⑥",
+                      "en": "Let's take a break.",
+                      "text": "**take a break** で「ひと休みする」という意味の熟語です。break は「休憩」という意味を表す名詞です。",
+                      "ref_id": "G2_U7_P3_S_06"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_03",
+                      "ref_num": "⑧",
+                      "en": "We all are as tired as Kota, but we need to do it again now!",
+                      "text": "何かを比べて「…と同じくらい～」と説明するときは、==**〈as ＋ 形容詞・副詞の原級 ＋ as ...〉**==の形で表します。",
+                      "ref_id": "G2_U7_P3_S_08"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_04",
+                      "ref_num": "⑨",
+                      "en": "Kota needs more practice.",
+                      "text": "この文の **more** は「もっと、多く」という意味で、形容詞として practice を修飾しています。",
+                      "ref_id": "G2_U7_P3_S_09"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_05",
+                      "ref_num": "⑪",
+                      "en": "We're trying as hard as anybody else.",
+                      "text": "何かを比べて「…ほど～ではない」と説明するときは、==**〈not ＋ as ＋ 形容詞・副詞の原級 ＋ as ...〉**==の形で表します。肯定文との意味の違いに注意しましょう。",
+                      "ref_id": "G2_U7_P3_S_11"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_06",
+                      "ref_num": "⑬",
+                      "en": "What did you say?",
+                      "note": "→教科書p.96 Key Phrase",
+                      "text": "**What did you say?** で、「何だって。」という意味を表します。相手が言ったことを聞き返す表現です。",
+                      "ref_id": "G2_U7_P3_S_13"
+                    },
+                    {
+                      "id": "G2_U7_P3G_E_07",
+                      "ref_num": "⑯",
+                      "en": "Hey, calm down, you two.",
+                      "text": "**calm down** は「落ち着く」という意味を表す熟語です。高ぶった感情などを静まらせる意味を表すときに使われます。",
+                      "ref_id": "G2_U7_P3_S_16"
+                    }
+                  ]
+                }
+              ],
+              "page": 151,
+              "title": "Part 3 本文の解説"
+            }
+          },
+          "page": "96",
+          "textbook_page": "96",
+          "guide_page": ""
+        },
+        "ST": {
+          "title": "Start: Working Together",
+          "views": {
+            "VOCABULARY": {
+              "items": [
+                {
+                  "id": "G2_U7_ST_W_01",
+                  "headword": "perform",
+                  "pronunciation": "/pərfɔ́ːrm/",
+                  "pos": "動",
+                  "meaning": "～を上演する"
+                }
+              ],
+              "content_blocks": [],
+              "page": 145
+            },
+            "TEXT": {
+              "items": [],
+              "content_blocks": [
+                {
+                  "type": "goal_section",
+                  "header": "Unit 7 の目標 (Goal)",
+                  "label": "オリジナル劇を作ろう Working Together (団結すること)",
+                  "items": [
+                    {
+                      "tag": "Listen",
+                      "text": "ポスター案の説明を聞いて、おおまかな内容を捉えることができる。"
+                    },
+                    {
+                      "tag": "Speak",
+                      "text": "複数のポスター案を比べ、自分の意見とその理由を伝え合うことができる。"
+                    }
+                  ]
+                },
+                {
+                  "type": "intro_section",
+                  "header": "About You",
+                  "items": [
+                    {
+                      "id": "G2_U7_ST_S_01",
+                      "speaker": "Question",
+                      "en": "What school events do you like?",
+                      "ja": "あなたはどんな学校行事が好きですか。"
+                    },
+                    {
+                      "id": "G2_U7_ST_S_02",
+                      "speaker": "Answer",
+                      "tag": "例",
+                      "en": "I like sports days.",
+                      "ja": "私は体育祭が好きです。"
+                    }
+                  ]
+                },
+                {
+                  "type": "check_section",
+                  "header": "ストーリーのおおまかな内容をつかむ：1. 予想する",
+                  "items": [
+                    {
+                      "id": "G2_U7_ST_S_03",
+                      "speaker": "Question",
+                      "en": "What are Kota and his classmates going to perform?",
+                      "ja": "コウタと彼の同級生は何を上演する予定でしょうか。"
+                    },
+                    {
+                      "id": "G2_U7_ST_S_04",
+                      "speaker": "Answer",
+                      "tag": "例",
+                      "en": "They are going to perform a play.",
+                      "ja": "彼らは劇を上演する予定です。"
+                    }
+                  ]
+                },
+                {
+                  "type": "listening_guide_section",
+                  "header": "2. 音声を聞く",
+                  "items": [
+                    {
+                      "text": "上の予想が合っていたかを確かめましょう。"
+                    },
+                    {
+                      "text": "ピクチャーカードを場面順に並べかえましょう。"
+                    },
+                    {
+                      "tag": "場面1",
+                      "text": "ティナとエリが黒板を使ってマッピングをしている"
+                    },
+                    {
+                      "tag": "場面2",
+                      "text": "ティナとエリがコウタとハジンに台本について説明している"
+                    },
+                    {
+                      "tag": "場面3",
+                      "text": "ティナとエリがSF演劇の内容を伝え、コウタとハジンは困惑している"
+                    },
+                    {
+                      "tag": "場面4",
+                      "text": "演劇の練習中にエリがコウタに注意している"
+                    },
+                    {
+                      "tag": "場面5",
+                      "text": "演劇の練習中にエリとハジンが言い争いをしている"
+                    }
+                  ]
+                },
+                {
+                  "type": "viewing_guide_section",
+                  "header": "3. 映像を見る",
+                  "items": [
+                    {
+                      "text": "ストーリーの内容を確かめましょう。"
+                    }
+                  ]
+                }
+              ],
+              "page": 145
+            }
+          },
+          "page": "91",
+          "textbook_page": "91",
+          "guide_page": ""
+        }
+      },
+      "hasAppendix": true
+    }
+  },
+  "styles": null
+}
